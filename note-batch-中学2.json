@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "日本の冬の天気",
+  "titleContains": "神経と感覚の伝わり方",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "pCNQTPd0IXY",
-      "title": "【中２ 理科 地学】 日本の冬の天気 （１３分）",
+      "id": "UfyFeJvD5x4",
+      "title": "【中２ 理科 生物】 神経と感覚の伝わり方 （１７分）",
       "subject": "理科",
-      "unit": "日本の冬の天気",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pCNQTPd0IXY",
-      "durationLabel": "12:41"
+      "unit": "神経と感覚の伝わり方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UfyFeJvD5x4",
+      "durationLabel": "17:01"
     }
   ]
 }
