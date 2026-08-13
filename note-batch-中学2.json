@@ -1,16 +1,24 @@
 {
   "grade": "中学2年",
-  "titleContains": "天気図の読み方",
+  "titleContains": "be動詞の過去形",
   "selectedUnit": "混合単元",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "l-1xuxOnMdY",
-      "title": "【中２ 理科 地学】 天気図の読み方 （２０分）",
-      "subject": "理科",
-      "unit": "天気図の読み方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=l-1xuxOnMdY",
-      "durationLabel": "20:06"
+      "id": "Sj60y5OnHbQ",
+      "title": "【中２ 英語】 be動詞の過去形の意味と使い方 （１２分）",
+      "subject": "英語",
+      "unit": "be動詞の過去形の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Sj60y5OnHbQ",
+      "durationLabel": "12:06"
+    },
+    {
+      "id": "PmUurYQpePk",
+      "title": "【中２ 英語】 be動詞の過去形の否定、疑問文 （１６分）",
+      "subject": "英語",
+      "unit": "be動詞の過去形の否定、疑問文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PmUurYQpePk",
+      "durationLabel": "15:42"
     }
   ]
 }
