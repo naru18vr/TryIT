@@ -1,7 +1,8 @@
 {
   "grade": "中学2年",
-  "selectedUnit": "１次関数１ y=ax＋b",
-  "count": 1,
+  "titleContains": "１次関数",
+  "selectedUnit": "混合単元",
+  "count": 15,
   "items": [
     {
       "id": "k6le7bIfMi0",
@@ -10,6 +11,118 @@
       "unit": "１次関数１ y=ax＋b",
       "youtubeUrl": "https://www.youtube.com/watch?v=k6le7bIfMi0",
       "durationLabel": "9:09"
+    },
+    {
+      "id": "7-dw9mL7_P8",
+      "title": "【中２ 数学】 １次関数２ 変化の割合 （５分）",
+      "subject": "数学",
+      "unit": "１次関数２ 変化の割合",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7-dw9mL7_P8",
+      "durationLabel": "5:09"
+    },
+    {
+      "id": "2bj9O9LRHdc",
+      "title": "【中２ 数学】 １次関数３ グラフの書き方１ （６分）",
+      "subject": "数学",
+      "unit": "１次関数３ グラフの書き方１",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2bj9O9LRHdc",
+      "durationLabel": "6:28"
+    },
+    {
+      "id": "-0XVY0DiPEA",
+      "title": "【中２ 数学】 １次関数４ 傾きと切片 （５分）",
+      "subject": "数学",
+      "unit": "１次関数４ 傾きと切片",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-0XVY0DiPEA",
+      "durationLabel": "5:02"
+    },
+    {
+      "id": "rKKOaFFPNp8",
+      "title": "【中２ 数学】 １次関数１５ 文章題（動点） （１６分）",
+      "subject": "数学",
+      "unit": "１次関数１５ 文章題",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rKKOaFFPNp8",
+      "durationLabel": "16:29"
+    },
+    {
+      "id": "sQD65tl6mVo",
+      "title": "【中２ 数学】 １次関数１３ 文章題（基礎） （１４分）",
+      "subject": "数学",
+      "unit": "１次関数１３ 文章題",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sQD65tl6mVo",
+      "durationLabel": "14:16"
+    },
+    {
+      "id": "WYVD1F2VBHg",
+      "title": "【中２ 数学】 １次関数１４ 文章題（速さ） （１１分）",
+      "subject": "数学",
+      "unit": "１次関数１４ 文章題",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WYVD1F2VBHg",
+      "durationLabel": "11:19"
+    },
+    {
+      "id": "Juoc2EHIfLc",
+      "title": "【中２ 数学】 １次関数１２ 連立方程式 （１０分）",
+      "subject": "数学",
+      "unit": "１次関数１２ 連立方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Juoc2EHIfLc",
+      "durationLabel": "10:19"
+    },
+    {
+      "id": "sxY7cNTYWlk",
+      "title": "【中２ 数学】 １次関数９ 直線の式３ （９分）",
+      "subject": "数学",
+      "unit": "１次関数９ 直線の式３",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sxY7cNTYWlk",
+      "durationLabel": "8:40"
+    },
+    {
+      "id": "pR8V7XPGJqQ",
+      "title": "【中２ 数学】 １次関数５ グラフの書き方２ （５分）",
+      "subject": "数学",
+      "unit": "１次関数５ グラフの書き方２",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pR8V7XPGJqQ",
+      "durationLabel": "5:26"
+    },
+    {
+      "id": "drUTcjNL7Nw",
+      "title": "【中２ 数学】 １次関数１１ ２元１次方程式２ （４分）",
+      "subject": "数学",
+      "unit": "１次関数１１ ２元１次方程式２",
+      "youtubeUrl": "https://www.youtube.com/watch?v=drUTcjNL7Nw",
+      "durationLabel": "4:22"
+    },
+    {
+      "id": "J1np6kJqn3M",
+      "title": "【中２ 数学】 １次関数１０ ２元１次方程式１ （７分）",
+      "subject": "数学",
+      "unit": "１次関数１０ ２元１次方程式１",
+      "youtubeUrl": "https://www.youtube.com/watch?v=J1np6kJqn3M",
+      "durationLabel": "6:44"
+    },
+    {
+      "id": "lOg9nxLaeI8",
+      "title": "【中２ 数学】 １次関数６ 変域 （７分）",
+      "subject": "数学",
+      "unit": "１次関数６ 変域",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lOg9nxLaeI8",
+      "durationLabel": "6:35"
+    },
+    {
+      "id": "lAIS6PBBFb0",
+      "title": "【中２ 数学】 １次関数７ 直線の式１ （７分）",
+      "subject": "数学",
+      "unit": "１次関数７ 直線の式１",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lAIS6PBBFb0",
+      "durationLabel": "6:53"
+    },
+    {
+      "id": "-CtZGg_aQLM",
+      "title": "【中２ 数学】 １次関数８ 直線の式２ （１０分）",
+      "subject": "数学",
+      "unit": "１次関数８ 直線の式２",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-CtZGg_aQLM",
+      "durationLabel": "10:05"
     }
   ]
 }

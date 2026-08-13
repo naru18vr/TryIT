@@ -25,7 +25,7 @@ const state = vi.hoisted(() => ({
   progress: { watchedCount: 3, totalVideos: 10, progressPercentage: 30, history: [] as Array<unknown> },
   progressError: false,
   refetchProgress: vi.fn(),
-  catalogInput: null as { grade?: string; subject?: string } | null,
+  catalogInput: null as { grade?: string; subject?: string; unit?: string } | null,
   markWatched: vi.fn(),
   startLogin: vi.fn(),
 }));
@@ -38,7 +38,7 @@ vi.mock("@/lib/trpc", () => ({
     useUtils: () => ({ catalog: { get: { invalidate: vi.fn() }, list: { invalidate: vi.fn() } }, learning: { myProgress: { invalidate: vi.fn() } } }),
     catalog: {
       filters: { useQuery: () => ({ data: state.filters }) },
-      list: { useQuery: (input: { grade?: string; subject?: string }) => { state.catalogInput = input; return { data: state.catalog, isLoading: false }; } },
+      list: { useQuery: (input: { grade?: string; subject?: string; unit?: string }) => { state.catalogInput = input; return { data: state.catalog, isLoading: false }; } },
       get: { useQuery: () => ({ data: state.video, isLoading: false }) },
       markWatched: { useMutation: () => ({ mutate: state.markWatched, isPending: false }) },
     },
@@ -71,6 +71,32 @@ describe("learning page rendering", () => {
     expect(screen.getByText("視聴済み")).toBeTruthy();
     fireEvent.click(screen.getByRole("button", { name: "高校・数学" }));
     expect(state.catalogInput).toMatchObject({ grade: "高校", subject: "数学" });
+  });
+
+  it("applies a grade selected in the filter to the catalog query", () => {
+    render(<Home />);
+
+    fireEvent.change(screen.getByLabelText("学年を選ぶ"), { target: { value: "高校" } });
+
+    expect(state.catalogInput).toMatchObject({ grade: "高校" });
+  });
+
+  it("updates the catalog query through grade, subject, and unit selections", () => {
+    const consoleError = vi.spyOn(console, "error").mockImplementation(() => undefined);
+
+    render(<Home />);
+
+    fireEvent.change(screen.getByLabelText("学年を選ぶ"), { target: { value: "高校" } });
+    fireEvent.change(screen.getByLabelText("教科を選ぶ"), { target: { value: "数学" } });
+    fireEvent.change(screen.getByLabelText("単元を選ぶ"), { target: { value: "二次関数" } });
+
+    expect(state.catalogInput).toMatchObject({
+      grade: "高校",
+      subject: "数学",
+      unit: "二次関数",
+    });
+    expect(consoleError).not.toHaveBeenCalled();
+    consoleError.mockRestore();
   });
 
   it("renders watched count and percentage on the authenticated learning page", () => {

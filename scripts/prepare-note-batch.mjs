@@ -3,12 +3,15 @@ import fs from "node:fs";
 const grade = process.env.GRADE ?? "中学2年";
 const maxItems = Number(process.env.LIMIT ?? 10);
 const requestedUnit = process.env.UNIT;
+const titleContains = process.env.TITLE_CONTAINS;
 const catalogSource = fs.readFileSync("/home/ubuntu/tryit-learning-companion/server/data/tryitCatalog.ts", "utf8");
 const match = catalogSource.match(/export const TRYIT_CATALOG: TryItCatalogItem\[\] = (\[.*?\]);\nexport const TRYIT_GRADES/s);
 if (!match) throw new Error("カタログを読み取れませんでした。");
 
 const catalog = JSON.parse(match[1]);
-const candidates = catalog.filter((item) => item.grade === grade);
+const candidates = catalog.filter((item) =>
+  item.grade === grade && (!titleContains || item.title.includes(titleContains)),
+);
 const byUnit = new Map();
 for (const item of candidates) {
   const items = byUnit.get(item.unit) ?? [];
@@ -32,6 +35,7 @@ const selectedUnit = requestedUnit && byUnit.has(requestedUnit)
 const items = (selectedUnit ? byUnit.get(selectedUnit) : candidates).slice(0, maxItems);
 const batch = {
   grade,
+  titleContains: titleContains ?? null,
   selectedUnit: selectedUnit ?? "混合単元",
   count: items.length,
   items: items.map(({ id, title, subject, unit, youtubeUrl, durationLabel }) => ({ id, title, subject, unit, youtubeUrl, durationLabel })),

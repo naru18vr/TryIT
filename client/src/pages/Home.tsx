@@ -2,13 +2,6 @@ import { useAuth } from "@/_core/hooks/useAuth";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import { startLogin } from "@/const";
 import { ALL_FILTER_VALUE, buildCatalogQuery, getVideoCardState } from "@/lib/learningPresentation";
 import { trpc } from "@/lib/trpc";
@@ -183,9 +176,9 @@ export default function Home() {
             <div className="mt-9 rounded-[22px] border border-[#17372f]/10 bg-[#f8f6f1] p-4 shadow-[0_12px_35px_rgba(41,57,49,0.05)] sm:p-5">
               <div className="grid gap-3 lg:grid-cols-[1.35fr_0.65fr_0.65fr_0.65fr]">
                 <div className="relative"><Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-[#819088]" /><Input value={query} onChange={(event) => { setQuery(event.target.value); resetPage(); }} placeholder="キーワードで探す（例：二次関数、鎌倉幕府）" className="h-12 rounded-xl border-[#17372f]/10 bg-white pl-11 text-[#17372f] placeholder:text-[#98a29b] focus-visible:ring-[#b77a25]" /></div>
-                <Select value={grade} onValueChange={setGradeFilter}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="学年を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての学年</SelectItem>{filtersQuery.data?.grades.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
-                <Select value={subject} onValueChange={setSubjectFilter} disabled={grade === ALL_FILTER_VALUE}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="教科を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての教科</SelectItem>{activeSubjects.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
-                <Select value={unit} onValueChange={(value) => { setUnit(value); resetPage(); }} disabled={grade === ALL_FILTER_VALUE || subject === ALL_FILTER_VALUE}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="単元を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての単元</SelectItem>{activeUnits.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
+                <label className="sr-only" htmlFor="grade-filter">学年を選ぶ</label><select id="grade-filter" value={grade} onChange={(event) => setGradeFilter(event.target.value)} className="h-12 rounded-xl border border-[#17372f]/10 bg-white px-3 text-sm text-[#17372f] outline-none transition focus:border-[#b77a25] focus:ring-2 focus:ring-[#b77a25]/20"><option value={ALL_FILTER_VALUE}>すべての学年</option>{filtersQuery.data?.grades.map((item) => <option key={item} value={item}>{item}</option>)}</select>
+                <label className="sr-only" htmlFor="subject-filter">教科を選ぶ</label><select id="subject-filter" value={subject} onChange={(event) => setSubjectFilter(event.target.value)} disabled={grade === ALL_FILTER_VALUE} className="h-12 rounded-xl border border-[#17372f]/10 bg-white px-3 text-sm text-[#17372f] outline-none transition focus:border-[#b77a25] focus:ring-2 focus:ring-[#b77a25]/20 disabled:cursor-not-allowed disabled:bg-[#edf0ea] disabled:text-[#829087]"><option value={ALL_FILTER_VALUE}>すべての教科</option>{activeSubjects.map((item) => <option key={item} value={item}>{item}</option>)}</select>
+                <label className="sr-only" htmlFor="unit-filter">単元を選ぶ</label><select id="unit-filter" value={unit} onChange={(event) => { setUnit(event.target.value); resetPage(); }} disabled={grade === ALL_FILTER_VALUE || subject === ALL_FILTER_VALUE} className="h-12 rounded-xl border border-[#17372f]/10 bg-white px-3 text-sm text-[#17372f] outline-none transition focus:border-[#b77a25] focus:ring-2 focus:ring-[#b77a25]/20 disabled:cursor-not-allowed disabled:bg-[#edf0ea] disabled:text-[#829087]"><option value={ALL_FILTER_VALUE}>すべての単元</option>{activeUnits.map((item) => <option key={item} value={item}>{item}</option>)}</select>
               </div>
               <div className="mt-4 flex flex-wrap items-center gap-2">
                 <span className="mr-1 text-xs font-semibold text-[#77847c]">よく探す授業</span>
