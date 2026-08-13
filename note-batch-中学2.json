@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "血液の成分",
+  "titleContains": "神経と感覚",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "CQuAsX4GKpw",
-      "title": "【中２ 理科 生物】 血液の成分と役割 （１７分）",
+      "id": "UfyFeJvD5x4",
+      "title": "【中２ 理科 生物】 神経と感覚の伝わり方 （１７分）",
       "subject": "理科",
-      "unit": "血液の成分と役割",
-      "youtubeUrl": "https://www.youtube.com/watch?v=CQuAsX4GKpw",
-      "durationLabel": "17:28"
+      "unit": "神経と感覚の伝わり方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UfyFeJvD5x4",
+      "durationLabel": "17:01"
     }
   ]
 }
