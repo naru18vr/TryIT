@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "磁界と磁界",
+  "titleContains": "日本の冬",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "HiCMbLJiX0c",
-      "title": "【中２ 理科 物理】 磁界と磁界の向き （１５分）",
+      "id": "pCNQTPd0IXY",
+      "title": "【中２ 理科 地学】 日本の冬の天気 （１３分）",
       "subject": "理科",
-      "unit": "磁界と磁界の向き",
-      "youtubeUrl": "https://www.youtube.com/watch?v=HiCMbLJiX0c",
-      "durationLabel": "14:53"
+      "unit": "日本の冬の天気",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pCNQTPd0IXY",
+      "durationLabel": "12:41"
     }
   ]
 }
