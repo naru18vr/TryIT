@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "磁界と磁界の向き",
+  "titleContains": "右ねじの法則とコイル",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "HiCMbLJiX0c",
-      "title": "【中２ 理科 物理】 磁界と磁界の向き （１５分）",
+      "id": "KYvxaxfXZec",
+      "title": "【中２ 理科 物理】 右ねじの法則とコイル （１６分）",
       "subject": "理科",
-      "unit": "磁界と磁界の向き",
-      "youtubeUrl": "https://www.youtube.com/watch?v=HiCMbLJiX0c",
-      "durationLabel": "14:53"
+      "unit": "右ねじの法則とコイル",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KYvxaxfXZec",
+      "durationLabel": "16:23"
     }
   ]
 }
