@@ -1,24 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "セキツイ動物",
+  "titleContains": "天気図の読み方",
   "selectedUnit": "混合単元",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "id": "4ON-xok8c6A",
-      "title": "【中２ 理科 生物】 無セキツイ動物の分類 （１３分）",
+      "id": "l-1xuxOnMdY",
+      "title": "【中２ 理科 地学】 天気図の読み方 （２０分）",
       "subject": "理科",
-      "unit": "無セキツイ動物の分類",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4ON-xok8c6A",
-      "durationLabel": "12:41"
-    },
-    {
-      "id": "-nRcGCa2sZ0",
-      "title": "【中２ 理科 生物】 セキツイ動物の分類 （２３分）",
-      "subject": "理科",
-      "unit": "セキツイ動物の分類",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-nRcGCa2sZ0",
-      "durationLabel": "22:39"
+      "unit": "天気図の読み方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=l-1xuxOnMdY",
+      "durationLabel": "20:06"
     }
   ]
 }
