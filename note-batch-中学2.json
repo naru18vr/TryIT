@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "動名詞",
+  "titleContains": "天気記号",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "R6_1_wbvu30",
-      "title": "【中２ 英語】 動名詞(動詞 + ing)の使い方 （２１分）",
-      "subject": "英語",
-      "unit": "動名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=R6_1_wbvu30",
-      "durationLabel": "20:40"
+      "id": "ERJqKJJG5LY",
+      "title": "【中２ 理科 地学】 天気記号の表し方 （１８分）",
+      "subject": "理科",
+      "unit": "天気記号の表し方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ERJqKJJG5LY",
+      "durationLabel": "18:05"
     }
   ]
 }
