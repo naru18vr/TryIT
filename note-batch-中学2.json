@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "化学変化と温度変化",
+  "titleContains": "動名詞",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "gUcY1Jq9sZ0",
-      "title": "【中２ 理科 化学】 化学変化と温度変化 （１２分）",
-      "subject": "理科",
-      "unit": "化学変化と温度変化",
-      "youtubeUrl": "https://www.youtube.com/watch?v=gUcY1Jq9sZ0",
-      "durationLabel": "11:34"
+      "id": "R6_1_wbvu30",
+      "title": "【中２ 英語】 動名詞(動詞 + ing)の使い方 （２１分）",
+      "subject": "英語",
+      "unit": "動名詞",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R6_1_wbvu30",
+      "durationLabel": "20:40"
     }
   ]
 }
