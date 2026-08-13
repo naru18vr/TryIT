@@ -43,3 +43,4 @@ be動詞の過去形、There is／There are、二重目的語、if／when節、�
 [7]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/comparative-adjectives "British Council: comparative adjectives"
 [8]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/conditionals "British Council: conditionals"
 [9]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/ri.htm "文部科学省：中学校学習指導要領 理科"
+[10]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/past-continuous-past-simple "British Council: past continuous and past simple"

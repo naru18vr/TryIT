@@ -1,16 +1,24 @@
 {
   "grade": "中学2年",
-  "titleContains": "炭酸水素ナトリウムの分解",
+  "titleContains": "過去進行形",
   "selectedUnit": "混合単元",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "Um3LZc8dfwM",
-      "title": "【中２ 理科 化学】 炭酸水素ナトリウムの分解 （１７分）",
-      "subject": "理科",
-      "unit": "炭酸水素ナトリウムの分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Um3LZc8dfwM",
-      "durationLabel": "16:51"
+      "id": "l-4l_9gcouY",
+      "title": "【中２ 英語】 過去進行形の意味と使い方 （１２分）",
+      "subject": "英語",
+      "unit": "過去進行形の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=l-4l_9gcouY",
+      "durationLabel": "11:42"
+    },
+    {
+      "id": "LKoi0Y6Fxms",
+      "title": "【中２ 英語】 過去進行形の否定文、疑問文 （１６分）",
+      "subject": "英語",
+      "unit": "過去進行形の否定文、疑問文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LKoi0Y6Fxms",
+      "durationLabel": "16:03"
     }
   ]
 }
