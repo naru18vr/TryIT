@@ -1,16 +1,24 @@
 {
   "grade": "中学2年",
-  "titleContains": "電気回路と記号",
+  "titleContains": "セキツイ動物",
   "selectedUnit": "混合単元",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "FC5vrSoNuhM",
-      "title": "【中２ 理科 物理】 電気回路と記号 （２０分）",
+      "id": "4ON-xok8c6A",
+      "title": "【中２ 理科 生物】 無セキツイ動物の分類 （１３分）",
       "subject": "理科",
-      "unit": "電気回路と記号",
-      "youtubeUrl": "https://www.youtube.com/watch?v=FC5vrSoNuhM",
-      "durationLabel": "19:32"
+      "unit": "無セキツイ動物の分類",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4ON-xok8c6A",
+      "durationLabel": "12:41"
+    },
+    {
+      "id": "-nRcGCa2sZ0",
+      "title": "【中２ 理科 生物】 セキツイ動物の分類 （２３分）",
+      "subject": "理科",
+      "unit": "セキツイ動物の分類",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-nRcGCa2sZ0",
+      "durationLabel": "22:39"
     }
   ]
 }
