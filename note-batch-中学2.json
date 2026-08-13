@@ -1,24 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "be動詞の過去形",
+  "titleContains": "磁界と磁界の向き",
   "selectedUnit": "混合単元",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "id": "Sj60y5OnHbQ",
-      "title": "【中２ 英語】 be動詞の過去形の意味と使い方 （１２分）",
-      "subject": "英語",
-      "unit": "be動詞の過去形の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Sj60y5OnHbQ",
-      "durationLabel": "12:06"
-    },
-    {
-      "id": "PmUurYQpePk",
-      "title": "【中２ 英語】 be動詞の過去形の否定、疑問文 （１６分）",
-      "subject": "英語",
-      "unit": "be動詞の過去形の否定、疑問文",
-      "youtubeUrl": "https://www.youtube.com/watch?v=PmUurYQpePk",
-      "durationLabel": "15:42"
+      "id": "HiCMbLJiX0c",
+      "title": "【中２ 理科 物理】 磁界と磁界の向き （１５分）",
+      "subject": "理科",
+      "unit": "磁界と磁界の向き",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HiCMbLJiX0c",
+      "durationLabel": "14:53"
     }
   ]
 }
