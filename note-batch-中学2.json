@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "Can you",
+  "titleContains": "雲ができる",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "DudiPMI12D8",
-      "title": "【中２ 英語】 Can you ～ ? の意味と使い方 （１５分）",
-      "subject": "英語",
-      "unit": "Can you ～ ? の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=DudiPMI12D8",
-      "durationLabel": "15:13"
+      "id": "4hIn6h_FIG4",
+      "title": "【中２ 理科 地学】 雲ができるしくみ （１９分）",
+      "subject": "理科",
+      "unit": "雲ができるしくみ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4hIn6h_FIG4",
+      "durationLabel": "19:17"
     }
   ]
 }
