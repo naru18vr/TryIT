@@ -1,16 +1,32 @@
 {
   "grade": "中学2年",
-  "titleContains": "進化と相同器官",
-  "selectedUnit": "混合単元",
-  "count": 1,
+  "titleContains": "オームの法則",
+  "selectedUnit": "オームの法則の計算",
+  "count": 3,
   "items": [
     {
-      "id": "noPPhlbsRKI",
-      "title": "【中２ 理科 生物】 進化と相同器官 （１６分）",
+      "id": "egd6ETX8Bdw",
+      "title": "【中２ 理科 物理】 オームの法則の計算（直列） （１４分）",
       "subject": "理科",
-      "unit": "進化と相同器官",
-      "youtubeUrl": "https://www.youtube.com/watch?v=noPPhlbsRKI",
-      "durationLabel": "15:45"
+      "unit": "オームの法則の計算",
+      "youtubeUrl": "https://www.youtube.com/watch?v=egd6ETX8Bdw",
+      "durationLabel": "14:28"
+    },
+    {
+      "id": "7j3-d6awOd0",
+      "title": "【中２ 理科 物理】 オームの法則の計算（２３分）",
+      "subject": "理科",
+      "unit": "オームの法則の計算",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7j3-d6awOd0",
+      "durationLabel": "23:06"
+    },
+    {
+      "id": "Q9Z9b_K57_g",
+      "title": "【中２ 理科 物理】 オームの法則の計算（並列） （２０分）",
+      "subject": "理科",
+      "unit": "オームの法則の計算",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q9Z9b_K57_g",
+      "durationLabel": "20:30"
     }
   ]
 }
