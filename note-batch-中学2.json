@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "硫黄と鉄の化合",
+  "titleContains": "日本の冬の天気",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "fmpUzQjfWSs",
-      "title": "【中２ 理科 化学】 硫黄と鉄の化合 （１５分）",
+      "id": "pCNQTPd0IXY",
+      "title": "【中２ 理科 地学】 日本の冬の天気 （１３分）",
       "subject": "理科",
-      "unit": "硫黄と鉄の化合",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fmpUzQjfWSs",
-      "durationLabel": "15:19"
+      "unit": "日本の冬の天気",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pCNQTPd0IXY",
+      "durationLabel": "12:41"
     }
   ]
 }
