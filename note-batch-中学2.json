@@ -1,0 +1,87 @@
+{
+  "grade": "中学2年",
+  "selectedUnit": "確率",
+  "count": 10,
+  "items": [
+    {
+      "id": "_VqmrxFmLUQ",
+      "title": "【中２ 数学】 確率１ 確率とは？ （３分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_VqmrxFmLUQ",
+      "durationLabel": "2:54"
+    },
+    {
+      "id": "nT-OIUAb83s",
+      "title": "【中２ 数学】 確率３ 確率の求め方 （６分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nT-OIUAb83s",
+      "durationLabel": "5:56"
+    },
+    {
+      "id": "Ve0QoVdPhus",
+      "title": "【中２ 数学】 確率２ 相対度数 （６分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ve0QoVdPhus",
+      "durationLabel": "6:01"
+    },
+    {
+      "id": "UzvVvfOMrzo",
+      "title": "【中２ 数学】 確率４ 確率が１、確率が０ （５分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UzvVvfOMrzo",
+      "durationLabel": "5:00"
+    },
+    {
+      "id": "TVVgp_VqDGA",
+      "title": "【中２ 数学】 確率６ 組合せ （７分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TVVgp_VqDGA",
+      "durationLabel": "6:36"
+    },
+    {
+      "id": "M3E3j7VrBr4",
+      "title": "【中２ 数学】 確率５ 樹形図 （１０分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M3E3j7VrBr4",
+      "durationLabel": "10:11"
+    },
+    {
+      "id": "qmtK8YrR9xE",
+      "title": "【中２ 数学】 確率７ くじびき （５分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qmtK8YrR9xE",
+      "durationLabel": "4:51"
+    },
+    {
+      "id": "uuNeOL8eM7I",
+      "title": "【中２ 数学】 確率９ 少なくとも～の確率 （１０分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uuNeOL8eM7I",
+      "durationLabel": "9:31"
+    },
+    {
+      "id": "17kTnViGl-Y",
+      "title": "【中２ 数学】 確率８ ～でない確率 （７分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=17kTnViGl-Y",
+      "durationLabel": "6:39"
+    },
+    {
+      "id": "jcA86Nt6tJE",
+      "title": "【中２ 数学】 確率１０ 大小２つのサイコロ （１４分）",
+      "subject": "数学",
+      "unit": "確率",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jcA86Nt6tJE",
+      "durationLabel": "13:27"
+    }
+  ]
+}
