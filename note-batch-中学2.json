@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "雲ができる",
+  "titleContains": "１日の気温と湿度",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "4hIn6h_FIG4",
-      "title": "【中２ 理科 地学】 雲ができるしくみ （１９分）",
+      "id": "Sv4TT1jdO0Y",
+      "title": "【中２ 理科 地学】 １日の気温と湿度の変化 （１８分）",
       "subject": "理科",
-      "unit": "雲ができるしくみ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4hIn6h_FIG4",
-      "durationLabel": "19:17"
+      "unit": "１日の気温と湿度の変化",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Sv4TT1jdO0Y",
+      "durationLabel": "17:57"
     }
   ]
 }
