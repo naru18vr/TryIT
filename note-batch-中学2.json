@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "電流計と電圧計",
+  "titleContains": "化学変化と温度変化",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "smHV7oqdYwY",
-      "title": "【中２ 理科 物理】 電流計と電圧計の使い方 （２７分）",
+      "id": "gUcY1Jq9sZ0",
+      "title": "【中２ 理科 化学】 化学変化と温度変化 （１２分）",
       "subject": "理科",
-      "unit": "電流計と電圧計の使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=smHV7oqdYwY",
-      "durationLabel": "26:48"
+      "unit": "化学変化と温度変化",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gUcY1Jq9sZ0",
+      "durationLabel": "11:34"
     }
   ]
 }
