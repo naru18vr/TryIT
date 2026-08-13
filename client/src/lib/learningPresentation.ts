@@ -2,6 +2,7 @@ export const ALL_FILTER_VALUE = "__all__";
 
 export function buildCatalogQuery(input: {
   query: string;
+  grade: string;
   subject: string;
   unit: string;
   page: number;
@@ -9,6 +10,7 @@ export function buildCatalogQuery(input: {
 }) {
   return {
     query: input.query.trim() || undefined,
+    grade: input.grade === ALL_FILTER_VALUE ? undefined : input.grade,
     subject: input.subject === ALL_FILTER_VALUE ? undefined : input.subject,
     unit: input.unit === ALL_FILTER_VALUE ? undefined : input.unit,
     page: input.page,

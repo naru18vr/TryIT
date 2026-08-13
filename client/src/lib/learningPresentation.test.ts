@@ -10,21 +10,23 @@ describe("learning presentation state", () => {
   it("converts the all-filter UI state into an unfiltered catalog query", () => {
     expect(buildCatalogQuery({
       query: "  二次関数  ",
+      grade: ALL_FILTER_VALUE,
       subject: ALL_FILTER_VALUE,
       unit: ALL_FILTER_VALUE,
       page: 2,
       pageSize: 12,
-    })).toEqual({ query: "二次関数", subject: undefined, unit: undefined, page: 2, pageSize: 12 });
+    })).toEqual({ query: "二次関数", grade: undefined, subject: undefined, unit: undefined, page: 2, pageSize: 12 });
   });
 
   it("preserves selected subject and unit for filtered video search", () => {
     expect(buildCatalogQuery({
       query: "",
-      subject: "高校数学",
+      grade: "高校",
+      subject: "数学",
       unit: "二次関数",
       page: 1,
       pageSize: 12,
-    })).toMatchObject({ subject: "高校数学", unit: "二次関数" });
+    })).toMatchObject({ grade: "高校", subject: "数学", unit: "二次関数" });
   });
 
   it("shows a watched badge only for watched videos", () => {

@@ -1,4 +1,4 @@
-import { desc, eq } from "drizzle-orm";
+import { count, desc, eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
 import { InsertUser, users, videoNotes, watchHistory } from "../drizzle/schema";
 import { ENV } from './_core/env';
@@ -114,6 +114,14 @@ export async function upsertVideoNote(input: {
       updatedAt: new Date(),
     },
   });
+}
+
+export async function getVideoNoteCount() {
+  const db = await getDb();
+  if (!db) return 0;
+
+  const result = await db.select({ count: count() }).from(videoNotes);
+  return Number(result[0]?.count ?? 0);
 }
 
 export async function getUserWatchHistory(userId: number) {

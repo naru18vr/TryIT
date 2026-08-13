@@ -6,6 +6,7 @@ const mocks = vi.hoisted(() => ({
   getUserWatchHistory: vi.fn(),
   markVideoWatched: vi.fn(),
   getVideoNote: vi.fn(),
+  getVideoNoteCount: vi.fn(),
   upsertVideoNote: vi.fn(),
 }));
 
@@ -36,9 +37,11 @@ describe("Try IT learning APIs", () => {
     mocks.getUserWatchHistory.mockReset();
     mocks.markVideoWatched.mockReset();
     mocks.getVideoNote.mockReset();
+    mocks.getVideoNoteCount.mockReset();
     mocks.upsertVideoNote.mockReset();
     mocks.getUserWatchHistory.mockResolvedValue([]);
     mocks.getVideoNote.mockResolvedValue(undefined);
+    mocks.getVideoNoteCount.mockResolvedValue(1);
   });
 
   it("ships a direct URL for every catalog video and exposes subject filters", async () => {
@@ -48,19 +51,19 @@ describe("Try IT learning APIs", () => {
 
     const caller = appRouter.createCaller({ ...createContext(), user: null });
     const filters = await caller.catalog.filters();
-    expect(filters.subjects.length).toBeGreaterThan(5);
+    expect(filters.grades.length).toBeGreaterThan(3);
     expect(filters.totalVideos).toBe(TRYIT_CATALOG.length);
   });
 
   it("filters catalog videos and returns watched state for a signed-in learner", async () => {
-    const video = TRYIT_CATALOG.find((item) => item.subject === "高校数学")!;
+    const video = TRYIT_CATALOG.find((item) => item.grade === "高校" && item.subject === "数学")!;
     mocks.getUserWatchHistory.mockResolvedValue([{ videoId: video.id }]);
     const caller = appRouter.createCaller(createContext());
 
-    const result = await caller.catalog.list({ subject: "高校数学", page: 1, pageSize: 12 });
+    const result = await caller.catalog.list({ grade: "高校", subject: "数学", page: 1, pageSize: 12 });
 
     expect(result.total).toBeGreaterThan(0);
-    expect(result.items.every((item) => item.subject === "高校数学")).toBe(true);
+    expect(result.items.every((item) => item.grade === "高校" && item.subject === "数学")).toBe(true);
     expect(result.items.some((item) => item.id === video.id && item.isWatched)).toBe(true);
   });
 
@@ -86,5 +89,13 @@ describe("Try IT learning APIs", () => {
       videoId: video.id,
       updatedByUserId: 100,
     }));
+  });
+
+  it("reports the number of prepared preview-and-review notes", async () => {
+    const caller = appRouter.createCaller({ ...createContext(), user: null });
+    const result = await caller.notes.coverage();
+
+    expect(result).toEqual({ completed: 1, total: TRYIT_CATALOG.length, percentage: 0 });
+    expect(mocks.getVideoNoteCount).toHaveBeenCalledTimes(1);
   });
 });

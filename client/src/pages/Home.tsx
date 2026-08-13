@@ -35,18 +35,27 @@ function formatTotal(total?: number) {
 export default function Home() {
   const { user, isAuthenticated, loading } = useAuth();
   const [query, setQuery] = useState("");
+  const [grade, setGrade] = useState(ALL_FILTER_VALUE);
   const [subject, setSubject] = useState(ALL_FILTER_VALUE);
   const [unit, setUnit] = useState(ALL_FILTER_VALUE);
   const [page, setPage] = useState(1);
 
-  const filtersQuery = trpc.catalog.filters.useQuery();
-  const activeUnits = useMemo(
-    () => (subject === ALL_FILTER_VALUE ? [] : filtersQuery.data?.unitsBySubject[subject] ?? []),
-    [filtersQuery.data?.unitsBySubject, subject],
-  );
-  const catalogQuery = trpc.catalog.list.useQuery(buildCatalogQuery({ query, subject, unit, page, pageSize: 12 }));
+  const filtersQuery = trpc.catalog.filters.useQuery({
+    grade: grade === ALL_FILTER_VALUE ? undefined : grade,
+    subject: subject === ALL_FILTER_VALUE ? undefined : subject,
+  });
+  const noteCoverageQuery = trpc.notes.coverage.useQuery();
+  const activeSubjects = useMemo(() => filtersQuery.data?.subjects ?? [], [filtersQuery.data?.subjects]);
+  const activeUnits = useMemo(() => filtersQuery.data?.units ?? [], [filtersQuery.data?.units]);
+  const catalogQuery = trpc.catalog.list.useQuery(buildCatalogQuery({ query, grade, subject, unit, page, pageSize: 12 }));
 
   const resetPage = () => setPage(1);
+  const setGradeFilter = (value: string) => {
+    setGrade(value);
+    setSubject(ALL_FILTER_VALUE);
+    setUnit(ALL_FILTER_VALUE);
+    resetPage();
+  };
   const setSubjectFilter = (value: string) => {
     setSubject(value);
     setUnit(ALL_FILTER_VALUE);
@@ -103,7 +112,7 @@ export default function Home() {
                 <span className="text-[#b77a25]">明日の自信</span>になる。
               </h1>
               <p className="mt-7 max-w-xl text-[15px] leading-8 text-[#53665d] sm:text-base">
-                Try ITの公開動画を、科目・単元・キーワードで横断検索。視聴履歴と自分だけの進捗を残しながら、予習と復習を静かに積み重ねられる学習スペースです。
+                Try ITの正規授業動画を、学年・教科・単元・キーワードで検索。視聴履歴と自分だけの進捗を残しながら、予習と復習を静かに積み重ねられる学習スペースです。
               </p>
               <div className="mt-8 flex flex-wrap gap-3">
                 <Button onClick={() => document.getElementById("catalog")?.scrollIntoView({ behavior: "smooth" })} className="h-12 rounded-xl bg-[#17372f] px-5 text-white hover:bg-[#21483d]">
@@ -115,15 +124,20 @@ export default function Home() {
                   </Button>
                 </Link>
               </div>
-              <div className="mt-11 flex items-center gap-7 border-t border-[#17372f]/10 pt-6">
+              <div className="mt-11 flex flex-wrap items-center gap-7 border-t border-[#17372f]/10 pt-6">
                 <div>
                   <p className="font-serif-display text-3xl text-[#17372f]">{formatTotal(filtersQuery.data?.totalVideos)}</p>
                   <p className="mt-1 text-xs font-medium text-[#6d7d74]">公開動画を収録</p>
                 </div>
                 <div className="h-9 w-px bg-[#17372f]/10" />
                 <div>
-                  <p className="font-serif-display text-3xl text-[#17372f]">2</p>
-                  <p className="mt-1 text-xs font-medium text-[#6d7d74]">科目・単元で整理</p>
+                  <p className="font-serif-display text-3xl text-[#17372f]">3</p>
+                  <p className="mt-1 text-xs font-medium text-[#6d7d74]">学年・教科・単元で整理</p>
+                </div>
+                <div className="h-9 w-px bg-[#17372f]/10" />
+                <div>
+                  <p className="font-serif-display text-3xl text-[#17372f]">{noteCoverageQuery.data?.completed ?? "…"}</p>
+                  <p className="mt-1 text-xs font-medium text-[#6d7d74]">予習・復習ノートを確認済み</p>
                 </div>
               </div>
             </div>
@@ -163,18 +177,19 @@ export default function Home() {
                 <p className="text-xs font-bold tracking-[0.2em] text-[#b77a25]">VIDEO LIBRARY</p>
                 <h2 className="mt-2 font-serif-display text-4xl tracking-[-0.03em] text-[#17372f]">学びたい動画を、すぐに。</h2>
               </div>
-              <p className="max-w-sm text-sm leading-6 text-[#66766d]">タイトル・科目・単元から探せます。視聴済みの動画はチェックで識別されます。</p>
+              <p className="max-w-sm text-sm leading-6 text-[#66766d]">まず学年、次に教科、最後に単元を選んで探せます。視聴済みの動画はチェックで識別されます。</p>
             </div>
 
             <div className="mt-9 rounded-[22px] border border-[#17372f]/10 bg-[#f8f6f1] p-4 shadow-[0_12px_35px_rgba(41,57,49,0.05)] sm:p-5">
-              <div className="grid gap-3 lg:grid-cols-[1.45fr_0.8fr_0.8fr]">
+              <div className="grid gap-3 lg:grid-cols-[1.35fr_0.65fr_0.65fr_0.65fr]">
                 <div className="relative"><Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-[#819088]" /><Input value={query} onChange={(event) => { setQuery(event.target.value); resetPage(); }} placeholder="キーワードで探す（例：二次関数、鎌倉幕府）" className="h-12 rounded-xl border-[#17372f]/10 bg-white pl-11 text-[#17372f] placeholder:text-[#98a29b] focus-visible:ring-[#b77a25]" /></div>
-                <Select value={subject} onValueChange={setSubjectFilter}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="科目を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての科目</SelectItem>{filtersQuery.data?.subjects.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
-                <Select value={unit} onValueChange={(value) => { setUnit(value); resetPage(); }} disabled={subject === ALL_FILTER_VALUE}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="単元を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての単元</SelectItem>{activeUnits.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
+                <Select value={grade} onValueChange={setGradeFilter}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="学年を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての学年</SelectItem>{filtersQuery.data?.grades.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
+                <Select value={subject} onValueChange={setSubjectFilter} disabled={grade === ALL_FILTER_VALUE}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="教科を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての教科</SelectItem>{activeSubjects.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
+                <Select value={unit} onValueChange={(value) => { setUnit(value); resetPage(); }} disabled={grade === ALL_FILTER_VALUE || subject === ALL_FILTER_VALUE}><SelectTrigger className="h-12 rounded-xl border-[#17372f]/10 bg-white text-[#17372f]"><SelectValue placeholder="単元を選ぶ" /></SelectTrigger><SelectContent><SelectItem value={ALL_FILTER_VALUE}>すべての単元</SelectItem>{activeUnits.map((item) => <SelectItem key={item} value={item}>{item}</SelectItem>)}</SelectContent></Select>
               </div>
               <div className="mt-4 flex flex-wrap items-center gap-2">
-                <span className="mr-1 text-xs font-semibold text-[#77847c]">よく見る科目</span>
-                {(filtersQuery.data?.subjects ?? []).filter((item) => ["高校数学", "化学基礎", "世界史", "中学英語", "中学数学"].includes(item)).map((item) => <button key={item} onClick={() => setSubjectFilter(item)} className={`rounded-full px-3 py-1.5 text-xs font-semibold transition-colors ${subject === item ? "bg-[#17372f] text-white" : "bg-white text-[#52645b] hover:bg-[#e8eee7]"}`}>{item}</button>)}
+                <span className="mr-1 text-xs font-semibold text-[#77847c]">よく探す授業</span>
+                {[{ grade: "中学3年", subject: "数学" }, { grade: "中学3年", subject: "英語" }, { grade: "高校", subject: "数学" }, { grade: "高校", subject: "化学基礎" }, { grade: "高校", subject: "世界史" }].map((item) => <button key={`${item.grade}-${item.subject}`} onClick={() => { setGrade(item.grade); setSubject(item.subject); setUnit(ALL_FILTER_VALUE); resetPage(); }} className={`rounded-full px-3 py-1.5 text-xs font-semibold transition-colors ${grade === item.grade && subject === item.subject ? "bg-[#17372f] text-white" : "bg-white text-[#52645b] hover:bg-[#e8eee7]"}`}>{item.grade}・{item.subject}</button>)}
               </div>
             </div>
 
@@ -183,7 +198,7 @@ export default function Home() {
               {catalogQuery.isLoading ? Array.from({ length: 6 }).map((_, index) => <div key={index} className="overflow-hidden rounded-[18px] border border-[#17372f]/8 bg-white"><div className="aspect-video animate-pulse bg-[#edf0ea]" /><div className="space-y-3 p-4"><div className="h-3 w-1/3 animate-pulse rounded bg-[#edf0ea]" /><div className="h-5 w-full animate-pulse rounded bg-[#edf0ea]" /></div></div>) : catalogQuery.data?.items.map((video, index) => (
                 <Link href={`/watch/${video.id}`} key={video.id} className="group relative overflow-hidden rounded-[18px] border border-[#17372f]/9 bg-white shadow-[0_8px_25px_rgba(33,50,41,0.045)] transition-all duration-200 hover:-translate-y-1 hover:shadow-[0_18px_36px_rgba(33,50,41,0.12)]">
                   <div className="relative aspect-video overflow-hidden bg-[#e8ebe6]"><img src={video.thumbnailUrl} alt="" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.04]" /><div className="absolute inset-0 bg-gradient-to-t from-[#102b23]/55 via-transparent to-transparent" /><div className="absolute bottom-3 left-3 flex items-center gap-2"><span className="grid h-8 w-8 place-items-center rounded-full bg-white/92 text-[#17372f] shadow-sm"><Play className="ml-0.5 h-3.5 w-3.5 fill-current" /></span><span className="rounded-md bg-black/60 px-1.5 py-0.5 text-[11px] font-semibold text-white">{video.durationLabel}</span></div>{getVideoCardState(video.isWatched).isWatched && <span className="absolute right-3 top-3 flex items-center gap-1 rounded-full bg-[#e6f1e9] px-2 py-1 text-[10px] font-bold text-[#2b7255]"><Check className="h-3 w-3" /> {getVideoCardState(video.isWatched).label}</span>}</div>
-                  <div className="p-4"><div className="flex items-center gap-2"><Badge variant="secondary" className="rounded-full bg-[#edf2eb] px-2 py-0.5 text-[10px] font-bold text-[#3e6654]">{video.subject}</Badge><span className="truncate text-[11px] text-[#8a968f]">{video.unit}</span></div><h3 className="mt-2 line-clamp-2 min-h-11 text-[14px] font-bold leading-5 text-[#213f35]">{video.title}</h3><div className="mt-3 flex items-center justify-between text-xs font-semibold text-[#688076]"><span>動画を見る</span><span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#eff3ee] transition-transform group-hover:translate-x-0.5"><ArrowRight className="h-3.5 w-3.5" /></span></div></div>
+                  <div className="p-4"><div className="flex items-center gap-2"><Badge variant="secondary" className="rounded-full bg-[#edf2eb] px-2 py-0.5 text-[10px] font-bold text-[#3e6654]">{video.grade}</Badge><span className="text-[11px] font-semibold text-[#537063]">{video.subject}</span><span className="truncate text-[11px] text-[#8a968f]">{video.unit}</span></div><h3 className="mt-2 line-clamp-2 min-h-11 text-[14px] font-bold leading-5 text-[#213f35]">{video.title}</h3><div className="mt-3 flex items-center justify-between text-xs font-semibold text-[#688076]"><span>動画を見る</span><span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#eff3ee] transition-transform group-hover:translate-x-0.5"><ArrowRight className="h-3.5 w-3.5" /></span></div></div>
                   <span className="absolute right-4 top-[calc(56.25%+14px)] text-[10px] text-[#a7b0a9]">#{((catalogQuery.data.page - 1) * catalogQuery.data.pageSize) + index + 1}</span>
                 </Link>
               ))}

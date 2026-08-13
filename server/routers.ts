@@ -5,15 +5,21 @@ import * as db from "./db";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
 import { adminProcedure, protectedProcedure, publicProcedure, router } from "./_core/trpc";
-import { TRYIT_CATALOG, TRYIT_SUBJECTS, TRYIT_UNITS_BY_SUBJECT } from "./data/tryitCatalog";
+import { TRYIT_CATALOG, TRYIT_GRADES, TRYIT_SUBJECTS_BY_GRADE, TRYIT_UNITS_BY_GRADE_AND_SUBJECT } from "./data/tryitCatalog";
 
 const catalogListInput = z.object({
   query: z.string().trim().max(120).optional(),
+  grade: z.string().trim().max(40).optional(),
   subject: z.string().trim().max(80).optional(),
   unit: z.string().trim().max(80).optional(),
   page: z.number().int().min(1).max(2000).default(1),
   pageSize: z.number().int().min(1).max(48).default(12),
 });
+
+const catalogFiltersInput = z.object({
+  grade: z.string().trim().max(40).optional(),
+  subject: z.string().trim().max(80).optional(),
+}).optional();
 
 function getCatalogItem(videoId: string) {
   return TRYIT_CATALOG.find((item) => item.id === videoId);
@@ -33,21 +39,27 @@ export const appRouter = router({
     }),
   }),
   catalog: router({
-    filters: publicProcedure.query(() => ({
-      subjects: TRYIT_SUBJECTS,
-      unitsBySubject: TRYIT_UNITS_BY_SUBJECT,
-      totalVideos: TRYIT_CATALOG.length,
-    })),
+    filters: publicProcedure.input(catalogFiltersInput).query(({ input }) => {
+      const grade = input?.grade;
+      const subject = input?.subject;
+      return {
+        grades: TRYIT_GRADES,
+        subjects: grade ? (TRYIT_SUBJECTS_BY_GRADE[grade] ?? []) : [],
+        units: grade && subject ? (TRYIT_UNITS_BY_GRADE_AND_SUBJECT[`${grade}::${subject}`] ?? []) : [],
+        totalVideos: TRYIT_CATALOG.length,
+      };
+    }),
     list: publicProcedure.input(catalogListInput).query(async ({ ctx, input }) => {
       const normalizedQuery = input.query?.toLocaleLowerCase("ja-JP") ?? "";
       const watchedIds = ctx.user
         ? new Set((await db.getUserWatchHistory(ctx.user.id)).map((entry) => entry.videoId))
         : new Set<string>();
       const matching = TRYIT_CATALOG.filter((item) => {
+        const matchesGrade = !input.grade || input.grade === "すべて" || item.grade === input.grade;
         const matchesSubject = !input.subject || input.subject === "すべて" || item.subject === input.subject;
         const matchesUnit = !input.unit || input.unit === "すべて" || item.unit === input.unit;
-        const haystack = `${item.title} ${item.subject} ${item.unit}`.toLocaleLowerCase("ja-JP");
-        return matchesSubject && matchesUnit && (!normalizedQuery || haystack.includes(normalizedQuery));
+        const haystack = `${item.title} ${item.grade} ${item.subject} ${item.unit}`.toLocaleLowerCase("ja-JP");
+        return matchesGrade && matchesSubject && matchesUnit && (!normalizedQuery || haystack.includes(normalizedQuery));
       });
       const start = (input.page - 1) * input.pageSize;
       return {
@@ -83,6 +95,15 @@ export const appRouter = router({
     }),
   }),
   notes: router({
+    coverage: publicProcedure.query(async () => {
+      const completed = await db.getVideoNoteCount();
+      const total = TRYIT_CATALOG.length;
+      return {
+        completed,
+        total,
+        percentage: total ? Math.round((completed / total) * 1000) / 10 : 0,
+      };
+    }),
     upsert: adminProcedure.input(z.object({
       videoId: z.string().min(1).max(32),
       summary: z.string().trim().min(1).max(6000),
