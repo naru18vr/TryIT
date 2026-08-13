@@ -1,6 +1,6 @@
-import { eq } from "drizzle-orm";
+import { desc, eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { InsertUser, users, videoNotes, watchHistory } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -89,4 +89,46 @@ export async function getUserByOpenId(openId: string) {
   return result.length > 0 ? result[0] : undefined;
 }
 
-// TODO: add feature queries here as your schema grows.
+export async function getVideoNote(videoId: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+
+  const result = await db.select().from(videoNotes).where(eq(videoNotes.videoId, videoId)).limit(1);
+  return result[0];
+}
+
+export async function upsertVideoNote(input: {
+  videoId: string;
+  summary: string;
+  keyPoints: string;
+  updatedByUserId: number;
+}) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+
+  await db.insert(videoNotes).values(input).onDuplicateKeyUpdate({
+    set: {
+      summary: input.summary,
+      keyPoints: input.keyPoints,
+      updatedByUserId: input.updatedByUserId,
+      updatedAt: new Date(),
+    },
+  });
+}
+
+export async function getUserWatchHistory(userId: number) {
+  const db = await getDb();
+  if (!db) return [];
+
+  return db.select().from(watchHistory).where(eq(watchHistory.userId, userId)).orderBy(desc(watchHistory.watchedAt));
+}
+
+export async function markVideoWatched(userId: number, videoId: string) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+
+  const watchedAt = new Date();
+  await db.insert(watchHistory).values({ userId, videoId, watchedAt }).onDuplicateKeyUpdate({
+    set: { watchedAt, updatedAt: watchedAt },
+  });
+}

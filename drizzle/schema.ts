@@ -1,4 +1,4 @@
-import { int, mysqlEnum, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { int, mysqlEnum, mysqlTable, text, timestamp, uniqueIndex, varchar } from "drizzle-orm/mysql-core";
 
 /**
  * Core user table backing auth flow.
@@ -25,4 +25,28 @@ export const users = mysqlTable("users", {
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
 
-// TODO: Add your tables here
+/** Shared learning notes managed by an administrator for each public Try IT video. */
+export const videoNotes = mysqlTable("videoNotes", {
+  id: int("id").autoincrement().primaryKey(),
+  videoId: varchar("videoId", { length: 32 }).notNull().unique(),
+  summary: text("summary").notNull(),
+  keyPoints: text("keyPoints").notNull(),
+  updatedByUserId: int("updatedByUserId").references(() => users.id, { onDelete: "set null" }),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+});
+
+/** One record per learner and video. A new playback updates its watched timestamp. */
+export const watchHistory = mysqlTable("watchHistory", {
+  id: int("id").autoincrement().primaryKey(),
+  userId: int("userId").notNull().references(() => users.id, { onDelete: "cascade" }),
+  videoId: varchar("videoId", { length: 32 }).notNull(),
+  watchedAt: timestamp("watchedAt").defaultNow().notNull(),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+}, (table) => [
+  uniqueIndex("watchHistory_user_video_unique").on(table.userId, table.videoId),
+]);
+
+export type VideoNote = typeof videoNotes.$inferSelect;
+export type WatchHistory = typeof watchHistory.$inferSelect;

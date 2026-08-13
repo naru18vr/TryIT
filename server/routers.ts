@@ -1,7 +1,23 @@
+import { TRPCError } from "@trpc/server";
+import { z } from "zod";
 import { COOKIE_NAME } from "@shared/const";
+import * as db from "./db";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
-import { publicProcedure, router } from "./_core/trpc";
+import { adminProcedure, protectedProcedure, publicProcedure, router } from "./_core/trpc";
+import { TRYIT_CATALOG, TRYIT_SUBJECTS, TRYIT_UNITS_BY_SUBJECT } from "./data/tryitCatalog";
+
+const catalogListInput = z.object({
+  query: z.string().trim().max(120).optional(),
+  subject: z.string().trim().max(80).optional(),
+  unit: z.string().trim().max(80).optional(),
+  page: z.number().int().min(1).max(2000).default(1),
+  pageSize: z.number().int().min(1).max(48).default(12),
+});
+
+function getCatalogItem(videoId: string) {
+  return TRYIT_CATALOG.find((item) => item.id === videoId);
+}
 
 export const appRouter = router({
     // if you need to use socket.io, read and register route in server/_core/index.ts, all api should start with '/api/' so that the gateway can route correctly
@@ -16,13 +32,87 @@ export const appRouter = router({
       } as const;
     }),
   }),
-
-  // TODO: add feature routers here, e.g.
-  // todo: router({
-  //   list: protectedProcedure.query(({ ctx }) =>
-  //     db.getUserTodos(ctx.user.id)
-  //   ),
-  // }),
+  catalog: router({
+    filters: publicProcedure.query(() => ({
+      subjects: TRYIT_SUBJECTS,
+      unitsBySubject: TRYIT_UNITS_BY_SUBJECT,
+      totalVideos: TRYIT_CATALOG.length,
+    })),
+    list: publicProcedure.input(catalogListInput).query(async ({ ctx, input }) => {
+      const normalizedQuery = input.query?.toLocaleLowerCase("ja-JP") ?? "";
+      const watchedIds = ctx.user
+        ? new Set((await db.getUserWatchHistory(ctx.user.id)).map((entry) => entry.videoId))
+        : new Set<string>();
+      const matching = TRYIT_CATALOG.filter((item) => {
+        const matchesSubject = !input.subject || input.subject === "すべて" || item.subject === input.subject;
+        const matchesUnit = !input.unit || input.unit === "すべて" || item.unit === input.unit;
+        const haystack = `${item.title} ${item.subject} ${item.unit}`.toLocaleLowerCase("ja-JP");
+        return matchesSubject && matchesUnit && (!normalizedQuery || haystack.includes(normalizedQuery));
+      });
+      const start = (input.page - 1) * input.pageSize;
+      return {
+        total: matching.length,
+        page: input.page,
+        pageSize: input.pageSize,
+        totalPages: Math.max(1, Math.ceil(matching.length / input.pageSize)),
+        items: matching.slice(start, start + input.pageSize).map((item) => ({
+          ...item,
+          isWatched: watchedIds.has(item.id),
+        })),
+      };
+    }),
+    get: publicProcedure.input(z.object({ videoId: z.string().min(1).max(32) })).query(async ({ ctx, input }) => {
+      const video = getCatalogItem(input.videoId);
+      if (!video) throw new TRPCError({ code: "NOT_FOUND", message: "動画が見つかりません。" });
+      const [note, history] = await Promise.all([
+        db.getVideoNote(input.videoId),
+        ctx.user ? db.getUserWatchHistory(ctx.user.id) : Promise.resolve([]),
+      ]);
+      return {
+        video,
+        note: note ? { summary: note.summary, keyPoints: note.keyPoints, updatedAt: note.updatedAt } : null,
+        isWatched: history.some((entry) => entry.videoId === input.videoId),
+      };
+    }),
+    markWatched: protectedProcedure.input(z.object({ videoId: z.string().min(1).max(32) })).mutation(async ({ ctx, input }) => {
+      if (!getCatalogItem(input.videoId)) {
+        throw new TRPCError({ code: "NOT_FOUND", message: "動画が見つかりません。" });
+      }
+      await db.markVideoWatched(ctx.user.id, input.videoId);
+      return { success: true } as const;
+    }),
+  }),
+  notes: router({
+    upsert: adminProcedure.input(z.object({
+      videoId: z.string().min(1).max(32),
+      summary: z.string().trim().min(1).max(6000),
+      keyPoints: z.string().trim().min(1).max(6000),
+    })).mutation(async ({ ctx, input }) => {
+      if (!getCatalogItem(input.videoId)) {
+        throw new TRPCError({ code: "NOT_FOUND", message: "動画が見つかりません。" });
+      }
+      await db.upsertVideoNote({ ...input, updatedByUserId: ctx.user.id });
+      return { success: true } as const;
+    }),
+  }),
+  learning: router({
+    myProgress: protectedProcedure.query(async ({ ctx }) => {
+      const history = await db.getUserWatchHistory(ctx.user.id);
+      const catalogById = new Map(TRYIT_CATALOG.map((item) => [item.id, item]));
+      const watched = history.filter((entry) => catalogById.has(entry.videoId));
+      const watchedCount = watched.length;
+      const totalVideos = TRYIT_CATALOG.length;
+      return {
+        watchedCount,
+        totalVideos,
+        progressPercentage: totalVideos ? Math.round((watchedCount / totalVideos) * 1000) / 10 : 0,
+        history: watched.map((entry) => ({
+          ...catalogById.get(entry.videoId)!,
+          watchedAt: entry.watchedAt,
+        })),
+      };
+    }),
+  }),
 });
 
 export type AppRouter = typeof appRouter;
