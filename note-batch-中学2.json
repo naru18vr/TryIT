@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "天気記号",
+  "titleContains": "血液の成分",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "ERJqKJJG5LY",
-      "title": "【中２ 理科 地学】 天気記号の表し方 （１８分）",
+      "id": "CQuAsX4GKpw",
+      "title": "【中２ 理科 生物】 血液の成分と役割 （１７分）",
       "subject": "理科",
-      "unit": "天気記号の表し方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ERJqKJJG5LY",
-      "durationLabel": "18:05"
+      "unit": "血液の成分と役割",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CQuAsX4GKpw",
+      "durationLabel": "17:28"
     }
   ]
 }
