@@ -35,6 +35,7 @@
 | 英語 | Can I／Can you（許可・依頼） | 2 | 詳しいノートを追加済み |
 | 英語 | look・feel＋形容詞 | 1 | 詳しいノートを追加済み |
 | 英語 | think・know・hope＋that | 1 | 詳しいノートを追加済み |
+| 英語 | good・wellの不規則比較変化 | 1 | 詳しいノートを追加済み |
 | 英語 | 不定詞の用法 | 3 | 詳しいノートを追加済み |
 | 英語 | 未来表現・義務・許可（be going to、will、must、have to、Can I／Can you） | 10 | 詳しいノートを追加済み |
 | 英語 | 条件・理由・意見・比較・状態表現（if、because、think、more／most、look／feel） | 5 | 詳しいノートを追加済み |
@@ -110,3 +111,5 @@ Can I／Can youの2本は、British Councilの許可・依頼表現の資料と�
 look・feel＋形容詞は、British Councilのリンク動詞資料と動画タイトルを照合して登録した。要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。
 
 think・know・hope＋thatは、British Councilのthat節資料と動画タイトルを照合して登録した。要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。
+
+good・wellの不規則比較変化は、British Councilの比較表現資料と動画タイトルを照合して登録した。要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。
