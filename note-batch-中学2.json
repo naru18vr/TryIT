@@ -1,16 +1,16 @@
 {
   "grade": "中学2年",
-  "titleContains": "神経と感覚",
+  "titleContains": "磁界と磁界",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "UfyFeJvD5x4",
-      "title": "【中２ 理科 生物】 神経と感覚の伝わり方 （１７分）",
+      "id": "HiCMbLJiX0c",
+      "title": "【中２ 理科 物理】 磁界と磁界の向き （１５分）",
       "subject": "理科",
-      "unit": "神経と感覚の伝わり方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=UfyFeJvD5x4",
-      "durationLabel": "17:01"
+      "unit": "磁界と磁界の向き",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HiCMbLJiX0c",
+      "durationLabel": "14:53"
     }
   ]
 }
