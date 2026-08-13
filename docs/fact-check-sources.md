@@ -28,6 +28,8 @@ British Councilの文法資料は、to不定詞が目的を表すこと、また
 
 be動詞の過去形、There is／There are、二重目的語、if／when節、比較級・最上級については、British Councilの学習資料で基本形・否定文・疑問文・語順を照合しました。[4][5][6][7][8]
 
+Can I／Can youの表現は、British Councilの資料で、can が許可を求める・与える表現に使えること、Can you ...? が依頼に使えること、疑問文では主語を can の後ろに置くことを照合しました。[12]
+
 ## 中学2年理科：化学変化・電流と磁界・気象・生物
 
 化学反応式、電流と磁界、気温・湿度・雲、刺激への反応、動物分類については、文部科学省の中学校理科学習指導要領に示される学習範囲と照合しました。[9] ノートには動画タイトルと資料から確認できる基礎概念だけを記述し、未確認の固有実験結果や発展事項は加えません。
@@ -45,3 +47,4 @@ be動詞の過去形、There is／There are、二重目的語、if／when節、�
 [9]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/ri.htm "文部科学省：中学校学習指導要領 理科"
 [10]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/past-continuous-past-simple "British Council: past continuous and past simple"
 [11]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/verbs-followed-ing-or-infinitive "British Council: verbs followed by '-ing' or infinitive"
+[12]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/can-could "British Council: 'can' and 'could'"
