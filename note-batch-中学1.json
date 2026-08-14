@@ -1,136 +1,96 @@
 {
   "grade": "中学1年",
   "titleContains": null,
-  "selectedUnit": "文字と式",
-  "count": 16,
+  "selectedUnit": "平面図形",
+  "count": 11,
   "items": [
     {
-      "id": "xvIyYWFmV8U",
-      "title": "【中１ 数学】 文字と式９ 単位計算 （４分）",
+      "id": "2Vkrox38_qU",
+      "title": "【中１ 数学】 平面図形３ 対称移動の作図 （９分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xvIyYWFmV8U",
-      "durationLabel": "4:00"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2Vkrox38_qU",
+      "durationLabel": "8:51"
     },
     {
-      "id": "cb5uWuHjmhg",
-      "title": "【中１ 数学】 文字と式５ 買い物 （１２分）",
+      "id": "liwIQrx8Qqg",
+      "title": "【中１ 数学】 平面図形５ 円の用語と記号 （５分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cb5uWuHjmhg",
-      "durationLabel": "11:31"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=liwIQrx8Qqg",
+      "durationLabel": "4:59"
     },
     {
-      "id": "XGbF4qJZIPA",
-      "title": "【中１ 数学】 文字と式１０ 代入 （５分）",
+      "id": "YYiIB6tU8EM",
+      "title": "【中１ 数学】 平面図形４ 回転移動の作図 （８分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XGbF4qJZIPA",
-      "durationLabel": "5:06"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YYiIB6tU8EM",
+      "durationLabel": "7:36"
     },
     {
-      "id": "JPDxyN2r5Ss",
-      "title": "【中１ 数学】 文字と式１４ 偶数・奇数 （１０分）",
+      "id": "uc5ufX_F7gg",
+      "title": "【中１ 数学】 平面図形６ コンパスの使い方 （７分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JPDxyN2r5Ss",
-      "durationLabel": "9:39"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uc5ufX_F7gg",
+      "durationLabel": "7:30"
     },
     {
-      "id": "uZPEyBpijbM",
-      "title": "【中１ 数学】 文字と式２ 積の表し方 （８分）",
+      "id": "r-mrGyqOocc",
+      "title": "【中１ 数学】 平面図形９ 角の二等分線の作図（６分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=uZPEyBpijbM",
-      "durationLabel": "7:40"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=r-mrGyqOocc",
+      "durationLabel": "6:15"
     },
     {
-      "id": "rwQ-G69or4M",
-      "title": "【中１ 数学】 文字と式４ 円周率「π」 （５分）",
+      "id": "oVJvbCTZA5k",
+      "title": "【中１ 数学】 平面図形８ 垂線の作図 （７分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rwQ-G69or4M",
-      "durationLabel": "4:40"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oVJvbCTZA5k",
+      "durationLabel": "7:04"
     },
     {
-      "id": "BY4d4pJk5vs",
-      "title": "【中１ 数学】 文字と式３ 商の表し方 （８分）",
+      "id": "QcP5MosQrTs",
+      "title": "【中１ 数学】 平面図形７ 垂直二等分線の作図 （８分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=BY4d4pJk5vs",
-      "durationLabel": "8:13"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QcP5MosQrTs",
+      "durationLabel": "7:37"
     },
     {
-      "id": "cPyNz345ooc",
-      "title": "【中１ 数学】 文字と式１ 文字「ｘ」 （１１分）",
+      "id": "e2zwfYfvcI8",
+      "title": "【中１ 数学】 平面図形２ 平行移動の作図 （７分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cPyNz345ooc",
-      "durationLabel": "11:10"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=e2zwfYfvcI8",
+      "durationLabel": "7:14"
     },
     {
-      "id": "neQsx2elTbo",
-      "title": "【中１ 数学】 文字と式１５ 等式 （８分）",
+      "id": "5KzoQKrDdvc",
+      "title": "【中１ 数学】 平面図形１ 図形の用語と記号（７分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=neQsx2elTbo",
-      "durationLabel": "7:56"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5KzoQKrDdvc",
+      "durationLabel": "7:28"
     },
     {
-      "id": "QkuNoBAfwtM",
-      "title": "【中１ 数学】 文字と式１６ 不等式 （８分）",
+      "id": "NCGBZeMwAYM",
+      "title": "【中１ 数学】 平面図形１１ 接線の作図 （６分）",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QkuNoBAfwtM",
-      "durationLabel": "7:55"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NCGBZeMwAYM",
+      "durationLabel": "6:25"
     },
     {
-      "id": "zylZIf6tRR8",
-      "title": "【中１ 数学】 文字と式６ 図形 （８分）",
+      "id": "Kj7vxEyAbD4",
+      "title": "【中１ 数学】 平面図形１０ ４５°と６０°の作図 (９分)",
       "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=zylZIf6tRR8",
-      "durationLabel": "7:35"
-    },
-    {
-      "id": "JASkJce1STg",
-      "title": "【中１ 数学】 文字と式１１ 項と係数 （５分）",
-      "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JASkJce1STg",
-      "durationLabel": "4:47"
-    },
-    {
-      "id": "rBTRvc6kXyI",
-      "title": "【中１ 数学】 文字と式７ 割合、パーセント （６分）",
-      "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rBTRvc6kXyI",
-      "durationLabel": "6:29"
-    },
-    {
-      "id": "-W3RE3XTTIk",
-      "title": "【中１ 数学】 文字と式１２ たし算・ひき算 （８分）",
-      "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-W3RE3XTTIk",
-      "durationLabel": "8:23"
-    },
-    {
-      "id": "qEf3uJfeIQ4",
-      "title": "【中１ 数学】 文字と式８ 速さ・時間・距離 （１６分）",
-      "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=qEf3uJfeIQ4",
-      "durationLabel": "15:35"
-    },
-    {
-      "id": "QTBvOyL99_Y",
-      "title": "【中１ 数学】 文字と式１３ かけ算・わり算 （１１分）",
-      "subject": "数学",
-      "unit": "文字と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QTBvOyL99_Y",
-      "durationLabel": "10:50"
+      "unit": "平面図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kj7vxEyAbD4",
+      "durationLabel": "9:05"
     }
   ]
 }
