@@ -1,16 +1,16 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "原子の構造",
+  "selectedUnit": "無性生殖と有性生殖",
   "count": 1,
   "items": [
     {
-      "id": "bv8MVikdD58",
-      "title": "【中３ 理科 化学】 原子の構造 （１４分）",
+      "id": "Ge6QpbVHzVs",
+      "title": "【中３ 理科 生物】 無性生殖と有性生殖 （１８分）",
       "subject": "理科",
-      "unit": "原子の構造",
-      "youtubeUrl": "https://www.youtube.com/watch?v=bv8MVikdD58",
-      "durationLabel": "13:18"
+      "unit": "無性生殖と有性生殖",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ge6QpbVHzVs",
+      "durationLabel": "18:14"
     }
   ]
 }
