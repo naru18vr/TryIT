@@ -200,6 +200,12 @@ British Councilの現在形資料で、I・you・we・theyを主語にする一�
 
 British Councilの現在形資料で、he・she・itを主語にする肯定文では一般動詞にs/esを付け、否定文にはdoesn''t＋動詞の原形、疑問文にはDoes＋主語＋動詞の原形を使うことを確認しました。[39] 動画別ノートでは、肯定文だけに現れるs/esと、does/doesn''tの後では動詞を原形に戻す観点を記述します。
 
+## 中学1年英語：複数形の作り方
+
+British Councilの可算名詞資料で、可算名詞には単数形と複数形があり、多くは-s、s/ch/sh/ss/x/oで終わる語には-es、子音＋yで終わる語には-yを-iesに変えて複数形にすることを確認しました。[40] man/menやchild/childrenなどの不規則複数形も、個別に確認して覚える必要があります。
+
+[40]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/count-nouns "British Council: Count nouns"
+
 [39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
 
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"
