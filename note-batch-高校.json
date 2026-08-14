@@ -1,16 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学B】 ベクトル２４ ",
+  "titleContains": "【高校 数学B】 ベクトル４０ ",
   "selectedUnit": "混合単元",
-  "count": 1,
-  "items": [
-    {
-      "id": "G2qCz1rPCBI",
-      "title": "【高校 数学B】 ベクトル２４ 直線方程式２ （１６分）",
-      "subject": "数学",
-      "unit": "ベクトル",
-      "youtubeUrl": "https://www.youtube.com/watch?v=G2qCz1rPCBI",
-      "durationLabel": "16:25"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
