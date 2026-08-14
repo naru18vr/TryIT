@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅲ】 極限１８ ",
+  "titleContains": "【高校 数学Ⅲ】 極限３０ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "RSg5coryQrk",
-      "title": "【高校 数学Ⅲ】 極限１８ 無限級数の性質 （２０分）",
+      "id": "G22uuFLq9LM",
+      "title": "【高校 数学Ⅲ】 極限３０ 三角関数の極限２ （１７分）",
       "subject": "数学",
       "unit": "極限",
-      "youtubeUrl": "https://www.youtube.com/watch?v=RSg5coryQrk",
-      "durationLabel": "20:29"
+      "youtubeUrl": "https://www.youtube.com/watch?v=G22uuFLq9LM",
+      "durationLabel": "17:14"
     }
   ]
 }
