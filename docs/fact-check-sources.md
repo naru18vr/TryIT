@@ -72,6 +72,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 現在分詞は動詞に-ingを付けた形、過去分詞は規則動詞では-ed、または不規則な形であり、どちらも形容詞として名詞を説明できることをBritish Councilの資料で確認しました。[25]
 
+## 中学3年英語：不規則な過去分詞
+
+多くの動詞は過去形・過去分詞に-edを用いる一方、頻出動詞には原形・過去形・過去分詞が異なる不規則動詞があることをBritish Councilの資料で照合しました。[26] 受け身や現在完了では過去形ではなく過去分詞を用いるため、3つの形を区別して覚える必要があります。[16][19][26]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -99,3 +103,4 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [23]: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-defining-relative-clauses "British Council: Defining relative clauses"
 [24]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/relative-pronouns-relative-clauses "British Council: Relative pronouns and relative clauses"
 [25]: https://africa.teachingenglish.org.uk/classroom/grammar/participles "British Council: Participles (present and past)"
+[26]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/irregular-verbs "British Council: Irregular verbs"
