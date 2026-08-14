@@ -1,16 +1,16 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "電解質とイオン",
+  "selectedUnit": "原子の構造",
   "count": 1,
   "items": [
     {
-      "id": "OTQXcJwP9BQ",
-      "title": "【中３ 理科 化学】 電解質とイオン （１４分）",
+      "id": "bv8MVikdD58",
+      "title": "【中３ 理科 化学】 原子の構造 （１４分）",
       "subject": "理科",
-      "unit": "電解質とイオン",
-      "youtubeUrl": "https://www.youtube.com/watch?v=OTQXcJwP9BQ",
-      "durationLabel": "13:46"
+      "unit": "原子の構造",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bv8MVikdD58",
+      "durationLabel": "13:18"
     }
   ]
 }
