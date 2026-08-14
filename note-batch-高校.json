@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 三角関数１２ ",
+  "titleContains": "【高校 数学Ⅱ】 三角関数２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "xILlB7_e2Tg",
-      "title": "【高校 数学Ⅱ】 三角関数１２ 等式１ （１１分）",
+      "id": "Q7SnYM6QLEg",
+      "title": "【高校 数学Ⅱ】 三角関数２４ sinθのグラフ （１５分）",
       "subject": "数学",
       "unit": "三角関数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xILlB7_e2Tg",
-      "durationLabel": "10:33"
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q7SnYM6QLEg",
+      "durationLabel": "15:15"
     }
   ]
 }
