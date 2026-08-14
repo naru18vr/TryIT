@@ -1,72 +1,64 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "式の展開",
-  "count": 8,
+  "selectedUnit": "三平方の定理",
+  "count": 7,
   "items": [
     {
-      "id": "l4t35T319JI",
-      "title": "【中３ 数学】 式の展開１ 単・多項式の乗法 （６分）",
+      "id": "-DVmApYIXhY",
+      "title": "【中３ 数学】 三平方の定理１ 公式 （９分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=l4t35T319JI",
-      "durationLabel": "5:57"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-DVmApYIXhY",
+      "durationLabel": "8:32"
     },
     {
-      "id": "4CZ54OaA7Jc",
-      "title": "【中３ 数学】 式の展開２ 単・多項式の除法 （７分）",
+      "id": "k7812oYmo6U",
+      "title": "【中３ 数学】 三平方の定理３ 有名角と比 （１１分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4CZ54OaA7Jc",
-      "durationLabel": "7:28"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k7812oYmo6U",
+      "durationLabel": "11:09"
     },
     {
-      "id": "Za_shJUxoJY",
-      "title": "【中３ 数学】 式の展開３ 展開 （９分）",
+      "id": "NHLgA5cH6VI",
+      "title": "【中３ 数学】 三平方の定理２ 公式の逆 （１０分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Za_shJUxoJY",
-      "durationLabel": "8:41"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NHLgA5cH6VI",
+      "durationLabel": "9:50"
     },
     {
-      "id": "Gl_-wkmg8LQ",
-      "title": "【中３ 数学】 式の展開５ 乗法公式２ （７分）",
+      "id": "vPN9UvGLKyg",
+      "title": "【中３ 数学】 三平方の定理４ ２点間の距離 （１２分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gl_-wkmg8LQ",
-      "durationLabel": "6:45"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vPN9UvGLKyg",
+      "durationLabel": "12:26"
     },
     {
-      "id": "Bv9M4sSnwgo",
-      "title": "【中３ 数学】 式の展開４ 乗法公式１ （１０分）",
+      "id": "Z6MbZAo2Bus",
+      "title": "【中３ 数学】 三平方の定理７ ひもの距離 （１０分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Bv9M4sSnwgo",
-      "durationLabel": "9:39"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Z6MbZAo2Bus",
+      "durationLabel": "9:34"
     },
     {
-      "id": "Ed69v1NBOaU",
-      "title": "【中３ 数学】 式の展開６ 乗法公式３ （５分）",
+      "id": "tOaf0E6tHWc",
+      "title": "【中３ 数学】 三平方の定理５ 弦との距離 （５分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Ed69v1NBOaU",
-      "durationLabel": "4:44"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tOaf0E6tHWc",
+      "durationLabel": "5:22"
     },
     {
-      "id": "D6fSIHUVluo",
-      "title": "【中３ 数学】 式の展開７ 乗法公式の応用１ （５分）",
+      "id": "pqw8TKfRXZE",
+      "title": "【中３ 数学】 三平方の定理６ 空間図形 （８分）",
       "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=D6fSIHUVluo",
-      "durationLabel": "4:33"
-    },
-    {
-      "id": "EZ_Iee7bpXg",
-      "title": "【中３ 数学】 式の展開８ 乗法公式の応用２ （７分）",
-      "subject": "数学",
-      "unit": "式の展開",
-      "youtubeUrl": "https://www.youtube.com/watch?v=EZ_Iee7bpXg",
-      "durationLabel": "7:24"
+      "unit": "三平方の定理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pqw8TKfRXZE",
+      "durationLabel": "8:06"
     }
   ]
 }
