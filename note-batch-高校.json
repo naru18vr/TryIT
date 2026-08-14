@@ -1,16 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅰ】 三角比３６ ",
+  "titleContains": "【高校 数学Ⅰ】 三角比４８ ",
   "selectedUnit": "混合単元",
-  "count": 1,
-  "items": [
-    {
-      "id": "Pyd6lCeNQhQ",
-      "title": "【高校 数学Ⅰ】 三角比３６ 正四面体 （１１分）",
-      "subject": "数学",
-      "unit": "三角比",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Pyd6lCeNQhQ",
-      "durationLabel": "11:25"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
