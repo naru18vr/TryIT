@@ -1,32 +1,16 @@
 {
   "grade": "中学1年",
-  "titleContains": "be動詞の疑問文",
+  "titleContains": "一般動詞の使い方",
   "selectedUnit": "混合単元",
-  "count": 3,
+  "count": 1,
   "items": [
     {
-      "id": "tC-K2_EXDVU",
-      "title": "【中１ 英語】 be動詞の疑問文と答え方(you) （１１分）",
+      "id": "wBz6WeZHQ9Y",
+      "title": "【中１ 英語】 一般動詞の使い方(I) （１２分）",
       "subject": "英語",
-      "unit": "be動詞の疑問文と答え方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=tC-K2_EXDVU",
-      "durationLabel": "11:22"
-    },
-    {
-      "id": "7B-CZG1qLN0",
-      "title": "【中１ 英語】 be動詞の疑問文(he,she) （１０分）",
-      "subject": "英語",
-      "unit": "be動詞の疑問文",
-      "youtubeUrl": "https://www.youtube.com/watch?v=7B-CZG1qLN0",
-      "durationLabel": "9:54"
-    },
-    {
-      "id": "7NLZ7FZIjjU",
-      "title": "【中１ 英語】 be動詞の疑問文(this,that) （１１分）",
-      "subject": "英語",
-      "unit": "be動詞の疑問文",
-      "youtubeUrl": "https://www.youtube.com/watch?v=7NLZ7FZIjjU",
-      "durationLabel": "11:02"
+      "unit": "一般動詞の使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wBz6WeZHQ9Y",
+      "durationLabel": "11:44"
     }
   ]
 }

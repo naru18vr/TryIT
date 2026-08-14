@@ -184,4 +184,10 @@ British Councilの現在形のbe動詞資料で、否定文はbe動詞の直後�
 
 British Councilの現在形のbe動詞資料で、疑問文はam・is・areを主語の前に置き、短い答えではYesの後に主語＋be動詞、Noの後に主語＋be動詞＋notを置くことを確認しました。[38] 動画別ノートでは、疑問文の語順、代名詞の置き換え、Yes/Noでの短い答えを記述します。
 
+## 中学1年英語：一般動詞の使い方
+
+British Councilの現在形資料で、現在形は習慣的にすることや一般に成り立つことを表し、I・you・we・theyには動詞の原形を使うことを確認しました。[39] 動画別ノートでは、be動詞の文と一般動詞の文を区別し、主語Iの文で動詞の原形を使う観点を記述します。
+
+[39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
+
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"
