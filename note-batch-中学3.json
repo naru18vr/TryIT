@@ -1,72 +1,72 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "因数分解",
+  "selectedUnit": "式の展開",
   "count": 8,
   "items": [
     {
-      "id": "wskjv5I98eM",
-      "title": "【中３ 数学】 因数分解７ 因数分解の応用１ （５分）",
+      "id": "l4t35T319JI",
+      "title": "【中３ 数学】 式の展開１ 単・多項式の乗法 （６分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wskjv5I98eM",
-      "durationLabel": "5:03"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=l4t35T319JI",
+      "durationLabel": "5:57"
     },
     {
-      "id": "SMpqojXnDeQ",
-      "title": "【中３ 数学】 因数分解６ 因数分解の公式３ （１６分）",
+      "id": "4CZ54OaA7Jc",
+      "title": "【中３ 数学】 式の展開２ 単・多項式の除法 （７分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SMpqojXnDeQ",
-      "durationLabel": "15:36"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4CZ54OaA7Jc",
+      "durationLabel": "7:28"
     },
     {
-      "id": "aHNX_BTvxGQ",
-      "title": "【中３ 数学】 因数分解５ 因数分解の公式２ （１０分）",
+      "id": "Za_shJUxoJY",
+      "title": "【中３ 数学】 式の展開３ 展開 （９分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=aHNX_BTvxGQ",
-      "durationLabel": "10:14"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Za_shJUxoJY",
+      "durationLabel": "8:41"
     },
     {
-      "id": "KK3-AqKuZtQ",
-      "title": "【中３ 数学】 因数分解３ 因数分解とは？ （８分）",
+      "id": "Gl_-wkmg8LQ",
+      "title": "【中３ 数学】 式の展開５ 乗法公式２ （７分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=KK3-AqKuZtQ",
-      "durationLabel": "8:13"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gl_-wkmg8LQ",
+      "durationLabel": "6:45"
     },
     {
-      "id": "7zx75US-2DE",
-      "title": "【中３ 数学】 因数分解４ 因数分解の公式１ （８分）",
+      "id": "Bv9M4sSnwgo",
+      "title": "【中３ 数学】 式の展開４ 乗法公式１ （１０分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=7zx75US-2DE",
-      "durationLabel": "8:03"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Bv9M4sSnwgo",
+      "durationLabel": "9:39"
     },
     {
-      "id": "oXul9AczhLY",
-      "title": "【中３ 数学】 因数分解１ 素数 （６分）",
+      "id": "Ed69v1NBOaU",
+      "title": "【中３ 数学】 式の展開６ 乗法公式３ （５分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=oXul9AczhLY",
-      "durationLabel": "6:28"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ed69v1NBOaU",
+      "durationLabel": "4:44"
     },
     {
-      "id": "fK3JUOwyRw4",
-      "title": "【中３ 数学】 因数分解２ 素因数分解 （８分）",
+      "id": "D6fSIHUVluo",
+      "title": "【中３ 数学】 式の展開７ 乗法公式の応用１ （５分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fK3JUOwyRw4",
-      "durationLabel": "8:10"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=D6fSIHUVluo",
+      "durationLabel": "4:33"
     },
     {
-      "id": "YVquSUUlGxc",
-      "title": "【中３ 数学】 因数分解８ 因数分解の応用２ （８分）",
+      "id": "EZ_Iee7bpXg",
+      "title": "【中３ 数学】 式の展開８ 乗法公式の応用２ （７分）",
       "subject": "数学",
-      "unit": "因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YVquSUUlGxc",
-      "durationLabel": "7:31"
+      "unit": "式の展開",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EZ_Iee7bpXg",
+      "durationLabel": "7:24"
     }
   ]
 }
