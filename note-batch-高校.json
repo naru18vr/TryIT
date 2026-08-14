@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅰ】 三角比１２ ",
+  "titleContains": "【高校 数学Ⅰ】 三角比２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "VoMAs4r27tE",
-      "title": "【高校 数学Ⅰ】 三角比１２ １３５°,１５０° （9分）",
+      "id": "X0_T6JKyBtk",
+      "title": "【高校 数学Ⅰ】 三角比２４ 余弦定理３ （12分）",
       "subject": "数学",
       "unit": "三角比",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VoMAs4r27tE",
-      "durationLabel": "8:56"
+      "youtubeUrl": "https://www.youtube.com/watch?v=X0_T6JKyBtk",
+      "durationLabel": "12:23"
     }
   ]
 }
