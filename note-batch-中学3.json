@@ -1,120 +1,104 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "平方根",
-  "count": 14,
+  "selectedUnit": "関数y=ax^",
+  "count": 12,
   "items": [
     {
-      "id": "7wgk8rElvzU",
-      "title": "【中３ 数学】 平方根１３ ルートの加減１ （１２分）",
+      "id": "rNi0NpNjAiw",
+      "title": "【中３ 数学】 関数y=ax^2① 2次関数 （９分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=7wgk8rElvzU",
-      "durationLabel": "11:58"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rNi0NpNjAiw",
+      "durationLabel": "9:18"
     },
     {
-      "id": "UPhGA2lYYrs",
-      "title": "【中３ 数学】 平方根１ 平方根とは？ （７分）",
+      "id": "riWiXKzeAks",
+      "title": "【中３ 数学】 関数y=ax^2② x^2に比例 （９分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=UPhGA2lYYrs",
-      "durationLabel": "6:50"
-    },
-    {
-      "id": "lg_Z9tsQ2Hg",
-      "title": "【中３ 数学】 平方根４ 平方根の大小関係 （９分）",
-      "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lg_Z9tsQ2Hg",
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=riWiXKzeAks",
       "durationLabel": "8:32"
     },
     {
-      "id": "iRViKLcMVR8",
-      "title": "【中３ 数学】 平方根３ ルート（根号）２ （６分）",
+      "id": "oWdqaKEPZr8",
+      "title": "【中３ 数学】 関数y=ax^2③ グラフ１ （１３分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=iRViKLcMVR8",
-      "durationLabel": "6:28"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oWdqaKEPZr8",
+      "durationLabel": "13:00"
     },
     {
-      "id": "Ldc_gpH_k_A",
-      "title": "【中３ 数学】 平方根２ ルート（根号）１ （４分）",
+      "id": "kuyqFfouj2o",
+      "title": "【中３ 数学】 関数y=ax^2⑤ 放物線の式 （１０分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Ldc_gpH_k_A",
-      "durationLabel": "4:30"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kuyqFfouj2o",
+      "durationLabel": "10:02"
     },
     {
-      "id": "AQZ4kaVxpB8",
-      "title": "【中３ 数学】 平方根６ ルートの近似値 （４分）",
+      "id": "TwnK7fher1I",
+      "title": "【中３ 数学】 関数y=ax^2④ グラフ２ （９分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=AQZ4kaVxpB8",
-      "durationLabel": "4:21"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TwnK7fher1I",
+      "durationLabel": "9:23"
     },
     {
-      "id": "nU0N_g_eGi4",
-      "title": "【中３ 数学】 平方根８ ルートのわり算 （５分）",
+      "id": "wPG1PDcD9bY",
+      "title": "【中３ 数学】 関数y=ax^2⑦ 変域 （１３分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=nU0N_g_eGi4",
-      "durationLabel": "5:15"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wPG1PDcD9bY",
+      "durationLabel": "13:18"
     },
     {
-      "id": "-MNqnp3M-eM",
-      "title": "【中３ 数学】 平方根７ ルートのかけ算 （４分）",
+      "id": "WZ1E88CqacE",
+      "title": "【中３ 数学】 関数y=ax^2⑥ 増減 （１０分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-MNqnp3M-eM",
-      "durationLabel": "3:45"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WZ1E88CqacE",
+      "durationLabel": "10:02"
     },
     {
-      "id": "QNmPnMV9N1A",
-      "title": "【中３ 数学】 平方根９ 根号がついた数の変形 （８分）",
+      "id": "VuByhPxuguM",
+      "title": "【中３ 数学】 関数y=ax^2⑧ 変化の割合 （１２分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QNmPnMV9N1A",
-      "durationLabel": "7:30"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VuByhPxuguM",
+      "durationLabel": "11:44"
     },
     {
-      "id": "A373CyahtDY",
-      "title": "【中３ 数学】 平方根１０ ルートのかけ算２ （８分）",
+      "id": "skbhJ1xhlJc",
+      "title": "【中３ 数学】 関数y=ax^2⑨ 平均の速さ （１１分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=A373CyahtDY",
-      "durationLabel": "8:27"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=skbhJ1xhlJc",
+      "durationLabel": "11:05"
     },
     {
-      "id": "pnsWoCW2aAI",
-      "title": "【中３ 数学】 平方根１５ ルートと乗法公式 （８分）",
+      "id": "rQ7jq7o9SqE",
+      "title": "【中３ 数学】 関数y=ax^2⑪ 文章題２ （１１分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pnsWoCW2aAI",
-      "durationLabel": "7:54"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rQ7jq7o9SqE",
+      "durationLabel": "10:37"
     },
     {
-      "id": "hoZKll4fFZ0",
-      "title": "【中３ 数学】 平方根１４ ルートの加減２ （６分）",
+      "id": "fqoCnYEm45I",
+      "title": "【中３ 数学】 関数y=ax^2⑩ 文章題１ （１１分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=hoZKll4fFZ0",
-      "durationLabel": "5:38"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fqoCnYEm45I",
+      "durationLabel": "11:01"
     },
     {
-      "id": "enDNZCSw55k",
-      "title": "【中３ 数学】 平方根１２ 近似値を使う計算 （４分）",
+      "id": "TyTRO5sMXRQ",
+      "title": "【中３ 数学】 関数y=ax^2⑫ 直線との交点 （１２分）",
       "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=enDNZCSw55k",
-      "durationLabel": "3:35"
-    },
-    {
-      "id": "9YjpZDiYefY",
-      "title": "【中３ 数学】 平方根１１ 有理化 （７分）",
-      "subject": "数学",
-      "unit": "平方根",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9YjpZDiYefY",
-      "durationLabel": "6:56"
+      "unit": "関数y=ax^",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TyTRO5sMXRQ",
+      "durationLabel": "11:55"
     }
   ]
 }
