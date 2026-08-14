@@ -1,80 +1,72 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "円",
-  "count": 9,
+  "selectedUnit": "因数分解",
+  "count": 8,
   "items": [
     {
-      "id": "8XzdTpZvQ5I",
-      "title": "【中３ 数学】 円１ 円周角と中心角 （９分）",
+      "id": "wskjv5I98eM",
+      "title": "【中３ 数学】 因数分解７ 因数分解の応用１ （５分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=8XzdTpZvQ5I",
-      "durationLabel": "9:22"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wskjv5I98eM",
+      "durationLabel": "5:03"
     },
     {
-      "id": "lPsI6pd6PDw",
-      "title": "【中３ 数学】 円２ 円周角と弧 （６分）",
+      "id": "SMpqojXnDeQ",
+      "title": "【中３ 数学】 因数分解６ 因数分解の公式３ （１６分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lPsI6pd6PDw",
-      "durationLabel": "6:09"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SMpqojXnDeQ",
+      "durationLabel": "15:36"
     },
     {
-      "id": "tDEdVkMVL1A",
-      "title": "【中３ 数学】 円３ 直径の円周角 （４分）",
+      "id": "aHNX_BTvxGQ",
+      "title": "【中３ 数学】 因数分解５ 因数分解の公式２ （１０分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=tDEdVkMVL1A",
-      "durationLabel": "3:48"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aHNX_BTvxGQ",
+      "durationLabel": "10:14"
     },
     {
-      "id": "M7HPcIQPinI",
-      "title": "【中３ 数学】 円４ 角度の求め方 （１５分）",
+      "id": "KK3-AqKuZtQ",
+      "title": "【中３ 数学】 因数分解３ 因数分解とは？ （８分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=M7HPcIQPinI",
-      "durationLabel": "15:02"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KK3-AqKuZtQ",
+      "durationLabel": "8:13"
     },
     {
-      "id": "hD34meNHOK4",
-      "title": "【中３ 数学】 円６ 接線の長さ （１２分）",
+      "id": "7zx75US-2DE",
+      "title": "【中３ 数学】 因数分解４ 因数分解の公式１ （８分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=hD34meNHOK4",
-      "durationLabel": "12:09"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7zx75US-2DE",
+      "durationLabel": "8:03"
     },
     {
-      "id": "OnuiNNdaL3U",
-      "title": "【中３ 数学】 円５ 円周角の定理の逆 （１１分）",
+      "id": "oXul9AczhLY",
+      "title": "【中３ 数学】 因数分解１ 素数 （６分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=OnuiNNdaL3U",
-      "durationLabel": "11:17"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oXul9AczhLY",
+      "durationLabel": "6:28"
     },
     {
-      "id": "QTMm4txOlWI",
-      "title": "【中３ 数学】 円９ 円と相似 （１０分）",
+      "id": "fK3JUOwyRw4",
+      "title": "【中３ 数学】 因数分解２ 素因数分解 （８分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QTMm4txOlWI",
-      "durationLabel": "9:46"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fK3JUOwyRw4",
+      "durationLabel": "8:10"
     },
     {
-      "id": "75euw1Nw7dU",
-      "title": "【中３ 数学】 円８ 円の性質と証明 （１３分）",
+      "id": "YVquSUUlGxc",
+      "title": "【中３ 数学】 因数分解８ 因数分解の応用２ （８分）",
       "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=75euw1Nw7dU",
-      "durationLabel": "13:30"
-    },
-    {
-      "id": "5kkLYRodHg8",
-      "title": "【中３ 数学】 円７ 接線の作図 （９分）",
-      "subject": "数学",
-      "unit": "円",
-      "youtubeUrl": "https://www.youtube.com/watch?v=5kkLYRodHg8",
-      "durationLabel": "9:01"
+      "unit": "因数分解",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YVquSUUlGxc",
+      "durationLabel": "7:31"
     }
   ]
 }
