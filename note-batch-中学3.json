@@ -1,16 +1,16 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "作用・反作用の法則",
+  "selectedUnit": "力学的エネルギーの保存",
   "count": 1,
   "items": [
     {
-      "id": "mdasNsqpBtM",
-      "title": "【中３ 理科 物理】 作用・反作用の法則 （１６分）",
+      "id": "wUPd6BVVLsc",
+      "title": "【中３ 理科 物理】 力学的エネルギーの保存 （２３分）",
       "subject": "理科",
-      "unit": "作用・反作用の法則",
-      "youtubeUrl": "https://www.youtube.com/watch?v=mdasNsqpBtM",
-      "durationLabel": "16:30"
+      "unit": "力学的エネルギーの保存",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wUPd6BVVLsc",
+      "durationLabel": "23:04"
     }
   ]
 }
