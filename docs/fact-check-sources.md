@@ -212,6 +212,10 @@ British Councilの可算名詞資料で、可算名詞には単数形と複数�
 
 British Councilの過去形資料で、過去に終わった出来事や状態を表す過去形では、規則動詞に-edを付けること、動詞の語尾に応じた綴りの変化があること、不規則動詞は-edで終わらない個別の過去形を覚えることを確認しました。[41][42] 否定文・疑問文ではdid/didn''tの後に動詞の原形を使うことも確認しました。
 
+## 中学1年英語：過去形の否定文・疑問文
+
+British Councilの過去形資料で、一般動詞の過去形の否定文はdid not（didn''t）＋動詞の原形、疑問文はDid＋主語＋動詞の原形で作ることを確認しました。[41][42] 規則動詞・不規則動詞にかかわらず、did/didn''tの後では動詞を原形に戻すことを記述します。
+
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
 [42]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs "British Council: Past simple – irregular verbs"
 

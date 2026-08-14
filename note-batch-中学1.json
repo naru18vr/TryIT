@@ -1,24 +1,16 @@
 {
   "grade": "中学1年",
-  "titleContains": "過去形の使い方",
+  "titleContains": "過去の否定文",
   "selectedUnit": "混合単元",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "id": "vqgUmv3zcy4",
-      "title": "【中１ 英語】 過去形の使い方(不規則動詞) （１２分）",
+      "id": "rYOsMxmvYqE",
+      "title": "【中１ 英語】 過去の否定文、疑問文の作り方 （１９分）",
       "subject": "英語",
-      "unit": "過去形の使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=vqgUmv3zcy4",
-      "durationLabel": "11:36"
-    },
-    {
-      "id": "JPmNWE0B06s",
-      "title": "【中１ 英語】 過去形の使い方(規則動詞) （１６分）",
-      "subject": "英語",
-      "unit": "過去形の使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JPmNWE0B06s",
-      "durationLabel": "15:35"
+      "unit": "過去の否定文、疑問文の作り方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rYOsMxmvYqE",
+      "durationLabel": "18:57"
     }
   ]
 }
