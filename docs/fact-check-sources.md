@@ -259,6 +259,8 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 文部科学省の高等学校数学資料で、数学Iの二次関数では二次関数とそのグラフ、二次関数の値の変化を扱うことを確認しました。[54] 東京書籍の数学I「関数とグラフ」資料では、二次関数のグラフ、頂点、軸、平行移動、最大・最小の学習内容を確認しました。[58] 動画別ノートは、正規動画タイトルで確認できる二次関数、関数のグラフ、定義域・値域、関数f(x)、放物線の形、頂点と軸に限定して記述します。
 
+文部科学省の高等学校数学資料で、数学Iの図形と計量では三角比、正弦定理、余弦定理、三角形の面積を扱うことを確認しました。[54] 東京書籍の数学I「三角比」資料では、三角比の相互関係、正弦定理、余弦定理、三角形の面積、空間図形の計量が扱われることを確認しました。[59] 動画別ノートは、正規動画タイトルで確認できる直角三角形の比、三角比、相互関係、三角形の計量に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -283,3 +285,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [56]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16605/18764/ "東京書籍：数学I Standard 2節 実数"
 [57]: https://jp-cos.github.io/745/1503110000000 "学習指導要領LOD：高等学校数学I 数と集合"
 [58]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13965/ "東京書籍：数学I Advanced 1節 関数とグラフ"
+[59]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16528/14000/ "東京書籍：改訂 新数学I 3章 三角比"

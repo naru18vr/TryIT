@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅰ】 ２次関数４８ ",
+  "titleContains": "【高校 数学Ⅰ】 三角比１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "5YMdUH1jidg",
-      "title": "【高校 数学Ⅰ】 ２次関数４８ ２次不等式の文章題 （１８分）",
+      "id": "VoMAs4r27tE",
+      "title": "【高校 数学Ⅰ】 三角比１２ １３５°,１５０° （9分）",
       "subject": "数学",
-      "unit": "２次関数４８ ２次不等式の文章題",
-      "youtubeUrl": "https://www.youtube.com/watch?v=5YMdUH1jidg",
-      "durationLabel": "17:50"
+      "unit": "三角比",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VoMAs4r27tE",
+      "durationLabel": "8:56"
     }
   ]
 }
