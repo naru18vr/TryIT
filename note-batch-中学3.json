@@ -1,32 +1,96 @@
 {
   "grade": "中学3年",
-  "titleContains": null,
-  "selectedUnit": "標本調査",
-  "count": 3,
+  "titleContains": "２次方程式",
+  "selectedUnit": "混合単元",
+  "count": 11,
   "items": [
     {
-      "id": "GANITPQl9cE",
-      "title": "【中３ 数学】 標本調査３ 標本の抽出と推定 （８分）",
+      "id": "weR_34K3VC8",
+      "title": "【中３ 数学】 ２次方程式４ 因数分解１ （７分）",
       "subject": "数学",
-      "unit": "標本調査",
-      "youtubeUrl": "https://www.youtube.com/watch?v=GANITPQl9cE",
-      "durationLabel": "8:20"
+      "unit": "２次方程式４ 因数分解１",
+      "youtubeUrl": "https://www.youtube.com/watch?v=weR_34K3VC8",
+      "durationLabel": "7:30"
     },
     {
-      "id": "Wff_r0H2Y84",
-      "title": "【中３ 数学】 標本調査２ 母集団と標本の大きさ （５分）",
+      "id": "PLivqPOyeaw",
+      "title": "【中３ 数学】 ２次方程式２ x＾2＝aの利用 （５分）",
       "subject": "数学",
-      "unit": "標本調査",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Wff_r0H2Y84",
-      "durationLabel": "5:31"
+      "unit": "２次方程式２ x＾2＝aの利用",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PLivqPOyeaw",
+      "durationLabel": "5:09"
     },
     {
-      "id": "FtdAno0HFyU",
-      "title": "【中３ 数学】 標本調査１ 全数調査と標本調査 （８分）",
+      "id": "OUnH9LEZolE",
+      "title": "【中３ 数学】 ２次方程式１ x＾2＝aの解き方 （８分）",
       "subject": "数学",
-      "unit": "標本調査",
-      "youtubeUrl": "https://www.youtube.com/watch?v=FtdAno0HFyU",
-      "durationLabel": "7:55"
+      "unit": "２次方程式１ x＾2＝aの解き方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OUnH9LEZolE",
+      "durationLabel": "8:09"
+    },
+    {
+      "id": "O9OP5i38mG0",
+      "title": "【中３ 数学】 ２次方程式３ 解の公式 （１５分）",
+      "subject": "数学",
+      "unit": "２次方程式３ 解の公式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=O9OP5i38mG0",
+      "durationLabel": "14:45"
+    },
+    {
+      "id": "HPDawNXOSYM",
+      "title": "【中３ 数学】 ２次方程式５ 因数分解２ （１３分）",
+      "subject": "数学",
+      "unit": "２次方程式５ 因数分解２",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HPDawNXOSYM",
+      "durationLabel": "13:25"
+    },
+    {
+      "id": "ErmvRvnlzHc",
+      "title": "【中３ 数学】 ２次方程式６ 解き方まとめ１ （１２分）",
+      "subject": "数学",
+      "unit": "２次方程式６ 解き方まとめ１",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ErmvRvnlzHc",
+      "durationLabel": "12:21"
+    },
+    {
+      "id": "w17fsQ4sBIw",
+      "title": "【中３ 数学】 ２次方程式７ 解き方まとめ２ （１１分）",
+      "subject": "数学",
+      "unit": "２次方程式７ 解き方まとめ２",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w17fsQ4sBIw",
+      "durationLabel": "10:49"
+    },
+    {
+      "id": "28hy8hkW9x4",
+      "title": "【中３ 数学】 ２次方程式８ 文章題１ （１０分）",
+      "subject": "数学",
+      "unit": "２次方程式８ 文章題１",
+      "youtubeUrl": "https://www.youtube.com/watch?v=28hy8hkW9x4",
+      "durationLabel": "10:05"
+    },
+    {
+      "id": "cOE7s4N2UAY",
+      "title": "【中３ 数学】 ２次方程式１０ 文章題３ （１４分）",
+      "subject": "数学",
+      "unit": "２次方程式１０ 文章題３",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cOE7s4N2UAY",
+      "durationLabel": "13:44"
+    },
+    {
+      "id": "CEw5bUXfoGE",
+      "title": "【中３ 数学】 ２次方程式９ 文章題２ （１４分）",
+      "subject": "数学",
+      "unit": "２次方程式９ 文章題２",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CEw5bUXfoGE",
+      "durationLabel": "14:08"
+    },
+    {
+      "id": "Ajl9YE_nIjs",
+      "title": "【中３ 数学】 ２次方程式１１ 文章題４ （１３分）",
+      "subject": "数学",
+      "unit": "２次方程式１１ 文章題４",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ajl9YE_nIjs",
+      "durationLabel": "12:34"
     }
   ]
 }
