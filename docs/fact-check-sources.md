@@ -245,6 +245,10 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 文部科学省の中学校理科学習指導要領で、第1学年の「身の回りの物質」として、気体の発生・性質・捕集法、物質の三態、状態変化で体積は変化するが質量は変化しないこと、融点・沸点の違いによる混合物の分離を扱うことを確認しました。[9] 同資料で、気体ごとの特性に応じた発生・捕集の技能を身に付けることも確認しました。[9] 東京書籍の状態変化資料は、加熱・冷却により固体・液体・気体の三つの状態へ変化することを示しています。[52]
 
+## 中学1年理科：火山・地震・地層
+
+文部科学省の中学校理科学習指導要領で、第1学年の大地の成り立ちと変化として、火山とマグマ・火成岩、地震の伝わり方と地球内部の働き、地層の重なりと化石から過去の環境・地質年代を推定する学習を扱うことを確認しました。[9] 同資料は、初期微動継続時間と震源までの距離、断層・褶曲、示相化石・示準化石を扱うことも示しています。[9] 産総研地質調査総合センターの資料で、火成岩がマグマから固まってできること、堆積岩が堆積物からできること、石灰岩とチャートの生物起源を確認しました。[53]
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -263,3 +267,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [50]: https://learnenglishkids.britishcouncil.org/read-write/your-turn/alphabet "British Council LearnEnglish Kids: Alphabet"
 [51]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12362/17842/ "東京書籍：新しい科学2 第2章 植物のからだのつくりとはたらき"
 [52]: https://ten.tokyo-shoseki.co.jp/tangenl/shou/12361/17816/ "東京書籍：新しい科学1 第4章 物質の姿と状態変化"
+[53]: https://www.gsj.jp/geology/fault-fold/formation/r-classification/index.html "産総研 地質調査総合センター：岩石の分類"
