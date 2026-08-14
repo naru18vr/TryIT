@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 整数１２ ",
+  "titleContains": "【高校 数学Ａ】 整数２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "BqaM312zaFQ",
-      "title": "【高校 数学Ａ】 整数１２ 最小公倍数１ （１３分）",
+      "id": "KwmuNBArrEQ",
+      "title": "【高校 数学Ａ】 整数２４ 余りの証明問題２ （２１分）",
       "subject": "数学",
       "unit": "整数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=BqaM312zaFQ",
-      "durationLabel": "13:02"
+      "youtubeUrl": "https://www.youtube.com/watch?v=KwmuNBArrEQ",
+      "durationLabel": "21:21"
     }
   ]
 }
