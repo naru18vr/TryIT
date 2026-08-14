@@ -174,6 +174,8 @@ Try IT公式の不等式の証明（3）では、示したい不等式を差の�
 
 東京書籍の数学III評価資料では、部分積分法、部分分数分解、積和公式を用いる不定積分を扱うことを確認しました。[148] 東京書籍の数学III不定積分単元資料でも、分数関数の不定積分、部分積分法、置換積分を扱うことを確認しました。[157]
 
+Try IT公式の定積分一覧では、定積分の計算、置換積分、偶関数・奇関数、部分積分、定積分で表される関数を扱うことを確認しました。[158] 偶関数f(-x)=f(x)では∫[-a,a]f(x)dx=2∫[0,a]f(x)dx、奇関数f(-x)=-f(x)では∫[-a,a]f(x)dx=0となる対称性を確認しました。[159] 東京書籍の定積分単元資料では、定積分と面積、区分求積法、積分変数を意識した定積分の扱いを確認しました。[160]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -452,3 +454,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [155]: https://www.try-it.jp/chapters-7547/sections-7548/lessons-7589/ "Try IT公式：置換積分法（1）"
 [156]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/18736/7654/ "東京書籍：数学III 不定積分"
 [157]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16616/19747/ "東京書籍：数学III Advanced 不定積分"
+[158]: https://www.try-it.jp/chapters-7547/sections-7617/ "Try IT公式：高校数学III 定積分"
+[159]: https://www.try-it.jp/chapters-7547/sections-7617/lessons-7632/ "Try IT公式：偶関数・奇関数の定積分"
+[160]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/18736/7655/ "東京書籍：数学III 定積分"
