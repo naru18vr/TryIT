@@ -102,6 +102,10 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 
 東京書籍の中学3年理科資料で、月の満ち欠け、金星の見え方、日食・月食が「月と金星の見え方」として扱われ、地球上での見え方と宇宙からの位置関係をモデルで往復して考えることを確認しました。[33] 月食は月が地球の影に入る現象であることも同資料で確認しました。[33]
 
+## 中学1年英語：命令文
+
+British Councilの命令文資料で、命令・指示は主語youを置かずに動詞の原形で表し、否定の命令・指示はdon't＋動詞の原形で作ることを確認しました。[44] pleaseを添えると丁寧な言い方になることも記述します。
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -137,6 +141,7 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 [31]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12363/17864/ "東京書籍：新しい科学3 第3章 化学変化と電池"
 [32]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21318/ "東京書籍：新編 新しい科学3 第1章 地球の運動と天体の動き"
 [33]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21319/ "東京書籍：新編 新しい科学3 第2章 月と金星の見え方"
+[44]: https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/imperatives "British Council: Imperatives"
 
 ## 中学1年数学：資料の整理
 
