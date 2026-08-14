@@ -180,4 +180,8 @@ British Councilの現在形のbe動詞資料で、be動詞は現在の状態や�
 
 British Councilの現在形のbe動詞資料で、否定文はbe動詞の直後にnotを置き、I am not、you/we/they are not、he/she/it is notとすることを確認しました。[38] am notはI''m notと短縮でき、is not・are notはisn''t・aren''tなどにも短縮できます。動画別ノートでは、主語ごとのbe動詞とnotの位置を記述します。
 
+## 中学1年英語：be動詞の疑問文と答え方
+
+British Councilの現在形のbe動詞資料で、疑問文はam・is・areを主語の前に置き、短い答えではYesの後に主語＋be動詞、Noの後に主語＋be動詞＋notを置くことを確認しました。[38] 動画別ノートでは、疑問文の語順、代名詞の置き換え、Yes/Noでの短い答えを記述します。
+
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"

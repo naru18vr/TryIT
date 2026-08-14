@@ -1,32 +1,32 @@
 {
   "grade": "中学1年",
-  "titleContains": "be動詞の否定文",
+  "titleContains": "be動詞の疑問文",
   "selectedUnit": "混合単元",
   "count": 3,
   "items": [
     {
-      "id": "kx7qRf-Nrnk",
-      "title": "【中１ 英語】 be動詞の否定文の作り方(I,you) （１２分）",
+      "id": "tC-K2_EXDVU",
+      "title": "【中１ 英語】 be動詞の疑問文と答え方(you) （１１分）",
       "subject": "英語",
-      "unit": "be動詞の否定文の作り方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=kx7qRf-Nrnk",
-      "durationLabel": "11:45"
+      "unit": "be動詞の疑問文と答え方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tC-K2_EXDVU",
+      "durationLabel": "11:22"
     },
     {
-      "id": "iQqHJ4IvE88",
-      "title": "【中１ 英語】 be動詞の否定文(he,she) （１１分）",
+      "id": "7B-CZG1qLN0",
+      "title": "【中１ 英語】 be動詞の疑問文(he,she) （１０分）",
       "subject": "英語",
-      "unit": "be動詞の否定文",
-      "youtubeUrl": "https://www.youtube.com/watch?v=iQqHJ4IvE88",
-      "durationLabel": "11:01"
+      "unit": "be動詞の疑問文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7B-CZG1qLN0",
+      "durationLabel": "9:54"
     },
     {
-      "id": "QUFkVCTny0U",
-      "title": "【中１ 英語】 be動詞の否定文(this,that) （１１分）",
+      "id": "7NLZ7FZIjjU",
+      "title": "【中１ 英語】 be動詞の疑問文(this,that) （１１分）",
       "subject": "英語",
-      "unit": "be動詞の否定文",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QUFkVCTny0U",
-      "durationLabel": "11:04"
+      "unit": "be動詞の疑問文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7NLZ7FZIjjU",
+      "durationLabel": "11:02"
     }
   ]
 }
