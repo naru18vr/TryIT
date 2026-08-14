@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 図形と式３４ ",
+  "titleContains": "【高校 数学Ⅱ】 三角関数１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "lvjA5rzfcn4",
-      "title": "【高校 数学Ⅱ】 図形と式３４ 領域の最大値 （１９分）",
+      "id": "xILlB7_e2Tg",
+      "title": "【高校 数学Ⅱ】 三角関数１２ 等式１ （１１分）",
       "subject": "数学",
-      "unit": "図形と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lvjA5rzfcn4",
-      "durationLabel": "19:18"
+      "unit": "三角関数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xILlB7_e2Tg",
+      "durationLabel": "10:33"
     }
   ]
 }
