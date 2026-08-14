@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学B】 ベクトル１２ ",
+  "titleContains": "【高校 数学B】 ベクトル２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "MG6Vo88TwCY",
-      "title": "【高校 数学B】 ベクトル１２ 内積１ （１７分）",
+      "id": "G2qCz1rPCBI",
+      "title": "【高校 数学B】 ベクトル２４ 直線方程式２ （１６分）",
       "subject": "数学",
       "unit": "ベクトル",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MG6Vo88TwCY",
-      "durationLabel": "17:04"
+      "youtubeUrl": "https://www.youtube.com/watch?v=G2qCz1rPCBI",
+      "durationLabel": "16:25"
     }
   ]
 }
