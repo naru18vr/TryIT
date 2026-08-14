@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 整数２４ ",
+  "titleContains": "【高校 数学Ａ】 整数３６ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "KwmuNBArrEQ",
-      "title": "【高校 数学Ａ】 整数２４ 余りの証明問題２ （２１分）",
+      "id": "0tm14Cvh36k",
+      "title": "【高校 数学Ａ】 整数３６ ２進法とは？ （７分）",
       "subject": "数学",
       "unit": "整数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=KwmuNBArrEQ",
-      "durationLabel": "21:21"
+      "youtubeUrl": "https://www.youtube.com/watch?v=0tm14Cvh36k",
+      "durationLabel": "7:26"
     }
   ]
 }
