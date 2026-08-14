@@ -1,0 +1,136 @@
+{
+  "grade": "中学3年",
+  "titleContains": null,
+  "selectedUnit": "相似",
+  "count": 16,
+  "items": [
+    {
+      "id": "pcXY9VZ32lE",
+      "title": "【中３ 数学】 相似２ 相似比 （９分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pcXY9VZ32lE",
+      "durationLabel": "8:54"
+    },
+    {
+      "id": "G0crxm5LBms",
+      "title": "【中３ 数学】 相似１ 相似とは？ （１２分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G0crxm5LBms",
+      "durationLabel": "11:45"
+    },
+    {
+      "id": "Z94L7s-L_BE",
+      "title": "【中３ 数学】 相似９ 平行線と比３ （１０分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Z94L7s-L_BE",
+      "durationLabel": "9:56"
+    },
+    {
+      "id": "QIQYh3EmXyE",
+      "title": "【中３ 数学】 相似８ 平行線と比２ （６分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QIQYh3EmXyE",
+      "durationLabel": "5:42"
+    },
+    {
+      "id": "aiI92fwknI8",
+      "title": "【中３ 数学】 相似７ 平行線と比１ （７分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aiI92fwknI8",
+      "durationLabel": "7:05"
+    },
+    {
+      "id": "O6HWaukEUow",
+      "title": "【中３ 数学】 相似６ 相似の証明 （１５分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=O6HWaukEUow",
+      "durationLabel": "14:48"
+    },
+    {
+      "id": "kReJf2cKnlc",
+      "title": "【中３ 数学】 相似３ 相似条件（３辺） （１２分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kReJf2cKnlc",
+      "durationLabel": "11:57"
+    },
+    {
+      "id": "agihWo8jJ2k",
+      "title": "【中３ 数学】 相似５ 相似条件（両端角） （９分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=agihWo8jJ2k",
+      "durationLabel": "9:09"
+    },
+    {
+      "id": "JGcqv_b2PRA",
+      "title": "【中３ 数学】 相似４ 相似条件（２辺と間の角）（１１分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JGcqv_b2PRA",
+      "durationLabel": "10:40"
+    },
+    {
+      "id": "s1nOiz20gbc",
+      "title": "【中３ 数学】 相似１０ 平行線と比４ （７分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=s1nOiz20gbc",
+      "durationLabel": "7:20"
+    },
+    {
+      "id": "IcK04N7ifYo",
+      "title": "【中３ 数学】 相似１１ 拡大図・縮図の作図 （６分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IcK04N7ifYo",
+      "durationLabel": "5:44"
+    },
+    {
+      "id": "psxKWScXWLE",
+      "title": "【中３ 数学】 相似１２ 中点連結定理１ （７分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=psxKWScXWLE",
+      "durationLabel": "7:11"
+    },
+    {
+      "id": "jciL4bzLlSA",
+      "title": "【中３ 数学】 相似１４ 面積比 （６分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jciL4bzLlSA",
+      "durationLabel": "6:18"
+    },
+    {
+      "id": "bElJwvHjBRM",
+      "title": "【中３ 数学】 相似１３ 中点連結定理２ （１５分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bElJwvHjBRM",
+      "durationLabel": "14:59"
+    },
+    {
+      "id": "f-oB-4cYst0",
+      "title": "【中３ 数学】 相似１５ 表面積比・体積比 （９分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=f-oB-4cYst0",
+      "durationLabel": "9:11"
+    },
+    {
+      "id": "PvreLNxJGiE",
+      "title": "【中３ 数学】 相似１６ 文章題（かげの長さ） （７分）",
+      "subject": "数学",
+      "unit": "相似",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PvreLNxJGiE",
+      "durationLabel": "7:06"
+    }
+  ]
+}
