@@ -1,16 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 微分１２ ",
+  "titleContains": "【高校 数学Ⅱ】 微分２４ ",
   "selectedUnit": "混合単元",
-  "count": 1,
-  "items": [
-    {
-      "id": "k-Z8edST6C8",
-      "title": "【高校 数学Ⅱ】 微分１２ 増減表の作り方 （１８分）",
-      "subject": "数学",
-      "unit": "微分",
-      "youtubeUrl": "https://www.youtube.com/watch?v=k-Z8edST6C8",
-      "durationLabel": "18:20"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
