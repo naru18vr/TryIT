@@ -138,6 +138,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 高校数学II「対数」では、Try IT公式の対数関数一覧に、対数の定義、対数の計算公式、底の変換、対数方程式、対数関数のグラフ、大小関係、対数不等式、常用対数の応用が並ぶことを確認しました。[100] Try IT公式の対数計算公式では、底が同じときの和・差を真数の積・商へまとめること、真数の指数を係数として扱うことを確認しました。[101] Try IT公式の底の変換公式では、log_a bをlog_c b/log_c aに変換できることを確認しました。[102]
 
+高校数学II「微分」では、Try IT公式の微分法と積分法一覧に、極限、微分係数と導関数、接線、関数の増減と極値、積分法が並ぶことを確認しました。[103] 文部科学省の数学II内容では、微分係数と導関数、導関数の応用として接線と関数値の増減、ならびに不定積分・定積分と面積を扱うことを確認しました。[104] 東京書籍の資料では、数学IIの微分法で増減表を作成し、極値やグラフ描画に活用することを確認しました。[105]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -361,3 +363,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [100]: https://www.try-it.jp/chapters-6817/sections-6855/ "Try IT公式：高校数学II 対数関数"
 [101]: https://www.try-it.jp/chapters-6817/sections-6855/lessons-6864/ "Try IT公式：対数の計算公式"
 [102]: https://www.try-it.jp/chapters-6817/sections-6855/lessons-6868/ "Try IT公式：底の変換公式"
+[103]: https://www.try-it.jp/chapters-6916/ "Try IT公式：高校数学II 微分法と積分法"
+[104]: https://www.mext.go.jp/a_menu/shotou/cs/1320155.htm "文部科学省：高等学校学習指導要領 数学II"
+[105]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16610/18758/ "東京書籍：数学II 導関数の応用"
