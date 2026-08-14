@@ -166,6 +166,8 @@ Try IT公式の媒介変数表示の微分要点では、x=f(t)、y=g(t)をと�
 
 高校数学III「微分法の応用」では、Try IT公式の単元一覧に、接線・法線、導関数の符号と増減、極値、最大・最小、凹凸・変曲点、グラフ、第2次導関数と極値、方程式・不等式への応用、1次近似・近似値の全30本があることを確認しました。[144] 東京書籍の数学III資料では、接線・関数の増減、導関数の正負と増減、凹凸と第2次導関数を扱うことを確認しました。[145] Try IT公式の極値の存在条件では、x=pで極値をとるならf''(p)=0が必要であり、前後で導関数の符号が変わることを増減表で確認する必要があることを確認しました。[146]
 
+Try IT公式の導関数の応用一覧では、最大・最小、曲線の凹凸と変曲点、グラフのかき方、第2次導関数と極値が連続する学習範囲であることを確認しました。[147] 東京書籍の数学III評価資料では、第2次導関数と曲線の凹凸、関数の増減・極値・変曲点を踏まえたグラフの概形、最大・最小、不等式・方程式への応用を扱うことを確認しました。[148] 東京都教育委員会の数学III資料でも、導関数を用いて接線、増減、極大・極小、凹凸を調べてグラフの概形をかくことを確認しました。[149]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -433,3 +435,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [144]: https://www.try-it.jp/chapters-7472/ "Try IT公式：高校数学III 微分法の応用"
 [145]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16542/16462/ "東京書籍：数学III 接線・関数の増減"
 [146]: https://www.try-it.jp/chapters-7472/sections-7473/lessons-7504/ "Try IT公式：極値の存在条件"
+[147]: https://www.try-it.jp/chapters-7472/sections-7473/ "Try IT公式：高校数学III 導関数の応用"
+[148]: https://ten.tokyo-shoseki.co.jp/text/hs/sugaku/data/sugaku_16604_su3_hyoka.pdf "東京書籍：評価規準例 数学III Advanced"
+[149]: https://www.kyoiku.metro.tokyo.lg.jp/documents/d/kyoiku/15_20 "東京都教育委員会：数学III 教科書調査研究資料"
