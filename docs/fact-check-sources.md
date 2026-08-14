@@ -50,6 +50,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 現在完了形は have/has と過去分詞でつくり、過去から現在までの継続、現在までの経験、現在に関係する過去の出来事に用いることをBritish Councilの資料で照合しました。[16] また、just は have/has と過去分詞の間、yet は疑問文・否定文の文末、already は「今より前」の意味で使われることを確認しました。[17]
 
+## 中学3年数学：標本調査
+
+母集団は調査対象の集団全体、全数調査は母集団のすべてを調べる方法、標本調査は母集団の一部を抽出して全体を推定する方法であることを総務省統計局の資料で照合しました。[18] 標本調査では標本誤差が生じ得るため、偏りを小さくし、無作為に抽出する必要があることも同資料で確認しました。[18]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -69,3 +73,4 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [15]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12363/17863/ "東京書籍：新しい科学3 第2章 酸、アルカリとイオン"
 [16]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect "British Council: Present perfect"
 [17]: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect-just-yet-still-already "British Council: Present perfect: just, yet, still and already"
+[18]: https://www.stat.go.jp/naruhodo/7_shurui/zensu.html "総務省統計局：全数調査・標本調査"

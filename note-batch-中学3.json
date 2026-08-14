@@ -1,56 +1,32 @@
 {
   "grade": "中学3年",
-  "titleContains": "現在完了",
-  "selectedUnit": "混合単元",
-  "count": 6,
+  "titleContains": null,
+  "selectedUnit": "標本調査",
+  "count": 3,
   "items": [
     {
-      "id": "nxqZEAapmik",
-      "title": "【中３ 英語】 現在完了形(継続)の否定、疑問文 （２３分）",
-      "subject": "英語",
-      "unit": "現在完了形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=nxqZEAapmik",
-      "durationLabel": "22:52"
+      "id": "GANITPQl9cE",
+      "title": "【中３ 数学】 標本調査３ 標本の抽出と推定 （８分）",
+      "subject": "数学",
+      "unit": "標本調査",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GANITPQl9cE",
+      "durationLabel": "8:20"
     },
     {
-      "id": "5dcph7aYJDg",
-      "title": "【中３ 英語】 現在完了形の意味と使い方(継続) （１８分）",
-      "subject": "英語",
-      "unit": "現在完了形の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=5dcph7aYJDg",
-      "durationLabel": "17:42"
+      "id": "Wff_r0H2Y84",
+      "title": "【中３ 数学】 標本調査２ 母集団と標本の大きさ （５分）",
+      "subject": "数学",
+      "unit": "標本調査",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wff_r0H2Y84",
+      "durationLabel": "5:31"
     },
     {
-      "id": "tnBlmOmgrT0",
-      "title": "【中３ 英語】 be動詞の現在完了形の使い方 （１５分）",
-      "subject": "英語",
-      "unit": "be動詞の現在完了形の使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=tnBlmOmgrT0",
-      "durationLabel": "15:08"
-    },
-    {
-      "id": "F2rsAMySnYI",
-      "title": "【中３ 英語】 現在完了形の意味と使い方(経験) （１８分）",
-      "subject": "英語",
-      "unit": "現在完了形の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=F2rsAMySnYI",
-      "durationLabel": "17:40"
-    },
-    {
-      "id": "_UtOvVtTuzA",
-      "title": "【中３ 英語】 現在完了形(経験)の否定、疑問文 （１８分）",
-      "subject": "英語",
-      "unit": "現在完了形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_UtOvVtTuzA",
-      "durationLabel": "18:12"
-    },
-    {
-      "id": "-ssh2gZhGo8",
-      "title": "【中３ 英語】 already や yet と現在完了 （１９分）",
-      "subject": "英語",
-      "unit": "already や yet と現在完了",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-ssh2gZhGo8",
-      "durationLabel": "19:13"
+      "id": "FtdAno0HFyU",
+      "title": "【中３ 数学】 標本調査１ 全数調査と標本調査 （８分）",
+      "subject": "数学",
+      "unit": "標本調査",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FtdAno0HFyU",
+      "durationLabel": "7:55"
     }
   ]
 }
