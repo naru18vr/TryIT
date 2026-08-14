@@ -255,6 +255,8 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 高校数学Iの実数分野では、東京書籍の単元資料で、実数・無理数、平方根、根号を含む式の計算、分母の有理化、平方根を含む数の整数部分・小数部分を扱うことを確認しました。[56] 動画別ノートは、動画タイトルで確認できる範囲の循環小数、平方根、根号の計算、有理化、整数部分・小数部分に限定して記述します。
 
+文部科学省の高等学校数学資料で、数学Iでは一次不等式と二次方程式を扱い、二次方程式では解の公式と実数解を扱うことを確認しました。[54] 学習指導要領LODの数学I「数と集合」では、実数・簡単な無理数の四則計算に加え、集合と命題の基本概念を事象の考察へ活用する範囲であることを確認しました。[57] 二次方程式・集合の動画別ノートは、動画タイトルで確認できる解の意味、解の公式、実数解、判別式、要素と集合の基本に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -277,3 +279,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [54]: https://www.mext.go.jp/a_menu/shotou/cs/1320230.htm "文部科学省：高等学校学習指導要領 数学"
 [55]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13958/ "東京書籍：数学I Advanced 1節 式の計算"
 [56]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16605/18764/ "東京書籍：数学I Standard 2節 実数"
+[57]: https://jp-cos.github.io/745/1503110000000 "学習指導要領LOD：高等学校数学I 数と集合"
