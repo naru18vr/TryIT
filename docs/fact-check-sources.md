@@ -162,6 +162,8 @@ Try IT公式のeの要点では、eを(1+x)^(1/x)のx→0における極限で�
 
 高校数学III「微分法」では、Try IT公式の単元一覧に、導関数5本と、三角・指数・対数・合成関数・高次導関数・媒介変数・対数微分法などを扱う15本があり、全20本で構成されることを確認しました。[139] 東京書籍の数学III資料では、積・商・合成関数の微分法、分数・無理・三角・対数・指数関数の微分、微分可能なら連続であることを扱うことを確認しました。[140]
 
+Try IT公式の媒介変数表示の微分要点では、x=f(t)、y=g(t)をともにtで微分し、dx/dtが0でない範囲でdy/dx=(dy/dt)/(dx/dt)=g''(t)/f''(t)として求めることを確認しました。[141] 対数微分法については、y=x^xのように底と指数の双方に変数を含む形では、両辺の対数を取ってから微分し、最後にyを戻して導関数を求めることを確認しました。[142] 東京書籍の資料でも、媒介変数表示の第2次導関数および高次導関数を扱うことを確認しました。[143]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -423,3 +425,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [138]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7399/ "Try IT公式：中間値の定理"
 [139]: https://www.try-it.jp/chapters-7403/ "Try IT公式：高校数学III 微分法"
 [140]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16617/19792/ "東京書籍：数学III 微分法"
+[141]: https://www.try-it.jp/chapters-7403/sections-7421/lessons-7464/ "Try IT公式：媒介変数表示の関数の微分（1）"
+[142]: https://www.try-it.jp/chapters-7403/sections-7421/lessons-7470/ "Try IT公式：対数微分法"
+[143]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16616/19742/ "東京書籍：数学III いろいろな関数の導関数"
