@@ -164,6 +164,8 @@ Try IT公式のeの要点では、eを(1+x)^(1/x)のx→0における極限で�
 
 Try IT公式の媒介変数表示の微分要点では、x=f(t)、y=g(t)をともにtで微分し、dx/dtが0でない範囲でdy/dx=(dy/dt)/(dx/dt)=g''(t)/f''(t)として求めることを確認しました。[141] 対数微分法については、y=x^xのように底と指数の双方に変数を含む形では、両辺の対数を取ってから微分し、最後にyを戻して導関数を求めることを確認しました。[142] 東京書籍の資料でも、媒介変数表示の第2次導関数および高次導関数を扱うことを確認しました。[143]
 
+高校数学III「微分法の応用」では、Try IT公式の単元一覧に、接線・法線、導関数の符号と増減、極値、最大・最小、凹凸・変曲点、グラフ、第2次導関数と極値、方程式・不等式への応用、1次近似・近似値の全30本があることを確認しました。[144] 東京書籍の数学III資料では、接線・関数の増減、導関数の正負と増減、凹凸と第2次導関数を扱うことを確認しました。[145] Try IT公式の極値の存在条件では、x=pで極値をとるならf''(p)=0が必要であり、前後で導関数の符号が変わることを増減表で確認する必要があることを確認しました。[146]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -428,3 +430,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [141]: https://www.try-it.jp/chapters-7403/sections-7421/lessons-7464/ "Try IT公式：媒介変数表示の関数の微分（1）"
 [142]: https://www.try-it.jp/chapters-7403/sections-7421/lessons-7470/ "Try IT公式：対数微分法"
 [143]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16616/19742/ "東京書籍：数学III いろいろな関数の導関数"
+[144]: https://www.try-it.jp/chapters-7472/ "Try IT公式：高校数学III 微分法の応用"
+[145]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16542/16462/ "東京書籍：数学III 接線・関数の増減"
+[146]: https://www.try-it.jp/chapters-7472/sections-7473/lessons-7504/ "Try IT公式：極値の存在条件"
