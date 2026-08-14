@@ -249,6 +249,10 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 文部科学省の中学校理科学習指導要領で、第1学年の大地の成り立ちと変化として、火山とマグマ・火成岩、地震の伝わり方と地球内部の働き、地層の重なりと化石から過去の環境・地質年代を推定する学習を扱うことを確認しました。[9] 同資料は、初期微動継続時間と震源までの距離、断層・褶曲、示相化石・示準化石を扱うことも示しています。[9] 産総研地質調査総合センターの資料で、火成岩がマグマから固まってできること、堆積岩が堆積物からできること、石灰岩とチャートの生物起源を確認しました。[53]
 
+## 高校数学I：数と式（整式・指数・展開）
+
+文部科学省の高等学校数学資料で、数学Iの「数と式」では実数、式の展開、因数分解を扱うことを確認しました。[54] 同資料は、展開公式を三次までの範囲とし、複雑な因数分解には深入りしないことも示しています。[54] 東京書籍の数学I資料では、整式の用語・降べきの順、展開の意味と公式、因数分解が数と式の学習内容であることを確認しました。[55]
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -268,3 +272,5 @@ British Councilのアルファベット資料で、アルファベットの文�
 [51]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12362/17842/ "東京書籍：新しい科学2 第2章 植物のからだのつくりとはたらき"
 [52]: https://ten.tokyo-shoseki.co.jp/tangenl/shou/12361/17816/ "東京書籍：新しい科学1 第4章 物質の姿と状態変化"
 [53]: https://www.gsj.jp/geology/fault-fold/formation/r-classification/index.html "産総研 地質調査総合センター：岩石の分類"
+[54]: https://www.mext.go.jp/a_menu/shotou/cs/1320230.htm "文部科学省：高等学校学習指導要領 数学"
+[55]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13958/ "東京書籍：数学I Advanced 1節 式の計算"

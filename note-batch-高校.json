@@ -1,0 +1,248 @@
+{
+  "grade": "高校",
+  "titleContains": "【高校 数学Ⅰ】 数と式",
+  "selectedUnit": "数と式",
+  "count": 30,
+  "items": [
+    {
+      "id": "_sGNZKzeMWU",
+      "title": "【高校 数学Ⅰ】 数と式６６ 和集合 （１０分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_sGNZKzeMWU",
+      "durationLabel": "9:40"
+    },
+    {
+      "id": "OUdwDpluf38",
+      "title": "【高校 数学Ⅰ】 数と式１７ たすきがけ０ （１５分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OUdwDpluf38",
+      "durationLabel": "14:42"
+    },
+    {
+      "id": "WdLkwlw431k",
+      "title": "【高校 数学Ⅰ】 数と式１ 単項式·多項式 （８分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WdLkwlw431k",
+      "durationLabel": "8:14"
+    },
+    {
+      "id": "8WV8FuQcj8o",
+      "title": "【高校 数学Ⅰ】 数と式２ 係数と次数 （１０分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8WV8FuQcj8o",
+      "durationLabel": "10:27"
+    },
+    {
+      "id": "0bRwrwb4MG4",
+      "title": "【高校 数学Ⅰ】 数と式６ 指数の計算１ （１１分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0bRwrwb4MG4",
+      "durationLabel": "10:41"
+    },
+    {
+      "id": "bGDLm8CAz6s",
+      "title": "【高校 数学Ⅰ】 数と式３ 多項式の次数 （１０分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bGDLm8CAz6s",
+      "durationLabel": "10:12"
+    },
+    {
+      "id": "tEwzOFGeB90",
+      "title": "【高校 数学Ⅰ】 数と式７ 指数の計算２ （９分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tEwzOFGeB90",
+      "durationLabel": "9:04"
+    },
+    {
+      "id": "lXeUk6_5kfE",
+      "title": "【高校 数学Ⅰ】 数と式８ 展開 （１３分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lXeUk6_5kfE",
+      "durationLabel": "12:44"
+    },
+    {
+      "id": "ElwC-J3Wiqk",
+      "title": "【高校 数学Ⅰ】 数と式４ 降べきの順に整理 （１３分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ElwC-J3Wiqk",
+      "durationLabel": "12:36"
+    },
+    {
+      "id": "Q93gxf6x2c0",
+      "title": "【高校 数学Ⅰ】 数と式１０ 展開の工夫１ （１３分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q93gxf6x2c0",
+      "durationLabel": "12:44"
+    },
+    {
+      "id": "rEEujnqc92A",
+      "title": "【高校 数学Ⅰ】 数と式９ 展開の公式 （１５分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rEEujnqc92A",
+      "durationLabel": "14:54"
+    },
+    {
+      "id": "WxPskhM_wtg",
+      "title": "【高校 数学Ⅰ】 数と式１１ 展開の工夫２ （１４分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WxPskhM_wtg",
+      "durationLabel": "13:49"
+    },
+    {
+      "id": "1aQwguqbXtE",
+      "title": "【高校 数学Ⅰ】 数と式５ 整式の加法と減法 （１４分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1aQwguqbXtE",
+      "durationLabel": "13:47"
+    },
+    {
+      "id": "1_Pli-twAgU",
+      "title": "【高校 数学Ⅰ】 数と式３１ 根号の乗法２ （９分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1_Pli-twAgU",
+      "durationLabel": "9:06"
+    },
+    {
+      "id": "hRi-J--ezfA",
+      "title": "【高校 数学Ⅰ】 数と式６１ 集合の表し方１ （９分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hRi-J--ezfA",
+      "durationLabel": "8:54"
+    },
+    {
+      "id": "Y-1cDfbtlxY",
+      "title": "【高校 数学Ⅰ】 数と式３２ 根号の加減法 （１１分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y-1cDfbtlxY",
+      "durationLabel": "11:26"
+    },
+    {
+      "id": "skaEtXkVLe4",
+      "title": "【高校 数学Ⅰ】 数と式６２ 集合の表し方２ （９分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=skaEtXkVLe4",
+      "durationLabel": "9:07"
+    },
+    {
+      "id": "g-kaMvNw-Io",
+      "title": "【高校 数学Ⅰ】 数と式３３ 根号と展開公式 （１２分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=g-kaMvNw-Io",
+      "durationLabel": "12:08"
+    },
+    {
+      "id": "251vlkVIaOs",
+      "title": "【高校 数学Ⅰ】 数と式１２ （a＋b＋c）^2 （８分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=251vlkVIaOs",
+      "durationLabel": "7:47"
+    },
+    {
+      "id": "bw1GoZcdXmo",
+      "title": "【高校 数学Ⅰ】 数と式３５ 分母の有理化２ （１０分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bw1GoZcdXmo",
+      "durationLabel": "10:25"
+    },
+    {
+      "id": "AVBiX7yQc_4",
+      "title": "【高校 数学Ⅰ】 数と式６５ 共通部分 （９分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AVBiX7yQc_4",
+      "durationLabel": "8:57"
+    },
+    {
+      "id": "Y6wwQM_zkdY",
+      "title": "【高校 数学Ⅰ】 数と式６４ 部分集合２ （１１分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y6wwQM_zkdY",
+      "durationLabel": "10:35"
+    },
+    {
+      "id": "E6xUzJ5z3uo",
+      "title": "【高校 数学Ⅰ】 数と式１４ 因数分解１ （１０分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=E6xUzJ5z3uo",
+      "durationLabel": "9:51"
+    },
+    {
+      "id": "2ju2eNx2r7I",
+      "title": "【高校 数学Ⅰ】 数と式３４ 分母の有理化１ （８分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2ju2eNx2r7I",
+      "durationLabel": "7:33"
+    },
+    {
+      "id": "v1GFx1cfQCY",
+      "title": "【高校 数学Ⅰ】 数と式１３ 因数分解とは？ （１１分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=v1GFx1cfQCY",
+      "durationLabel": "11:26"
+    },
+    {
+      "id": "ITESZVJmwTY",
+      "title": "【高校 数学Ⅰ】 数と式１５ 因数分解２ （１１分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ITESZVJmwTY",
+      "durationLabel": "10:57"
+    },
+    {
+      "id": "UUjtwxF_lUQ",
+      "title": "【高校 数学Ⅰ】 数と式３６ 根号の小数部分 （９分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UUjtwxF_lUQ",
+      "durationLabel": "9:00"
+    },
+    {
+      "id": "Xsz7YjwR9R8",
+      "title": "【高校 数学Ⅰ】 数と式１６ 因数分解３ （１５分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Xsz7YjwR9R8",
+      "durationLabel": "15:27"
+    },
+    {
+      "id": "qe1S2NE7C-0",
+      "title": "【高校 数学Ⅰ】 数と式６７ 不等式と集合 （８分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qe1S2NE7C-0",
+      "durationLabel": "8:15"
+    },
+    {
+      "id": "MptwEdNrRNQ",
+      "title": "【高校 数学Ⅰ】 数と式６８ 補集合 （７分）",
+      "subject": "数学",
+      "unit": "数と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MptwEdNrRNQ",
+      "durationLabel": "7:02"
+    }
+  ]
+}
