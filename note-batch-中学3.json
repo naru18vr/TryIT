@@ -1,40 +1,24 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "展開と因数分解",
-  "count": 4,
+  "selectedUnit": "速さが変わる運動",
+  "count": 2,
   "items": [
     {
-      "id": "IuXdaDtHfCk",
-      "title": "【中３ 数学】 展開と因数分解２ 偶数・奇数 （１３分）",
-      "subject": "数学",
-      "unit": "展開と因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=IuXdaDtHfCk",
-      "durationLabel": "13:01"
+      "id": "SP_phcF0CgU",
+      "title": "【中３ 理科 物理】 速さが変わる運動１ （１４分）",
+      "subject": "理科",
+      "unit": "速さが変わる運動",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SP_phcF0CgU",
+      "durationLabel": "14:12"
     },
     {
-      "id": "2ZacUhB15sw",
-      "title": "【中３ 数学】 展開と因数分解１ 計算への利用 （７分）",
-      "subject": "数学",
-      "unit": "展開と因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2ZacUhB15sw",
-      "durationLabel": "6:46"
-    },
-    {
-      "id": "YrLFKYuG1YE",
-      "title": "【中３ 数学】 展開と因数分解３ 連続する数 （１３分）",
-      "subject": "数学",
-      "unit": "展開と因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YrLFKYuG1YE",
-      "durationLabel": "13:12"
-    },
-    {
-      "id": "N8tBt3LYz8s",
-      "title": "【中３ 数学】 展開と因数分解４ 道路の面積 （１２分）",
-      "subject": "数学",
-      "unit": "展開と因数分解",
-      "youtubeUrl": "https://www.youtube.com/watch?v=N8tBt3LYz8s",
-      "durationLabel": "11:53"
+      "id": "Cz6dc76JhFk",
+      "title": "【中３ 理科 物理】 速さが変わる運動２ （１８分）",
+      "subject": "理科",
+      "unit": "速さが変わる運動",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Cz6dc76JhFk",
+      "durationLabel": "18:19"
     }
   ]
 }
