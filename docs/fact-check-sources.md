@@ -196,6 +196,10 @@ British Councilの現在形資料で、I・you・we・theyを主語にする一�
 
 British Councilの現在形資料で、I・you・we・theyを主語にする一般動詞の疑問文はDo＋主語＋動詞の原形で作り、短い答えにはdo/don''tを使うことを確認しました。[39] 動画別ノートでは、Doの位置、動詞を原形にすること、質問のyouを答えのIへ替える観点を記述します。
 
+## 中学1年英語：三人称単数と一般動詞
+
+British Councilの現在形資料で、he・she・itを主語にする肯定文では一般動詞にs/esを付け、否定文にはdoesn''t＋動詞の原形、疑問文にはDoes＋主語＋動詞の原形を使うことを確認しました。[39] 動画別ノートでは、肯定文だけに現れるs/esと、does/doesn''tの後では動詞を原形に戻す観点を記述します。
+
 [39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
 
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"
