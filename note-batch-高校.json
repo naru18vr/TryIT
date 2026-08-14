@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 複素数１８ ",
+  "titleContains": "【高校 数学Ⅱ】 図形と式１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "TRXeLqtdKrI",
-      "title": "【高校 数学Ⅱ】 複素数１８ 高次方程式４ （２０分）",
+      "id": "i4XNQU5W5xo",
+      "title": "【高校 数学Ⅱ】 図形と式１２ 放物線と直線１ （１２分）",
       "subject": "数学",
-      "unit": "複素数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TRXeLqtdKrI",
-      "durationLabel": "19:48"
+      "unit": "図形と式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=i4XNQU5W5xo",
+      "durationLabel": "11:31"
     }
   ]
 }
