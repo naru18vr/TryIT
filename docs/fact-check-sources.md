@@ -237,6 +237,10 @@ British Councilのbe動詞資料で、be動詞は主語と説明をつなぐリ�
 
 British Councilのアルファベット資料で、アルファベットの文字名と大文字・小文字の書き方を練習すること、英語が左から右へ書かれることを確認しました。[49][50] 動画別ノートでは、26文字・文字名・大文字と小文字の対応、単語のつづり、文頭の大文字・語間の空白・文末記号という初歩的な表記に限定して記述します。
 
+## 中学1年理科：植物の体のつくりと働き
+
+文部科学省の中学校理科学習指導要領で、花のつくりと働き、葉・茎・根のつくりと働きを、光合成・呼吸・蒸散に関する観察・実験の結果と関連付けて学ぶことを確認しました。[9] 被子植物の花では、受粉後に胚珠が種子になることを中心に扱い、葉緑体の働きと、葉・茎・根の働きの相互の関連を扱うことも確認しました。[9] 東京書籍の単元資料でも、光合成で植物が二酸化炭素を材料としていること、蒸散と吸水を実験で関連付けることを確認しました。[51]
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -253,3 +257,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [48]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verb-be "British Council: The verb 'be'"
 [49]: https://www.teachingenglish.org.uk/teaching-resources/teaching-primary/lesson-plans/level-1/alphabet "British Council TeachingEnglish: Alphabet"
 [50]: https://learnenglishkids.britishcouncil.org/read-write/your-turn/alphabet "British Council LearnEnglish Kids: Alphabet"
+[51]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12362/17842/ "東京書籍：新しい科学2 第2章 植物のからだのつくりとはたらき"
