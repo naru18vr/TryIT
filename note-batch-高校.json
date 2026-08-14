@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅰ】 数と式６０ ",
+  "titleContains": "【高校 数学Ⅰ】 数と式７２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "9bswCiTN2-M",
-      "title": "【高校 数学Ⅰ】 数と式６０ 集合と要素 （９分）",
+      "id": "-kUKDaJz1EE",
+      "title": "【高校 数学Ⅰ】 数と式７２ 仮定と結論 （６分）",
       "subject": "数学",
       "unit": "数と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9bswCiTN2-M",
-      "durationLabel": "9:05"
+      "youtubeUrl": "https://www.youtube.com/watch?v=-kUKDaJz1EE",
+      "durationLabel": "6:29"
     }
   ]
 }
