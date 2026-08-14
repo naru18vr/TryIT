@@ -1,32 +1,16 @@
 {
   "grade": "中学3年",
-  "titleContains": "細胞分裂",
+  "titleContains": "動物の生殖",
   "selectedUnit": "混合単元",
-  "count": 3,
+  "count": 1,
   "items": [
     {
-      "id": "3huNh1NAiIA",
-      "title": "【中３ 理科 生物】 細胞分裂 （１４分）",
+      "id": "jWqDMYgub3U",
+      "title": "【中３ 理科 生物】 動物の生殖 （１３分）",
       "subject": "理科",
-      "unit": "細胞分裂",
-      "youtubeUrl": "https://www.youtube.com/watch?v=3huNh1NAiIA",
-      "durationLabel": "14:23"
-    },
-    {
-      "id": "LtwU-cA9CG4",
-      "title": "【中３ 理科 生物】 細胞分裂の観察 （１１分）",
-      "subject": "理科",
-      "unit": "細胞分裂の観察",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LtwU-cA9CG4",
-      "durationLabel": "10:59"
-    },
-    {
-      "id": "wQu_t8ynfX4",
-      "title": "【中３ 理科 生物】 細胞分裂と染色体 （１４分）",
-      "subject": "理科",
-      "unit": "細胞分裂と染色体",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wQu_t8ynfX4",
-      "durationLabel": "14:26"
+      "unit": "動物の生殖",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jWqDMYgub3U",
+      "durationLabel": "13:09"
     }
   ]
 }
