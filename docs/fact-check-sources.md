@@ -229,6 +229,8 @@ British Councilの現在進行形資料で、現在進行形はbe動詞の現在
 
 British Councilの疑問詞資料で、whoは人、what/whichは物や事柄、whenは時、whereは場所、whyは理由、howは詳しい情報をたずねることを確認しました。[45] whoseは持ち主をたずねる語であり、whose＋名詞またはWhose＋be動詞の形を使い、who's（who is）と混同しないことを確認しました。[46] また、can/can'tは能力を表し、疑問文ではcanの後に主語を置き、否定形にはcan't/cannotを使うことを確認しました。[12] 動画別ノートでは、各動画タイトルから確認できる基本形・語順・よくある混同に限定して記述します。
 
+British Councilの人称代名詞資料で、he/himとshe/herは主格・目的格の組であり、目的格は動詞の目的語や前置詞の後ろに使うことを確認しました。[47] 動画別ノートでは、主語の位置と目的語・前置詞の後ろの位置を区別する基本に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -241,3 +243,4 @@ British Councilの疑問詞資料で、whoは人、what/whichは物や事柄、w
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"
 [45]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/question-words "British Council: Question words"
 [46]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-questions "British Council: Possessives: questions"
+[47]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/personal-pronouns "British Council: Personal pronouns"
