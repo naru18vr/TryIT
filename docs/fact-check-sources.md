@@ -176,4 +176,8 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 
 British Councilの現在形のbe動詞資料で、be動詞は現在の状態や状況を表し、主語に応じてI am、you/we/they are、he/she/it isを用いることを確認しました。[38] 動画別ノートでは、主語とbe動詞の対応、文の語順、短縮形、一般動詞と混同しない観点を記述します。
 
+## 中学1年英語：be動詞の否定文
+
+British Councilの現在形のbe動詞資料で、否定文はbe動詞の直後にnotを置き、I am not、you/we/they are not、he/she/it is notとすることを確認しました。[38] am notはI''m notと短縮でき、is not・are notはisn''t・aren''tなどにも短縮できます。動画別ノートでは、主語ごとのbe動詞とnotの位置を記述します。
+
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"

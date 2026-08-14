@@ -1,32 +1,32 @@
 {
   "grade": "中学1年",
-  "titleContains": "be動詞",
-  "selectedUnit": "be動詞の意味と使い方",
+  "titleContains": "be動詞の否定文",
+  "selectedUnit": "混合単元",
   "count": 3,
   "items": [
     {
-      "id": "O9oe3-1KK2c",
-      "title": "【中１ 英語】 be動詞の意味と使い方(he,she) （１１分）",
+      "id": "kx7qRf-Nrnk",
+      "title": "【中１ 英語】 be動詞の否定文の作り方(I,you) （１２分）",
       "subject": "英語",
-      "unit": "be動詞の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=O9oe3-1KK2c",
-      "durationLabel": "11:11"
+      "unit": "be動詞の否定文の作り方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kx7qRf-Nrnk",
+      "durationLabel": "11:45"
     },
     {
-      "id": "2xHRCvyrhIA",
-      "title": "【中１ 英語】 be動詞の意味と使い方(you) （９分）",
+      "id": "iQqHJ4IvE88",
+      "title": "【中１ 英語】 be動詞の否定文(he,she) （１１分）",
       "subject": "英語",
-      "unit": "be動詞の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2xHRCvyrhIA",
-      "durationLabel": "8:50"
+      "unit": "be動詞の否定文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iQqHJ4IvE88",
+      "durationLabel": "11:01"
     },
     {
-      "id": "9-o19fBwt-o",
-      "title": "【中１ 英語】 be動詞の意味と使い方(I) （１１分）",
+      "id": "QUFkVCTny0U",
+      "title": "【中１ 英語】 be動詞の否定文(this,that) （１１分）",
       "subject": "英語",
-      "unit": "be動詞の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9-o19fBwt-o",
-      "durationLabel": "10:49"
+      "unit": "be動詞の否定文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QUFkVCTny0U",
+      "durationLabel": "11:04"
     }
   ]
 }
