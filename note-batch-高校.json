@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅰ】 ２次関数２４ ",
+  "titleContains": "【高校 数学Ⅰ】 ２次関数３６ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "-CzI7-2XEz8",
-      "title": "【高校 数学Ⅰ】 ２次関数２４ 最大・最小６ （１６分）",
+      "id": "GbJDz6HA05g",
+      "title": "【高校 数学Ⅰ】 ２次関数３６ ｘ軸に接する （１２分）",
       "subject": "数学",
-      "unit": "２次関数２４ 最大・最小６",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-CzI7-2XEz8",
-      "durationLabel": "16:18"
+      "unit": "２次関数３６ ｘ軸に接する",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GbJDz6HA05g",
+      "durationLabel": "12:00"
     }
   ]
 }
