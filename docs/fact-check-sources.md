@@ -116,6 +116,8 @@ British Councilの命令文資料で、命令・指示は主語youを置かず�
 
 さらに、Try IT公式の「場合の数」単元ページで、順列の活用1〜4が「区別する決め方」「男女の並べ方」「隣り合わない並べ方」「整数の並べ方」、円順列の活用が「男女の並べ方」であることを照合しました。[64] 公式要点ページでは、順列は順番を付けて並べること、円順列では回転で同じ並びを重複計上しないため1つを固定して残りを並べること、組合せは順序を考慮せず選ぶことを確認しました。[65][66][67]
 
+Try IT公式要点ページで、組合せの性質nCr=nC(n−r)、点を結ぶ図形、男女の選び方、特定の人を含む選び方、「少なくとも」の余事象、組分け、nPrとnCrの使い分け、同じものを含む順列、最短経路、重複組合せのテーマと考え方を照合しました。[68][69][70][71][72][73][74][75][76][77] とくに、同じものを含む順列では同じものの入れ替えによる重複を階乗で補正し、最短経路では必要な方向の移動を同じものを含む順列として扱い、重複組合せでは仕切りを使って考えることを確認しました。[75][76][77]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -304,3 +306,13 @@ British Councilのアルファベット資料で、アルファベットの文�
 [65]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4801/ "Try IT公式：順列とは？"
 [66]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4829/ "Try IT公式：円順列"
 [67]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4841/ "Try IT公式：組合せとは？"
+[68]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4849/ "Try IT公式：組合せの計算2"
+[69]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4853/ "Try IT公式：組合せの活用1（点を結ぶ）"
+[70]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4857/ "Try IT公式：組合せの活用2（男女の選び方）"
+[71]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4861/ "Try IT公式：組合せの活用3（特定の人を選ぶ）"
+[72]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4865/ "Try IT公式：組合せの活用4（少なくとも）"
+[73]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4869/ "Try IT公式：組分けの問題"
+[74]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4873/ "Try IT公式：nPrとnCrの使い分け"
+[75]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4877/ "Try IT公式：同じものを含む順列"
+[76]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4881/ "Try IT公式：最短の道順の求め方"
+[77]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4885/ "Try IT公式：選ばれないものがある組合せ"

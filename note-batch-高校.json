@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 場合の数２４ ",
+  "titleContains": "【高校 数学Ａ】 場合の数３４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "12FGG-brTTA",
-      "title": "【高校 数学Ａ】 場合の数２４ 組合せの計算 （１５分）",
+      "id": "zRDiXGDIT8o",
+      "title": "【高校 数学Ａ】 場合の数３４ 重複組合せ（１０分）",
       "subject": "数学",
       "unit": "場合の数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=12FGG-brTTA",
-      "durationLabel": "15:00"
+      "youtubeUrl": "https://www.youtube.com/watch?v=zRDiXGDIT8o",
+      "durationLabel": "10:26"
     }
   ]
 }
