@@ -160,6 +160,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 Try IT公式のeの要点では、eを(1+x)^(1/x)のx→0における極限で定義し、底の増分と指数が逆数関係にあることを確認しました。[136] 関数の連続性については、x=aにおける極限値と関数値f(a)が一致するときに連続、異なるときに不連続であることを確認しました。[137] 中間値の定理では、区間で連続な関数の両端の値が異符号なら、その区間内に方程式f(x)=0の実数解が存在することを確認しました。[138]
 
+高校数学III「微分法」では、Try IT公式の単元一覧に、導関数5本と、三角・指数・対数・合成関数・高次導関数・媒介変数・対数微分法などを扱う15本があり、全20本で構成されることを確認しました。[139] 東京書籍の数学III資料では、積・商・合成関数の微分法、分数・無理・三角・対数・指数関数の微分、微分可能なら連続であることを扱うことを確認しました。[140]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -419,3 +421,5 @@ British Councilのアルファベット資料で、アルファベットの文�
 [136]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7389/ "Try IT公式：eについて（1）"
 [137]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7397/ "Try IT公式：関数の連続性"
 [138]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7399/ "Try IT公式：中間値の定理"
+[139]: https://www.try-it.jp/chapters-7403/ "Try IT公式：高校数学III 微分法"
+[140]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16617/19792/ "東京書籍：数学III 微分法"
