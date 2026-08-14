@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅲ】 微分法４４ ",
+  "titleContains": "【高校 数学Ⅲ】 微分法５０ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "M8OlRrhYyms",
-      "title": "【高校 数学Ⅲ】 微分法４４ 不等式の証明２ （１８分）",
+      "id": "4cE4tReY5fM",
+      "title": "【高校 数学Ⅲ】 微分法５０ 近似値の計算 （１９分）",
       "subject": "数学",
       "unit": "微分法",
-      "youtubeUrl": "https://www.youtube.com/watch?v=M8OlRrhYyms",
-      "durationLabel": "17:48"
+      "youtubeUrl": "https://www.youtube.com/watch?v=4cE4tReY5fM",
+      "durationLabel": "19:17"
     }
   ]
 }
