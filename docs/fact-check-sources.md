@@ -176,6 +176,8 @@ Try IT公式の不等式の証明（3）では、示したい不等式を差の�
 
 Try IT公式の定積分一覧では、定積分の計算、置換積分、偶関数・奇関数、部分積分、定積分で表される関数を扱うことを確認しました。[158] 偶関数f(-x)=f(x)では∫[-a,a]f(x)dx=2∫[0,a]f(x)dx、奇関数f(-x)=-f(x)では∫[-a,a]f(x)dx=0となる対称性を確認しました。[159] 東京書籍の定積分単元資料では、定積分と面積、区分求積法、積分変数を意識した定積分の扱いを確認しました。[160]
 
+Try IT公式の積分法の応用一覧では、面積、定積分と面積、区分求積法、体積、x軸・y軸周りの回転体、曲線の長さ、速度と加速度、速度と道のりを扱うことを確認しました。[161] 区分求積法は、曲線で囲まれた面積を多数の長方形に分割し、その和の極限を定積分へ結び付ける考え方であることを確認しました。[162] 速度と道のりでは、道のりは変位ではなく、時刻t1からt2までの速さ|v|の定積分で表されることを確認しました。[163] 東京書籍の数学III評価資料では、定積分と面積・体積・曲線の長さの関係、速度と道のりの関係を扱うことを確認しました。[148]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -457,3 +459,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [158]: https://www.try-it.jp/chapters-7547/sections-7617/ "Try IT公式：高校数学III 定積分"
 [159]: https://www.try-it.jp/chapters-7547/sections-7617/lessons-7632/ "Try IT公式：偶関数・奇関数の定積分"
 [160]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/18736/7655/ "東京書籍：数学III 定積分"
+[161]: https://www.try-it.jp/chapters-7547/sections-7646/ "Try IT公式：高校数学III 積分法の応用"
+[162]: https://www.try-it.jp/chapters-7547/sections-7646/lessons-7659/ "Try IT公式：区分求積法"
+[163]: https://www.try-it.jp/chapters-7547/sections-7646/lessons-7687/ "Try IT公式：速度と道のり"
