@@ -188,6 +188,10 @@ British Councilの現在形のbe動詞資料で、疑問文はam・is・areを�
 
 British Councilの現在形資料で、現在形は習慣的にすることや一般に成り立つことを表し、I・you・we・theyには動詞の原形を使うことを確認しました。[39] 動画別ノートでは、be動詞の文と一般動詞の文を区別し、主語Iの文で動詞の原形を使う観点を記述します。
 
+## 中学1年英語：一般動詞の否定文
+
+British Councilの現在形資料で、I・you・we・theyを主語にする一般動詞の否定文はdo not（don''t）＋動詞の原形で作ることを確認しました。[39] 動画別ノートでは、be動詞の否定文のようにnotだけを動詞の後ろに置かず、do notと動詞の原形を用いる観点を記述します。
+
 [39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
 
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"

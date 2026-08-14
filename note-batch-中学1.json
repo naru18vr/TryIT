@@ -1,16 +1,16 @@
 {
   "grade": "中学1年",
-  "titleContains": "一般動詞の使い方",
+  "titleContains": "一般動詞の否定文",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "wBz6WeZHQ9Y",
-      "title": "【中１ 英語】 一般動詞の使い方(I) （１２分）",
+      "id": "cett_AX_Zng",
+      "title": "【中１ 英語】 一般動詞の否定文の作り方(I) （１２分）",
       "subject": "英語",
-      "unit": "一般動詞の使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wBz6WeZHQ9Y",
-      "durationLabel": "11:44"
+      "unit": "一般動詞の否定文の作り方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cett_AX_Zng",
+      "durationLabel": "12:20"
     }
   ]
 }
