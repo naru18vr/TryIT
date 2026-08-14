@@ -1,24 +1,16 @@
 {
   "grade": "中学1年",
-  "titleContains": "who",
+  "titleContains": "where",
   "selectedUnit": "混合単元",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "id": "SYsEWcAEIDM",
-      "title": "【中１ 英語】 who の意味と使い方 （１０分）",
+      "id": "mKWpEREbqAo",
+      "title": "【中１ 英語】 where の意味と使い方 （１１分）",
       "subject": "英語",
-      "unit": "who の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SYsEWcAEIDM",
-      "durationLabel": "9:45"
-    },
-    {
-      "id": "NZLVvpZ6-3I",
-      "title": "【中１ 英語】 whose の意味と使い方 （１３分）",
-      "subject": "英語",
-      "unit": "whose の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=NZLVvpZ6-3I",
-      "durationLabel": "13:04"
+      "unit": "where の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mKWpEREbqAo",
+      "durationLabel": "10:36"
     }
   ]
 }
