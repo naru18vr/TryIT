@@ -192,6 +192,10 @@ British Councilの現在形資料で、現在形は習慣的にすることや�
 
 British Councilの現在形資料で、I・you・we・theyを主語にする一般動詞の否定文はdo not（don''t）＋動詞の原形で作ることを確認しました。[39] 動画別ノートでは、be動詞の否定文のようにnotだけを動詞の後ろに置かず、do notと動詞の原形を用いる観点を記述します。
 
+## 中学1年英語：一般動詞の疑問文と答え方
+
+British Councilの現在形資料で、I・you・we・theyを主語にする一般動詞の疑問文はDo＋主語＋動詞の原形で作り、短い答えにはdo/don''tを使うことを確認しました。[39] 動画別ノートでは、Doの位置、動詞を原形にすること、質問のyouを答えのIへ替える観点を記述します。
+
 [39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
 
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"

@@ -1,16 +1,16 @@
 {
   "grade": "中学1年",
-  "titleContains": "一般動詞の否定文",
+  "titleContains": "一般動詞の疑問文",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "cett_AX_Zng",
-      "title": "【中１ 英語】 一般動詞の否定文の作り方(I) （１２分）",
+      "id": "RgJhcU1i5lY",
+      "title": "【中１ 英語】 一般動詞の疑問文と答え方(you) （１４分）",
       "subject": "英語",
-      "unit": "一般動詞の否定文の作り方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cett_AX_Zng",
-      "durationLabel": "12:20"
+      "unit": "一般動詞の疑問文と答え方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RgJhcU1i5lY",
+      "durationLabel": "14:10"
     }
   ]
 }
