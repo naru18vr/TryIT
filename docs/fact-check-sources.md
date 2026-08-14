@@ -257,6 +257,8 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 文部科学省の高等学校数学資料で、数学Iでは一次不等式と二次方程式を扱い、二次方程式では解の公式と実数解を扱うことを確認しました。[54] 学習指導要領LODの数学I「数と集合」では、実数・簡単な無理数の四則計算に加え、集合と命題の基本概念を事象の考察へ活用する範囲であることを確認しました。[57] 二次方程式・集合の動画別ノートは、動画タイトルで確認できる解の意味、解の公式、実数解、判別式、要素と集合の基本に限定して記述します。
 
+文部科学省の高等学校数学資料で、数学Iの二次関数では二次関数とそのグラフ、二次関数の値の変化を扱うことを確認しました。[54] 東京書籍の数学I「関数とグラフ」資料では、二次関数のグラフ、頂点、軸、平行移動、最大・最小の学習内容を確認しました。[58] 動画別ノートは、正規動画タイトルで確認できる二次関数、関数のグラフ、定義域・値域、関数f(x)、放物線の形、頂点と軸に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -280,3 +282,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [55]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13958/ "東京書籍：数学I Advanced 1節 式の計算"
 [56]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16605/18764/ "東京書籍：数学I Standard 2節 実数"
 [57]: https://jp-cos.github.io/745/1503110000000 "学習指導要領LOD：高等学校数学I 数と集合"
+[58]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13965/ "東京書籍：数学I Advanced 1節 関数とグラフ"
