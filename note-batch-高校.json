@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅲ】 複素数平面１２ ",
+  "titleContains": "【高校 数学Ⅲ】 複素数平面２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "wsaDNxrm0WA",
-      "title": "【高校 数学Ⅲ】 複素数平面１２ 極形式の積 （１６分）",
+      "id": "y3hzT6WvsQA",
+      "title": "【高校 数学Ⅲ】 複素数平面２４ 円の方程式２ （１６分）",
       "subject": "数学",
       "unit": "複素数平面",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wsaDNxrm0WA",
-      "durationLabel": "15:41"
+      "youtubeUrl": "https://www.youtube.com/watch?v=y3hzT6WvsQA",
+      "durationLabel": "15:43"
     }
   ]
 }
