@@ -1,0 +1,72 @@
+{
+  "grade": "中学1年",
+  "titleContains": null,
+  "selectedUnit": "資料の整理",
+  "count": 8,
+  "items": [
+    {
+      "id": "5tk8mmDlmzc",
+      "title": "【中１ 数学】 資料の整理７ 近似値とは？ （１３分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5tk8mmDlmzc",
+      "durationLabel": "12:39"
+    },
+    {
+      "id": "0wKqQUKqOW8",
+      "title": "【中１ 数学】 資料の整理８ 有効数字とは？ （９分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0wKqQUKqOW8",
+      "durationLabel": "9:11"
+    },
+    {
+      "id": "INDKrK2ZYS4",
+      "title": "【中１ 数学】 資料の整理６ 資料整理の総合問題 （１０分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=INDKrK2ZYS4",
+      "durationLabel": "9:32"
+    },
+    {
+      "id": "WDUhMCPQGyE",
+      "title": "【中１ 数学】 資料の整理５ 最頻値と階級値 （９分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WDUhMCPQGyE",
+      "durationLabel": "8:53"
+    },
+    {
+      "id": "PRXzrAnX-ms",
+      "title": "【中１ 数学】 資料の整理４ 平均値と中央値 （１２分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PRXzrAnX-ms",
+      "durationLabel": "12:30"
+    },
+    {
+      "id": "FWYc_oqHoZ0",
+      "title": "【中１ 数学】 資料の整理３ 相対度数の求め方 （９分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FWYc_oqHoZ0",
+      "durationLabel": "8:41"
+    },
+    {
+      "id": "1qbrWVkWVhI",
+      "title": "【中１ 数学】 資料の整理２ ヒストグラムとは？ （９分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1qbrWVkWVhI",
+      "durationLabel": "9:15"
+    },
+    {
+      "id": "DBeg1mrlPh4",
+      "title": "【中１ 数学】 資料の整理１ 度数分布表とは？ （１３分）",
+      "subject": "数学",
+      "unit": "資料の整理",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DBeg1mrlPh4",
+      "durationLabel": "13:25"
+    }
+  ]
+}
