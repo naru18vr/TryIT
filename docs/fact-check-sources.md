@@ -233,6 +233,10 @@ British Councilの人称代名詞資料で、he/himとshe/herは主格・目的�
 
 British Councilのbe動詞資料で、be動詞は主語と説明をつなぐリンク動詞として、名詞句・形容詞・前置詞句を伴えることを確認しました。[48] 動画別ノートでは、be動詞＋形容詞が主語の状態・特徴を表すこと、主語に応じてam/is/areを選ぶことに限定して記述します。
 
+## 中学1年英語：アルファベット・英単語・英文の書き方と読み方
+
+British Councilのアルファベット資料で、アルファベットの文字名と大文字・小文字の書き方を練習すること、英語が左から右へ書かれることを確認しました。[49][50] 動画別ノートでは、26文字・文字名・大文字と小文字の対応、単語のつづり、文頭の大文字・語間の空白・文末記号という初歩的な表記に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -247,3 +251,5 @@ British Councilのbe動詞資料で、be動詞は主語と説明をつなぐリ�
 [46]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-questions "British Council: Possessives: questions"
 [47]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/personal-pronouns "British Council: Personal pronouns"
 [48]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verb-be "British Council: The verb 'be'"
+[49]: https://www.teachingenglish.org.uk/teaching-resources/teaching-primary/lesson-plans/level-1/alphabet "British Council TeachingEnglish: Alphabet"
+[50]: https://learnenglishkids.britishcouncil.org/read-write/your-turn/alphabet "British Council LearnEnglish Kids: Alphabet"
