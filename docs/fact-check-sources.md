@@ -38,6 +38,14 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 化学反応式、電流と磁界、気温・湿度・雲、刺激への反応、動物分類については、文部科学省の中学校理科学習指導要領に示される学習範囲と照合しました。[9] ノートには動画タイトルと資料から確認できる基礎概念だけを記述し、未確認の固有実験結果や発展事項は加えません。
 
+## 中学3年数学：相似・平方根
+
+相似は、文部科学省の中学校数学資料に示される相似の意味、三角形の相似条件、平行線と線分の比、相似比と面積比・体積比、相似の活用の範囲と照合しました。[1] 平方根は、数の平方根の意味、根号を含む簡単な式の計算、具体的な場面での活用の範囲と照合しました。[1] 動画題名から確認できない固有の数値例は登録していません。
+
+## 中学3年理科：酸性とアルカリ性
+
+酸性・アルカリ性の性質、水素イオン・水酸化物イオンとの関係、中和で水と塩が生成する内容は、文部科学省の中学校理科学習指導要領と東京書籍の中学3年理科単元資料を照合しました。[9] [15]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -54,3 +62,4 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [12]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/can-could "British Council: 'can' and 'could'"
 [13]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/link-verbs "British Council: Link verbs"
 [14]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/reporting-verbs-wh-if-clauses "British Council: Reporting verbs with 'that', 'wh-' and 'if' clauses"
+[15]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12363/17863/ "東京書籍：新しい科学3 第2章 酸、アルカリとイオン"
