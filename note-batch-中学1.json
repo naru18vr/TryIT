@@ -1,128 +1,88 @@
 {
   "grade": "中学1年",
   "titleContains": null,
-  "selectedUnit": "比例と反比例",
-  "count": 15,
+  "selectedUnit": "方程式",
+  "count": 10,
   "items": [
     {
-      "id": "SUzlnAiLTW0",
-      "title": "【中１ 数学】 比例と反比例１ 関数 （１０分）",
+      "id": "4GSkWZSbNdE",
+      "title": "【中１ 数学】 方程式９ 文章題（速さ） （１７分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SUzlnAiLTW0",
-      "durationLabel": "9:47"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4GSkWZSbNdE",
+      "durationLabel": "16:37"
     },
     {
-      "id": "krp4DTDvX0Y",
-      "title": "【中１ 数学】 比例と反比例８ 直線の式 （５分）",
+      "id": "ZDlLMhE0M_Q",
+      "title": "【中１ 数学】 方程式２ 等式の性質 （１０分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=krp4DTDvX0Y",
-      "durationLabel": "5:11"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZDlLMhE0M_Q",
+      "durationLabel": "9:53"
     },
     {
-      "id": "bGqTkmLwJdQ",
-      "title": "【中１ 数学】 比例と反比例１１ 反比例グラフ （８分）",
+      "id": "JD0G9ZGqKT0",
+      "title": "【中１ 数学】 方程式１ 方程式とは？ （７分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=bGqTkmLwJdQ",
-      "durationLabel": "7:41"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JD0G9ZGqKT0",
+      "durationLabel": "7:04"
     },
     {
-      "id": "Y8PU7bQt4NU",
-      "title": "【中１ 数学】 比例と反比例１３ 反比例の式 （４分）",
+      "id": "TLvbFOhIbKs",
+      "title": "【中１ 数学】 方程式３ 移項 （７分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Y8PU7bQt4NU",
-      "durationLabel": "4:27"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TLvbFOhIbKs",
+      "durationLabel": "6:40"
     },
     {
-      "id": "P5yKUOivmis",
-      "title": "【中１ 数学】 比例と反比例９ 比例の式 （６分）",
+      "id": "XnMqgL5StDw",
+      "title": "【中１ 数学】 方程式５ 解き方のコツ （１０分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=P5yKUOivmis",
-      "durationLabel": "6:21"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XnMqgL5StDw",
+      "durationLabel": "9:35"
     },
     {
-      "id": "3Ing9bxBCvg",
-      "title": "【中１ 数学】 比例と反比例１０ 反比例とは？ （９分）",
+      "id": "V-osCIuwUME",
+      "title": "【中１ 数学】 方程式６ カッコ・分数・小数 （８分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=3Ing9bxBCvg",
-      "durationLabel": "8:35"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=V-osCIuwUME",
+      "durationLabel": "8:09"
     },
     {
-      "id": "QOjEgAtTNOk",
-      "title": "【中１ 数学】 比例と反比例３ 変域 （６分）",
+      "id": "MfKR-bigLzw",
+      "title": "【中１ 数学】 方程式４ 両辺をかける・わる （８分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QOjEgAtTNOk",
-      "durationLabel": "6:01"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MfKR-bigLzw",
+      "durationLabel": "8:07"
     },
     {
-      "id": "LChmQpKm93U",
-      "title": "【中１ 数学】 比例と反比例１２ 双曲線の式 （５分）",
+      "id": "6MZD672_8Y4",
+      "title": "【中１ 数学】 方程式７ 文章題（買い物） （１６分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LChmQpKm93U",
-      "durationLabel": "5:04"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6MZD672_8Y4",
+      "durationLabel": "15:35"
     },
     {
-      "id": "2Xu0KvKMSb8",
-      "title": "【中１ 数学】 比例と反比例２ 比例とは？ （１４分）",
+      "id": "sr2GHBvi0Bk",
+      "title": "【中１ 数学】 方程式１０ 比例式 （８分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2Xu0KvKMSb8",
-      "durationLabel": "13:50"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sr2GHBvi0Bk",
+      "durationLabel": "7:34"
     },
     {
-      "id": "2uz7tBD8LOU",
-      "title": "【中１数学】 比例と反比例１４ 比例の文章題（１１分）",
+      "id": "GJxbw-48cp4",
+      "title": "【中１ 数学】 方程式８ 文章題（余り） （１２分）",
       "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2uz7tBD8LOU",
-      "durationLabel": "10:34"
-    },
-    {
-      "id": "MmiHtlhkB3I",
-      "title": "【中１ 数学】 比例と反比例６ 比例のグラフ２ （６分）",
-      "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MmiHtlhkB3I",
-      "durationLabel": "5:40"
-    },
-    {
-      "id": "Cyttk10XmnI",
-      "title": "【中１ 数学】 比例と反比例４ 座標の書き方 （９分）",
-      "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Cyttk10XmnI",
-      "durationLabel": "9:08"
-    },
-    {
-      "id": "-ULjfPao3JY",
-      "title": "【中１ 数学】 比例と反比例５ 比例のグラフ１ （８分）",
-      "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-ULjfPao3JY",
-      "durationLabel": "8:13"
-    },
-    {
-      "id": "jtvtB2WVIHc",
-      "title": "【中１ 数学】 比例と反比例７ 比例のグラフ３ （５分）",
-      "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=jtvtB2WVIHc",
-      "durationLabel": "4:36"
-    },
-    {
-      "id": "v-MNBoY_onM",
-      "title": "【中１ 数学】 比例と反比例１５ 反比例の文章題 (９分)",
-      "subject": "数学",
-      "unit": "比例と反比例",
-      "youtubeUrl": "https://www.youtube.com/watch?v=v-MNBoY_onM",
-      "durationLabel": "8:32"
+      "unit": "方程式",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GJxbw-48cp4",
+      "durationLabel": "11:38"
     }
   ]
 }
