@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 図形２４ ",
+  "titleContains": "【高校 数学Ａ】 図形３６ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "S42d1N-3uaw",
-      "title": "【高校 数学Ａ】 図形２４ 円に内接する四角形 （８分）",
+      "id": "abJVjW_rma4",
+      "title": "【高校 数学Ａ】 図形３６ 共通接線の長さ （１３分）",
       "subject": "数学",
       "unit": "図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=S42d1N-3uaw",
-      "durationLabel": "7:52"
+      "youtubeUrl": "https://www.youtube.com/watch?v=abJVjW_rma4",
+      "durationLabel": "12:33"
     }
   ]
 }
