@@ -136,6 +136,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 高校数学II「指数」では、Try IT公式の指数関数一覧に、指数法則の拡張、n乗根、累乗根の計算、分数指数、指数関数のグラフ、指数方程式、指数不等式が並ぶことを確認しました。[97] Try IT公式のn乗根要点では、n乗してaになる数をn乗根と呼び、偶数乗のケースでは実数のn乗根が二つとなる場合があることを確認しました。[98] 東京書籍の数学II資料では、指数を有理数まで拡張する際に累乗根が必要となること、指数関数・指数方程式・不等式を扱うことを確認しました。[99]
 
+高校数学II「対数」では、Try IT公式の対数関数一覧に、対数の定義、対数の計算公式、底の変換、対数方程式、対数関数のグラフ、大小関係、対数不等式、常用対数の応用が並ぶことを確認しました。[100] Try IT公式の対数計算公式では、底が同じときの和・差を真数の積・商へまとめること、真数の指数を係数として扱うことを確認しました。[101] Try IT公式の底の変換公式では、log_a bをlog_c b/log_c aに変換できることを確認しました。[102]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -356,3 +358,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [97]: https://www.try-it.jp/chapters-6817/sections-6818/ "Try IT公式：高校数学II 指数関数"
 [98]: https://www.try-it.jp/chapters-6817/sections-6818/lessons-6823/ "Try IT公式：n乗根"
 [99]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16533/15872/ "東京書籍：数学II 指数関数"
+[100]: https://www.try-it.jp/chapters-6817/sections-6855/ "Try IT公式：高校数学II 対数関数"
+[101]: https://www.try-it.jp/chapters-6817/sections-6855/lessons-6864/ "Try IT公式：対数の計算公式"
+[102]: https://www.try-it.jp/chapters-6817/sections-6855/lessons-6868/ "Try IT公式：底の変換公式"
