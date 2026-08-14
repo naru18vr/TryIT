@@ -146,6 +146,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 高校数学III「複素数平面」では、Try IT公式の単元一覧に、複素数平面とxy平面の関係、絶対値と共役複素数、和・差、実数倍、二点間距離、極形式、極形式で表される複素数の積が並ぶことを確認しました。[111] 東京書籍の数学III資料では、複素数の和・差とベクトルの和・差の図形的意味や、複素数平面・極形式が数学IIIの学習領域であることを確認しました。[112]
 
+高校数学III「式と曲線」では、Try IT公式の単元一覧に、放物線・楕円・双曲線、二次曲線の決定、媒介変数表示と極座標が並ぶことを確認しました。[113] Try IT公式の放物線要点では、定点（焦点）と定直線（準線）からの距離が等しい点の軌跡が放物線であり、焦点F(p,0)、準線x=−pの場合はy²=4pxとなることを確認しました。[114] 東京書籍資料では、二次曲線は放物線・楕円・双曲線の3種類として扱い、楕円・双曲線の標準形を扱うことを確認しました。[115]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -379,3 +381,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [110]: https://www.mext.go.jp/a_menu/shotou/cs/1320155.htm "文部科学省：高等学校学習指導要領 数学B ベクトル"
 [111]: https://www.try-it.jp/chapters-7048/ "Try IT公式：高校数学III 複素数平面"
 [112]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16542/16452/ "東京書籍：数学III 複素数平面"
+[113]: https://www.try-it.jp/chapters-7149/ "Try IT公式：高校数学III 式と曲線"
+[114]: https://www.try-it.jp/chapters-7149/sections-7150/lessons-7151/ "Try IT公式：放物線の方程式（1）"
+[115]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16542/16449/ "東京書籍：数学III 2次曲線"
