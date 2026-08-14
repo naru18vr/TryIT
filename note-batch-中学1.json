@@ -1,88 +1,144 @@
 {
   "grade": "中学1年",
   "titleContains": null,
-  "selectedUnit": "方程式",
-  "count": 10,
+  "selectedUnit": "正負の数",
+  "count": 17,
   "items": [
     {
-      "id": "4GSkWZSbNdE",
-      "title": "【中１ 数学】 方程式９ 文章題（速さ） （１７分）",
+      "id": "gfGy0racLYI",
+      "title": "【中１ 数学】 正負の数１１ 乗法（かけ算） （５分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4GSkWZSbNdE",
-      "durationLabel": "16:37"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gfGy0racLYI",
+      "durationLabel": "5:25"
     },
     {
-      "id": "ZDlLMhE0M_Q",
-      "title": "【中１ 数学】 方程式２ 等式の性質 （１０分）",
+      "id": "bDfrobfQ6-I",
+      "title": "【中１ 数学】 正負の数２ 正負の数・自然数（１０分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZDlLMhE0M_Q",
-      "durationLabel": "9:53"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bDfrobfQ6-I",
+      "durationLabel": "9:55"
     },
     {
-      "id": "JD0G9ZGqKT0",
-      "title": "【中１ 数学】 方程式１ 方程式とは？ （７分）",
+      "id": "mMm1YNifnNc",
+      "title": "【中１ 数学】 正負の数４ 数直線 （７分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JD0G9ZGqKT0",
-      "durationLabel": "7:04"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mMm1YNifnNc",
+      "durationLabel": "7:12"
     },
     {
-      "id": "TLvbFOhIbKs",
-      "title": "【中１ 数学】 方程式３ 移項 （７分）",
+      "id": "kzH-aOuMVco",
+      "title": "【中１ 数学】 正負の数１２ 累乗（指数） （６分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TLvbFOhIbKs",
-      "durationLabel": "6:40"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kzH-aOuMVco",
+      "durationLabel": "5:58"
     },
     {
-      "id": "XnMqgL5StDw",
-      "title": "【中１ 数学】 方程式５ 解き方のコツ （１０分）",
+      "id": "2GaX4q6XSpg",
+      "title": "【中１ 数学】 正負の数３ 増える・減る （４分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XnMqgL5StDw",
-      "durationLabel": "9:35"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2GaX4q6XSpg",
+      "durationLabel": "4:09"
     },
     {
-      "id": "V-osCIuwUME",
-      "title": "【中１ 数学】 方程式６ カッコ・分数・小数 （８分）",
+      "id": "aVDqAXSqAkw",
+      "title": "【中１ 数学】 正負の数１５ 四則の計算 （１２分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=V-osCIuwUME",
-      "durationLabel": "8:09"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aVDqAXSqAkw",
+      "durationLabel": "11:32"
     },
     {
-      "id": "MfKR-bigLzw",
-      "title": "【中１ 数学】 方程式４ 両辺をかける・わる （８分）",
+      "id": "RDO8m3GnwT4",
+      "title": "【中１ 数学】 正負の数１４ 乗法・除法の計算 （９分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MfKR-bigLzw",
-      "durationLabel": "8:07"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RDO8m3GnwT4",
+      "durationLabel": "9:06"
     },
     {
-      "id": "6MZD672_8Y4",
-      "title": "【中１ 数学】 方程式７ 文章題（買い物） （１６分）",
+      "id": "IC8QoE8maSM",
+      "title": "【中１ 数学】 正負の数１３ 除法（わり算） （８分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=6MZD672_8Y4",
-      "durationLabel": "15:35"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IC8QoE8maSM",
+      "durationLabel": "8:16"
     },
     {
-      "id": "sr2GHBvi0Bk",
-      "title": "【中１ 数学】 方程式１０ 比例式 （８分）",
+      "id": "uvYr1_AjtfQ",
+      "title": "【中１ 数学】 正負の数１７ 分配法則の逆 （６分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=sr2GHBvi0Bk",
-      "durationLabel": "7:34"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uvYr1_AjtfQ",
+      "durationLabel": "6:14"
     },
     {
-      "id": "GJxbw-48cp4",
-      "title": "【中１ 数学】 方程式８ 文章題（余り） （１２分）",
+      "id": "fw_eMP14KTk",
+      "title": "【中１ 数学】 正負の数９ 項 （４分）",
       "subject": "数学",
-      "unit": "方程式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=GJxbw-48cp4",
-      "durationLabel": "11:38"
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fw_eMP14KTk",
+      "durationLabel": "4:17"
+    },
+    {
+      "id": "a7V0L0Fka8Y",
+      "title": "【中１ 数学】 正負の数５ 大小関係 （８分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=a7V0L0Fka8Y",
+      "durationLabel": "8:18"
+    },
+    {
+      "id": "YWWeiuBQa_A",
+      "title": "【中１ 数学】 正負の数１０ 加法・減法の計算 （４分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YWWeiuBQa_A",
+      "durationLabel": "4:22"
+    },
+    {
+      "id": "JC0Cdwm_1mE",
+      "title": "【中１ 数学】 正負の数１ マイナス （４分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JC0Cdwm_1mE",
+      "durationLabel": "4:09"
+    },
+    {
+      "id": "x7zBjB-m4CY",
+      "title": "【中１ 数学】 正負の数８ 減法（ひき算） （７分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x7zBjB-m4CY",
+      "durationLabel": "7:07"
+    },
+    {
+      "id": "4wLZRtM07sU",
+      "title": "【中１ 数学】 正負の数７ 加法（たし算） （９分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4wLZRtM07sU",
+      "durationLabel": "9:26"
+    },
+    {
+      "id": "vo_1hF9l-C8",
+      "title": "【中１ 数学】 正負の数６ 絶対値 （５分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vo_1hF9l-C8",
+      "durationLabel": "5:07"
+    },
+    {
+      "id": "P-LkfGr5128",
+      "title": "【中１ 数学】 正負の数１６ 分配法則 （８分）",
+      "subject": "数学",
+      "unit": "正負の数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P-LkfGr5128",
+      "durationLabel": "7:51"
     }
   ]
 }
