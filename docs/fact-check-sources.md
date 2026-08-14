@@ -84,6 +84,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 多くの動詞は過去形・過去分詞に-edを用いる一方、頻出動詞には原形・過去形・過去分詞が異なる不規則動詞があることをBritish Councilの資料で照合しました。[26] 受け身や現在完了では過去形ではなく過去分詞を用いるため、3つの形を区別して覚える必要があります。[16][19][26]
 
+## 中学3年英語：不定詞・疑問詞表現
+
+British Councilの資料で、want などは「動詞＋名詞＋to不定詞」の形をとること、また make は「動詞＋名詞＋toのない不定詞」の形をとることを照合しました。[29] 疑問詞を含む節は「動詞＋疑問詞＋節」の形で用い、通常の疑問文の語順にしないこと、疑問詞＋to不定詞の形として where to go などを用いることも確認しました。[14][29]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -114,3 +118,4 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [26]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/irregular-verbs "British Council: Irregular verbs"
 [27]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21312/ "東京書籍：新編 新しい科学3 第1章 物体の運動"
 [28]: https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/a/ions "Khan Academy: Ions"
+[29]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-followed-infinitive "British Council: Verbs followed by the infinitive"
