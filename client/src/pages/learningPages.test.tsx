@@ -19,7 +19,7 @@ const state = vi.hoisted(() => ({
   },
   video: {
     video: { id: "video-1", youtubeUrl: "https://www.youtube.com/watch?v=video-1", title: "二次関数の基礎", grade: "高校", subject: "数学", unit: "二次関数", thumbnailUrl: "https://i.ytimg.com/vi/video-1/hqdefault.jpg", durationSeconds: 600, durationLabel: "10:00" },
-    note: null,
+    note: null as { summary: string; keyPoints: string } | null,
     isWatched: false,
   },
   progress: { watchedCount: 3, totalVideos: 10, progressPercentage: 30, history: [] as Array<unknown> },
@@ -60,6 +60,7 @@ describe("learning page rendering", () => {
     state.catalog.items[0]!.isWatched = true;
     state.progress = { watchedCount: 3, totalVideos: 10, progressPercentage: 30, history: [] };
     state.progressError = false;
+    state.video.note = null;
     state.refetchProgress.mockReset();
     state.catalogInput = null;
     state.markWatched.mockReset();
@@ -126,5 +127,21 @@ describe("learning page rendering", () => {
     render(<WatchVideo />);
     fireEvent.click(screen.getByText("再生テスト"));
     expect(state.markWatched).toHaveBeenCalledWith({ videoId: "video-1" });
+  });
+
+  it.each([
+    ["数学", "変化の割合は、yの増加量÷xの増加量で表します。", "・yの増加量とxの増加量の順をそろえる。\n・復習では、表から変化の割合を計算する。"],
+    ["理科", "細胞・組織・器官・個体は小さいまとまりから順に関係付けます。", "・細胞はからだをつくる基本的な単位。\n・復習では、細胞から個体までを順に説明する。"],
+    ["英語", "be going to は未来の予定や意図を表します。", "・be動詞の後に going to と動詞の原形を置く。\n・復習では、主語に合うbe動詞を選ぶ。"],
+  ])("%sのノート形式で要約と全ての覚えるポイントを表示する", (_subject, summary, keyPoints) => {
+    state.video.note = { summary, keyPoints };
+
+    render(<WatchVideo />);
+
+    expect(screen.getByText("予習・復習ノート")).toBeTruthy();
+    expect(screen.getByText(summary)).toBeTruthy();
+    for (const point of keyPoints.split("\n")) {
+      expect(screen.getByText(point)).toBeTruthy();
+    }
   });
 });

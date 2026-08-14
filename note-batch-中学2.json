@@ -1,16 +1,7 @@
 {
   "grade": "中学2年",
-  "titleContains": "消化酵素のはたらき",
+  "titleContains": "水俣病",
   "selectedUnit": "混合単元",
-  "count": 1,
-  "items": [
-    {
-      "id": "DANX5GG7LCY",
-      "title": "【中２ 理科 生物】 消化酵素のはたらき （２２分）",
-      "subject": "理科",
-      "unit": "消化酵素のはたらき",
-      "youtubeUrl": "https://www.youtube.com/watch?v=DANX5GG7LCY",
-      "durationLabel": "23:03"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
