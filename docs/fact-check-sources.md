@@ -114,6 +114,8 @@ British Councilの命令文資料で、命令・指示は主語youを置かず�
 
 文部科学省の高等学校数学資料で、数学Aの「場合の数と確率」では順列・組合せ、確率と基本法則、独立な試行と確率を扱うことを確認しました。[62] 東京書籍の数学A資料でも、順列は順序を考慮して並べる場合、組合せは順序を考慮せずに選ぶ場合を数えること、順列・組合せが場合の数と確率の基本であることを確認しました。[63] 動画別ノートでは、タイトルで確認できる数え上げの原理・順序・重複の条件に限定して記述します。
 
+さらに、Try IT公式の「場合の数」単元ページで、順列の活用1〜4が「区別する決め方」「男女の並べ方」「隣り合わない並べ方」「整数の並べ方」、円順列の活用が「男女の並べ方」であることを照合しました。[64] 公式要点ページでは、順列は順番を付けて並べること、円順列では回転で同じ並びを重複計上しないため1つを固定して残りを並べること、組合せは順序を考慮せず選ぶことを確認しました。[65][66][67]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -298,3 +300,7 @@ British Councilのアルファベット資料で、アルファベットの文�
 [61]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16528/14006/ "東京書籍：改訂 新数学I 1節 データの分析"
 [62]: https://www.mext.go.jp/a_menu/shotou/cs/1320155.htm "文部科学省：高等学校学習指導要領 数学A 場合の数と確率"
 [63]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16608/18784/ "東京書籍：数学A Standard 1節 集合と場合の数"
+[64]: https://www.try-it.jp/chapters-4751/sections-4752/ "Try IT公式：高校数学A 場合の数"
+[65]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4801/ "Try IT公式：順列とは？"
+[66]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4829/ "Try IT公式：円順列"
+[67]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4841/ "Try IT公式：組合せとは？"
