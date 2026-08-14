@@ -1,104 +1,80 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "関数y=ax^",
-  "count": 12,
+  "selectedUnit": "円",
+  "count": 9,
   "items": [
     {
-      "id": "rNi0NpNjAiw",
-      "title": "【中３ 数学】 関数y=ax^2① 2次関数 （９分）",
+      "id": "8XzdTpZvQ5I",
+      "title": "【中３ 数学】 円１ 円周角と中心角 （９分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rNi0NpNjAiw",
-      "durationLabel": "9:18"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8XzdTpZvQ5I",
+      "durationLabel": "9:22"
     },
     {
-      "id": "riWiXKzeAks",
-      "title": "【中３ 数学】 関数y=ax^2② x^2に比例 （９分）",
+      "id": "lPsI6pd6PDw",
+      "title": "【中３ 数学】 円２ 円周角と弧 （６分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=riWiXKzeAks",
-      "durationLabel": "8:32"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lPsI6pd6PDw",
+      "durationLabel": "6:09"
     },
     {
-      "id": "oWdqaKEPZr8",
-      "title": "【中３ 数学】 関数y=ax^2③ グラフ１ （１３分）",
+      "id": "tDEdVkMVL1A",
+      "title": "【中３ 数学】 円３ 直径の円周角 （４分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=oWdqaKEPZr8",
-      "durationLabel": "13:00"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tDEdVkMVL1A",
+      "durationLabel": "3:48"
     },
     {
-      "id": "kuyqFfouj2o",
-      "title": "【中３ 数学】 関数y=ax^2⑤ 放物線の式 （１０分）",
+      "id": "M7HPcIQPinI",
+      "title": "【中３ 数学】 円４ 角度の求め方 （１５分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=kuyqFfouj2o",
-      "durationLabel": "10:02"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7HPcIQPinI",
+      "durationLabel": "15:02"
     },
     {
-      "id": "TwnK7fher1I",
-      "title": "【中３ 数学】 関数y=ax^2④ グラフ２ （９分）",
+      "id": "hD34meNHOK4",
+      "title": "【中３ 数学】 円６ 接線の長さ （１２分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TwnK7fher1I",
-      "durationLabel": "9:23"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hD34meNHOK4",
+      "durationLabel": "12:09"
     },
     {
-      "id": "wPG1PDcD9bY",
-      "title": "【中３ 数学】 関数y=ax^2⑦ 変域 （１３分）",
+      "id": "OnuiNNdaL3U",
+      "title": "【中３ 数学】 円５ 円周角の定理の逆 （１１分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wPG1PDcD9bY",
-      "durationLabel": "13:18"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OnuiNNdaL3U",
+      "durationLabel": "11:17"
     },
     {
-      "id": "WZ1E88CqacE",
-      "title": "【中３ 数学】 関数y=ax^2⑥ 増減 （１０分）",
+      "id": "QTMm4txOlWI",
+      "title": "【中３ 数学】 円９ 円と相似 （１０分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=WZ1E88CqacE",
-      "durationLabel": "10:02"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QTMm4txOlWI",
+      "durationLabel": "9:46"
     },
     {
-      "id": "VuByhPxuguM",
-      "title": "【中３ 数学】 関数y=ax^2⑧ 変化の割合 （１２分）",
+      "id": "75euw1Nw7dU",
+      "title": "【中３ 数学】 円８ 円の性質と証明 （１３分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VuByhPxuguM",
-      "durationLabel": "11:44"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=75euw1Nw7dU",
+      "durationLabel": "13:30"
     },
     {
-      "id": "skbhJ1xhlJc",
-      "title": "【中３ 数学】 関数y=ax^2⑨ 平均の速さ （１１分）",
+      "id": "5kkLYRodHg8",
+      "title": "【中３ 数学】 円７ 接線の作図 （９分）",
       "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=skbhJ1xhlJc",
-      "durationLabel": "11:05"
-    },
-    {
-      "id": "rQ7jq7o9SqE",
-      "title": "【中３ 数学】 関数y=ax^2⑪ 文章題２ （１１分）",
-      "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rQ7jq7o9SqE",
-      "durationLabel": "10:37"
-    },
-    {
-      "id": "fqoCnYEm45I",
-      "title": "【中３ 数学】 関数y=ax^2⑩ 文章題１ （１１分）",
-      "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fqoCnYEm45I",
-      "durationLabel": "11:01"
-    },
-    {
-      "id": "TyTRO5sMXRQ",
-      "title": "【中３ 数学】 関数y=ax^2⑫ 直線との交点 （１２分）",
-      "subject": "数学",
-      "unit": "関数y=ax^",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TyTRO5sMXRQ",
-      "durationLabel": "11:55"
+      "unit": "円",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5kkLYRodHg8",
+      "durationLabel": "9:01"
     }
   ]
 }
