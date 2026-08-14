@@ -124,6 +124,8 @@ Try IT公式の三角形単元一覧で、内心・重心・面積と線分比�
 
 Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に対する中心角の半分で同じ弧に対する円周角は等しいこと、等しい円周角から4点が同一円周上にあることを示せること、円に内接する四角形の対角の和は180°であることを確認しました。[82][83][84][85]
 
+高校数学A「整数」では、Try IT公式の単元一覧で、倍数の表し方・倍数判定・素数・素因数分解・約数・最大公約数・最小公倍数を段階的に扱うことを確認しました。[86] 東京書籍の数学A資料でも、2・5・4・3・9の倍数判定、素因数分解の一意性、最大公約数・最小公倍数の関係が整数の性質の中心内容であることを確認しました。[87] Try IT公式の素因数分解要点ページでは、素因数分解は素数の積の形へ分解し、これ以上割れなくなるまで素数で割る手順を確認しました。[88]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -330,3 +332,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [83]: https://www.try-it.jp/chapters-5130/sections-5213/lessons-5214/ "Try IT公式：円周角と中心角"
 [84]: https://www.try-it.jp/chapters-5130/sections-5213/lessons-5222/ "Try IT公式：円周角の定理の逆"
 [85]: https://www.try-it.jp/chapters-5130/sections-5213/lessons-5226/ "Try IT公式：円に内接する四角形"
+[86]: https://www.try-it.jp/chapters-4962/ "Try IT公式：高校数学A 整数の性質"
+[87]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/18728/7238/ "東京書籍：数学A 約数と倍数"
+[88]: https://www.try-it.jp/chapters-4962/sections-4963/lessons-4988/ "Try IT公式：素因数分解とは"

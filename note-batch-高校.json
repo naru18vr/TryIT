@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 図形４７ ",
+  "titleContains": "【高校 数学Ａ】 整数１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "zwv2btbYDNA",
-      "title": "【高校 数学Ａ】 図形４７ オイラー多面体定理 （６分）",
+      "id": "BqaM312zaFQ",
+      "title": "【高校 数学Ａ】 整数１２ 最小公倍数１ （１３分）",
       "subject": "数学",
-      "unit": "図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=zwv2btbYDNA",
-      "durationLabel": "6:25"
+      "unit": "整数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BqaM312zaFQ",
+      "durationLabel": "13:02"
     }
   ]
 }
