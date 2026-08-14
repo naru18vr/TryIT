@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 積分１５ ",
+  "titleContains": "【高校 数学B】 数列１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "ZwXNSC69iZw",
-      "title": "【高校 数学Ⅱ】 積分１５ 定積分表示の関数２ （１８分）",
+      "id": "4m7pXA4qHpo",
+      "title": "【高校 数学B】 数列１２ 等差・等比中項 （２０分）",
       "subject": "数学",
-      "unit": "積分",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZwXNSC69iZw",
-      "durationLabel": "18:15"
+      "unit": "数列",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4m7pXA4qHpo",
+      "durationLabel": "20:09"
     }
   ]
 }
