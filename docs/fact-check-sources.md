@@ -92,6 +92,10 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 
 中学校理科の東京書籍資料で、「遺伝の規則性と遺伝子」が中学3年理科の単元として扱われ、遺伝の法則の説明では「顕性・潜性」の用語を用いることを確認しました。[30] 動画別ノートでは、遺伝の規則性と分離の法則を、遺伝子の組合せを表に整理する基本手順に限定して記述します。
 
+## 中学3年理科：化学変化と電池
+
+東京書籍の中学3年理科資料で、電解質水溶液と金属板を組み合わせて電流を取り出すこと、電池では電解質水溶液中のイオンと金属の種類が関係すること、化学変化から電気エネルギーを得られることを確認しました。[31] 燃料電池のノートは、水素と酸素から水が生じる化学反応を利用する基本までに限定します。[31]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -124,3 +128,4 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 [28]: https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/a/ions "Khan Academy: Ions"
 [29]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-followed-infinitive "British Council: Verbs followed by the infinitive"
 [30]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21308/ "東京書籍：新編 新しい科学3 第2章 遺伝の規則性と遺伝子"
+[31]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12363/17864/ "東京書籍：新しい科学3 第3章 化学変化と電池"
