@@ -1,24 +1,16 @@
 {
   "grade": "中学1年",
-  "titleContains": "how",
+  "titleContains": "why",
   "selectedUnit": "混合単元",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "id": "U3dyrq6XwTY",
-      "title": "【中１ 英語】 how many ～ の意味と使い方 （１２分）",
+      "id": "KoP6swS3sZ4",
+      "title": "【中１ 英語】 why の意味と使い方 （１３分）",
       "subject": "英語",
-      "unit": "how many ～ の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=U3dyrq6XwTY",
-      "durationLabel": "12:17"
-    },
-    {
-      "id": "ltPSXeG6eZE",
-      "title": "【中１ 英語】 how の意味と使い方 （１３分）",
-      "subject": "英語",
-      "unit": "how の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ltPSXeG6eZE",
-      "durationLabel": "13:25"
+      "unit": "why の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KoP6swS3sZ4",
+      "durationLabel": "12:42"
     }
   ]
 }
