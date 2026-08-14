@@ -216,6 +216,12 @@ British Councilの過去形資料で、過去に終わった出来事や状態�
 
 British Councilの過去形資料で、一般動詞の過去形の否定文はdid not（didn''t）＋動詞の原形、疑問文はDid＋主語＋動詞の原形で作ることを確認しました。[41][42] 規則動詞・不規則動詞にかかわらず、did/didn''tの後では動詞を原形に戻すことを記述します。
 
+## 中学1年英語：現在進行形
+
+British Councilの現在進行形資料で、現在進行形はbe動詞の現在形＋動詞ing形で作り、話している時点で進行中の活動を表すことを確認しました。[43] 否定文ではbe動詞の後にnotを置き、疑問文ではam/is/areを主語の前に置きます。
+
+[43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
+
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
 [42]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs "British Council: Past simple – irregular verbs"
 

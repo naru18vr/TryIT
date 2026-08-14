@@ -1,16 +1,24 @@
 {
   "grade": "中学1年",
-  "titleContains": "過去の否定文",
+  "titleContains": "現在進行形",
   "selectedUnit": "混合単元",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "rYOsMxmvYqE",
-      "title": "【中１ 英語】 過去の否定文、疑問文の作り方 （１９分）",
+      "id": "AqZHgaBYDN4",
+      "title": "【中１ 英語】 現在進行形の否定文、疑問文 （１９分）",
       "subject": "英語",
-      "unit": "過去の否定文、疑問文の作り方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rYOsMxmvYqE",
-      "durationLabel": "18:57"
+      "unit": "現在進行形の否定文、疑問文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AqZHgaBYDN4",
+      "durationLabel": "18:39"
+    },
+    {
+      "id": "f_QKV-E8WHg",
+      "title": "【中１ 英語】 現在進行形(～ing)の使い方 （１５分）",
+      "subject": "英語",
+      "unit": "現在進行形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=f_QKV-E8WHg",
+      "durationLabel": "15:04"
     }
   ]
 }
