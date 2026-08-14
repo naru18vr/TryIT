@@ -154,6 +154,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 高校数学III「種々の関数」では、Try IT公式の単元一覧で、分数関数5本、無理関数5本、逆関数と合成関数6本の合計16本を扱うことを確認しました。[125] 東京書籍の数学III資料では、分数関数・無理関数のグラフ、分数関数・無理関数と整関数から作る方程式・不等式、逆関数と合成関数が微分に先立つ学習内容であり、逆関数を求めるにはxについて解いてxとyを入れ替える手順を確認しました。[126]
 
+高校数学III「極限」では、Try IT公式の単元一覧に、数列の極限18本と関数の極限18本があり、数列の極限では不定形、はさみうちの原理、等比数列、漸化式、無限級数・無限等比級数を扱うことを確認しました。[127][128] 東京書籍の数学III資料では、数列の収束・発散、等比数列の極限、漸化式で定められる数列の極限、無限級数の収束・発散、数列と関数のはさみうちの原理を扱うことを確認しました。[129]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -401,3 +403,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [124]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7234/ "Try IT公式：x,yの方程式から極方程式へ（1）"
 [125]: https://www.try-it.jp/chapters-7246/ "Try IT公式：高校数学III 種々の関数"
 [126]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16616/19737/ "東京書籍：数学III 関数"
+[127]: https://www.try-it.jp/chapters-7292/ "Try IT公式：高校数学III 極限"
+[128]: https://www.try-it.jp/chapters-7292/sections-7293/ "Try IT公式：数列の極限"
+[129]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16617/19789/ "東京書籍：数学III 数列の極限"
