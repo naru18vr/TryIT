@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅰ】 ２次関数１２ ",
+  "titleContains": "【高校 数学Ⅰ】 ２次関数２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "ZtFPHckg70c",
-      "title": "【高校 数学Ⅰ】 ２次関数１２ 頂点と軸 （８分）",
+      "id": "-CzI7-2XEz8",
+      "title": "【高校 数学Ⅰ】 ２次関数２４ 最大・最小６ （１６分）",
       "subject": "数学",
-      "unit": "２次関数１２ 頂点と軸",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZtFPHckg70c",
-      "durationLabel": "8:01"
+      "unit": "２次関数２４ 最大・最小６",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-CzI7-2XEz8",
+      "durationLabel": "16:18"
     }
   ]
 }
