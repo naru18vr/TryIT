@@ -1,32 +1,24 @@
 {
   "grade": "中学1年",
-  "titleContains": "what",
+  "titleContains": "who",
   "selectedUnit": "混合単元",
-  "count": 3,
+  "count": 2,
   "items": [
     {
-      "id": "xotTE1q0mj4",
-      "title": "【中１ 英語】 what の意味と使い方 （１３分）",
+      "id": "SYsEWcAEIDM",
+      "title": "【中１ 英語】 who の意味と使い方 （１０分）",
       "subject": "英語",
-      "unit": "what の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xotTE1q0mj4",
-      "durationLabel": "12:45"
+      "unit": "who の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SYsEWcAEIDM",
+      "durationLabel": "9:45"
     },
     {
-      "id": "rtSSsULGYpw",
-      "title": "【中１ 英語】 what do you ～?の意味と使い方 （１４分）",
+      "id": "NZLVvpZ6-3I",
+      "title": "【中１ 英語】 whose の意味と使い方 （１３分）",
       "subject": "英語",
-      "unit": "what do you ～?の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rtSSsULGYpw",
-      "durationLabel": "13:51"
-    },
-    {
-      "id": "QcTiZw6vDvI",
-      "title": "【中１ 英語】 what + 名詞 ～? の意味と使い方（１３分）",
-      "subject": "英語",
-      "unit": "what + 名詞 ～? の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QcTiZw6vDvI",
-      "durationLabel": "12:39"
+      "unit": "whose の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NZLVvpZ6-3I",
+      "durationLabel": "13:04"
     }
   ]
 }
