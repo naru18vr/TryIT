@@ -208,6 +208,13 @@ British Councilの現在形資料で、he・she・itを主語にする肯定文�
 
 British Councilの可算名詞資料で、可算名詞には単数形と複数形があり、多くは-s、s/ch/sh/ss/x/oで終わる語には-es、子音＋yで終わる語には-yを-iesに変えて複数形にすることを確認しました。[40] man/menやchild/childrenなどの不規則複数形も、個別に確認して覚える必要があります。
 
+## 中学1年英語：規則動詞・不規則動詞の過去形
+
+British Councilの過去形資料で、過去に終わった出来事や状態を表す過去形では、規則動詞に-edを付けること、動詞の語尾に応じた綴りの変化があること、不規則動詞は-edで終わらない個別の過去形を覚えることを確認しました。[41][42] 否定文・疑問文ではdid/didn''tの後に動詞の原形を使うことも確認しました。
+
+[41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
+[42]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs "British Council: Past simple – irregular verbs"
+
 [40]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/count-nouns "British Council: Count nouns"
 
 [39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
