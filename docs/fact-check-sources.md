@@ -171,3 +171,9 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 ## 中学1年数学：空間図形
 
 文部科学省の中学校数学資料で、空間における直線や平面の位置関係、見取図・展開図・投影図、扇形の弧の長さと面積、基本的な柱体・錐体・球の表面積と体積を確認しました。[36] 動画別ノートでは、立体を平面上の表現と結び付け、対応する面・辺・長さを確認して計算する観点を記述します。
+
+## 中学1年英語：be動詞の意味と使い方
+
+British Councilの現在形のbe動詞資料で、be動詞は現在の状態や状況を表し、主語に応じてI am、you/we/they are、he/she/it isを用いることを確認しました。[38] 動画別ノートでは、主語とbe動詞の対応、文の語順、短縮形、一般動詞と混同しない観点を記述します。
+
+[38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"

@@ -1,120 +1,32 @@
 {
   "grade": "中学1年",
-  "titleContains": null,
-  "selectedUnit": "空間図形",
-  "count": 14,
+  "titleContains": "be動詞",
+  "selectedUnit": "be動詞の意味と使い方",
+  "count": 3,
   "items": [
     {
-      "id": "yrOS0cDIDB4",
-      "title": "【中１ 数学】 空間図形１ 立体の名称 （１０分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=yrOS0cDIDB4",
-      "durationLabel": "9:41"
+      "id": "O9oe3-1KK2c",
+      "title": "【中１ 英語】 be動詞の意味と使い方(he,she) （１１分）",
+      "subject": "英語",
+      "unit": "be動詞の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=O9oe3-1KK2c",
+      "durationLabel": "11:11"
     },
     {
-      "id": "PQX1j4KMJig",
-      "title": "【中１ 数学】 空間図形８ 展開図 （６分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=PQX1j4KMJig",
-      "durationLabel": "6:17"
+      "id": "2xHRCvyrhIA",
+      "title": "【中１ 英語】 be動詞の意味と使い方(you) （９分）",
+      "subject": "英語",
+      "unit": "be動詞の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2xHRCvyrhIA",
+      "durationLabel": "8:50"
     },
     {
-      "id": "coYGrg8UGv4",
-      "title": "【中１ 数学】 空間図形７ 投影図 （９分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=coYGrg8UGv4",
-      "durationLabel": "8:41"
-    },
-    {
-      "id": "Pe8su6_II1Q",
-      "title": "【中１ 数学】 空間図形１１ 円錐 （１２分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Pe8su6_II1Q",
-      "durationLabel": "11:53"
-    },
-    {
-      "id": "9it1FIuYwpY",
-      "title": "【中１ 数学】 空間図形１０ おうぎ形の応用 （１０分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9it1FIuYwpY",
-      "durationLabel": "10:07"
-    },
-    {
-      "id": "dMUdkQ4QDwQ",
-      "title": "【中１ 数学】 空間図形９ おうぎ形の公式 （１７分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dMUdkQ4QDwQ",
-      "durationLabel": "17:00"
-    },
-    {
-      "id": "QznKn6ffib8",
-      "title": "【中１ 数学】 空間図形１３ 立体の体積 （１０分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QznKn6ffib8",
-      "durationLabel": "10:24"
-    },
-    {
-      "id": "FaQn-Do8vco",
-      "title": "【中１ 数学】 空間図形１４ 球 （６分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=FaQn-Do8vco",
-      "durationLabel": "5:51"
-    },
-    {
-      "id": "n39MjxwXjfk",
-      "title": "【中１ 数学】 空間図形５ ねじれの位置 （１１分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=n39MjxwXjfk",
-      "durationLabel": "11:10"
-    },
-    {
-      "id": "LeR9qtR_3dA",
-      "title": "【中１ 数学】 空間図形１２ 立体の表面積 （１８分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LeR9qtR_3dA",
-      "durationLabel": "17:34"
-    },
-    {
-      "id": "Ey1bOVULeu8",
-      "title": "【中１ 数学】 空間図形６ 回転体 （４分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Ey1bOVULeu8",
-      "durationLabel": "4:01"
-    },
-    {
-      "id": "o0Cvgm7vOgs",
-      "title": "【中１ 数学】 空間図形３ 面と面の位置関係 （１１分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=o0Cvgm7vOgs",
-      "durationLabel": "10:39"
-    },
-    {
-      "id": "aFo0KXPLdRo",
-      "title": "【中１ 数学】 空間図形２ 正多面体 （７分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=aFo0KXPLdRo",
-      "durationLabel": "7:27"
-    },
-    {
-      "id": "_m8UlHUen1I",
-      "title": "【中１ 数学】 空間図形４ 面と線の位置関係 （１１分）",
-      "subject": "数学",
-      "unit": "空間図形",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_m8UlHUen1I",
-      "durationLabel": "10:58"
+      "id": "9-o19fBwt-o",
+      "title": "【中１ 英語】 be動詞の意味と使い方(I) （１１分）",
+      "subject": "英語",
+      "unit": "be動詞の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9-o19fBwt-o",
+      "durationLabel": "10:49"
     }
   ]
 }
