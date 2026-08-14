@@ -241,6 +241,10 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 文部科学省の中学校理科学習指導要領で、花のつくりと働き、葉・茎・根のつくりと働きを、光合成・呼吸・蒸散に関する観察・実験の結果と関連付けて学ぶことを確認しました。[9] 被子植物の花では、受粉後に胚珠が種子になることを中心に扱い、葉緑体の働きと、葉・茎・根の働きの相互の関連を扱うことも確認しました。[9] 東京書籍の単元資料でも、光合成で植物が二酸化炭素を材料としていること、蒸散と吸水を実験で関連付けることを確認しました。[51]
 
+## 中学1年理科：気体・状態変化
+
+文部科学省の中学校理科学習指導要領で、第1学年の「身の回りの物質」として、気体の発生・性質・捕集法、物質の三態、状態変化で体積は変化するが質量は変化しないこと、融点・沸点の違いによる混合物の分離を扱うことを確認しました。[9] 同資料で、気体ごとの特性に応じた発生・捕集の技能を身に付けることも確認しました。[9] 東京書籍の状態変化資料は、加熱・冷却により固体・液体・気体の三つの状態へ変化することを示しています。[52]
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -258,3 +262,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [49]: https://www.teachingenglish.org.uk/teaching-resources/teaching-primary/lesson-plans/level-1/alphabet "British Council TeachingEnglish: Alphabet"
 [50]: https://learnenglishkids.britishcouncil.org/read-write/your-turn/alphabet "British Council LearnEnglish Kids: Alphabet"
 [51]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12362/17842/ "東京書籍：新しい科学2 第2章 植物のからだのつくりとはたらき"
+[52]: https://ten.tokyo-shoseki.co.jp/tangenl/shou/12361/17816/ "東京書籍：新しい科学1 第4章 物質の姿と状態変化"
