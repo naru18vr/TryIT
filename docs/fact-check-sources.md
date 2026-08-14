@@ -120,6 +120,10 @@ Try IT公式要点ページで、組合せの性質nCr=nC(n−r)、点を結ぶ�
 
 高校数学A「図形」では、文部科学省資料で三角形・円などの基本的な平面図形の性質、重心・内心・外心などの簡単な性質を扱うことを確認しました。[62] Try IT公式の「図形の性質」単元ページでは、初回の7本が内分・外分・平行線の性質・角の二等分線と比、続く三角形の学習が辺と角の関係、辺の長さの関係、外心・内心へ進むことを確認しました。[78]
 
+Try IT公式の三角形単元一覧で、内心・重心・面積と線分比・チェバの定理・メネラウスの定理が順に扱われることを確認しました。[79] 公式要点ページでは、チェバの定理とメネラウスの定理はいずれも三角形の辺または延長上の分点に関する三つの線分比の積が1となる関係を用い、図に沿って頂点と分点を循環する順序で比をそろえることを確認しました。[80][81]
+
+Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に対する中心角の半分で同じ弧に対する円周角は等しいこと、等しい円周角から4点が同一円周上にあることを示せること、円に内接する四角形の対角の和は180°であることを確認しました。[82][83][84][85]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -319,3 +323,10 @@ British Councilのアルファベット資料で、アルファベットの文�
 [76]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4881/ "Try IT公式：最短の道順の求め方"
 [77]: https://www.try-it.jp/chapters-4751/sections-4752/lessons-4885/ "Try IT公式：選ばれないものがある組合せ"
 [78]: https://www.try-it.jp/chapters-5130/ "Try IT公式：高校数学A 図形の性質"
+[79]: https://www.try-it.jp/chapters-5130/sections-5160/ "Try IT公式：高校数学A 三角形"
+[80]: https://www.try-it.jp/chapters-5130/sections-5160/lessons-5197/ "Try IT公式：チェバの定理1"
+[81]: https://www.try-it.jp/chapters-5130/sections-5160/lessons-5205/ "Try IT公式：メネラウスの定理1"
+[82]: https://www.try-it.jp/chapters-5130/sections-5213/ "Try IT公式：高校数学A 円"
+[83]: https://www.try-it.jp/chapters-5130/sections-5213/lessons-5214/ "Try IT公式：円周角と中心角"
+[84]: https://www.try-it.jp/chapters-5130/sections-5213/lessons-5222/ "Try IT公式：円周角の定理の逆"
+[85]: https://www.try-it.jp/chapters-5130/sections-5213/lessons-5226/ "Try IT公式：円に内接する四角形"
