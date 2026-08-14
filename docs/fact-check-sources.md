@@ -150,6 +150,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 同単元の後半では、Try IT公式の楕円の一般形要点で、中心(p,q)の楕円は標準形を平行移動して得られ、平方完成で中心を求めることを確認しました。[116] 曲線外の点から引く接線では、接点を(x₀,y₀)とおき、接線公式と接点が曲線上にある条件を連立する手順を確認しました。[117] 媒介変数表示と極座標の一覧では、媒介変数表示、三角関数表示、極座標・直交座標の変換、極方程式がこの範囲に含まれることを確認しました。[118] 極座標の要点では、点P(r,θ)を極からの距離rと偏角θで表し、x=rcosθ、y=rsinθが直交座標との対応であることを確認しました。[119]
 
+極方程式については、Try IT公式で、極座標(r,θ)を使って図形をr=f(θ)の形で表すことを確認しました。[120] 極方程式からx,yの方程式への変換では、rcosθ=x、rsinθ=y、r²=x²+y²を作るように式変形することを確認しました。[121][122] 直交座標から極座標への変換ではr=√(x²+y²)、cosθ=x/r、sinθ=y/rを使い、x,yの方程式から極方程式への変換ではx=rcosθ、y=rsinθを代入することも確認しました。[123][124]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -390,3 +392,8 @@ British Councilのアルファベット資料で、アルファベットの文�
 [117]: https://www.try-it.jp/chapters-7149/sections-7150/lessons-7213/ "Try IT公式：曲線外の点から引いた接線の求め方"
 [118]: https://www.try-it.jp/chapters-7149/sections-7215/ "Try IT公式：媒介変数表示と極座標"
 [119]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7222/ "Try IT公式：極座標と直交座標（1）"
+[120]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7230/ "Try IT公式：極方程式"
+[121]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7240/ "Try IT公式：極方程式からx,yの方程式へ（1）"
+[122]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7244/ "Try IT公式：極方程式からx,yの方程式へ（2）"
+[123]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7226/ "Try IT公式：極座標と直交座標（2）"
+[124]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7234/ "Try IT公式：x,yの方程式から極方程式へ（1）"
