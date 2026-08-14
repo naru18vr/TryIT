@@ -231,6 +231,8 @@ British Councilの疑問詞資料で、whoは人、what/whichは物や事柄、w
 
 British Councilの人称代名詞資料で、he/himとshe/herは主格・目的格の組であり、目的格は動詞の目的語や前置詞の後ろに使うことを確認しました。[47] 動画別ノートでは、主語の位置と目的語・前置詞の後ろの位置を区別する基本に限定して記述します。
 
+British Councilのbe動詞資料で、be動詞は主語と説明をつなぐリンク動詞として、名詞句・形容詞・前置詞句を伴えることを確認しました。[48] 動画別ノートでは、be動詞＋形容詞が主語の状態・特徴を表すこと、主語に応じてam/is/areを選ぶことに限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -244,3 +246,4 @@ British Councilの人称代名詞資料で、he/himとshe/herは主格・目的�
 [45]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/question-words "British Council: Question words"
 [46]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-questions "British Council: Possessives: questions"
 [47]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/personal-pronouns "British Council: Personal pronouns"
+[48]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verb-be "British Council: The verb 'be'"
