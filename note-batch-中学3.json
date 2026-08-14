@@ -1,16 +1,16 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "天球と星座早見",
+  "selectedUnit": "日食と月食",
   "count": 1,
   "items": [
     {
-      "id": "81C8AKy6aDs",
-      "title": "【中３ 理科 地学】 天球と星座早見 （１５分）",
+      "id": "XfG-kb5GhuY",
+      "title": "【中３ 理科 地学】 日食と月食 （１５分）",
       "subject": "理科",
-      "unit": "天球と星座早見",
-      "youtubeUrl": "https://www.youtube.com/watch?v=81C8AKy6aDs",
-      "durationLabel": "15:21"
+      "unit": "日食と月食",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XfG-kb5GhuY",
+      "durationLabel": "15:15"
     }
   ]
 }
