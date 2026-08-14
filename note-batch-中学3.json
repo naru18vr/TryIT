@@ -1,24 +1,32 @@
 {
   "grade": "中学3年",
-  "titleContains": "受け身",
+  "titleContains": "細胞分裂",
   "selectedUnit": "混合単元",
-  "count": 2,
+  "count": 3,
   "items": [
     {
-      "id": "oivulohsx2I",
-      "title": "【中３ 英語】 受け身(be動詞 + 過去分詞) （２０分）",
-      "subject": "英語",
-      "unit": "受け身",
-      "youtubeUrl": "https://www.youtube.com/watch?v=oivulohsx2I",
-      "durationLabel": "19:41"
+      "id": "3huNh1NAiIA",
+      "title": "【中３ 理科 生物】 細胞分裂 （１４分）",
+      "subject": "理科",
+      "unit": "細胞分裂",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3huNh1NAiIA",
+      "durationLabel": "14:23"
     },
     {
-      "id": "2Bm7hnbjZiw",
-      "title": "【中３ 英語】 受け身の否定文、疑問文の作り方 （１９分）",
-      "subject": "英語",
-      "unit": "受け身の否定文、疑問文の作り方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2Bm7hnbjZiw",
-      "durationLabel": "19:06"
+      "id": "LtwU-cA9CG4",
+      "title": "【中３ 理科 生物】 細胞分裂の観察 （１１分）",
+      "subject": "理科",
+      "unit": "細胞分裂の観察",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LtwU-cA9CG4",
+      "durationLabel": "10:59"
+    },
+    {
+      "id": "wQu_t8ynfX4",
+      "title": "【中３ 理科 生物】 細胞分裂と染色体 （１４分）",
+      "subject": "理科",
+      "unit": "細胞分裂と染色体",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wQu_t8ynfX4",
+      "durationLabel": "14:26"
     }
   ]
 }

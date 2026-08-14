@@ -62,6 +62,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 受け身はbe動詞と過去分詞で作り、行為を受ける側に焦点を置く表現であることをBritish Councilの資料で照合しました。[19] 時制はbe動詞で表し、過去分詞は変えないことも同資料で確認しました。[19] また、疑問文は動詞の最初の部分を主語の前に置き、否定文は最初の動詞の後にnotを置くことを確認しました。[20]
 
+## 中学3年理科：細胞分裂・動物の生殖
+
+体細胞分裂の過程を確かめ、細胞分裂を生物の成長と関連付けること、有性生殖と無性生殖の特徴を扱うことを文部科学省の中学校理科資料で照合しました。[21] 動物や被子植物の受精、受精卵が細胞分裂を繰り返して体のつくりが完成していく過程については、東京書籍の中学3年理科単元資料でも確認しました。[22]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -84,3 +88,5 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [18]: https://www.stat.go.jp/naruhodo/7_shurui/zensu.html "総務省統計局：全数調査・標本調査"
 [19]: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/passives "British Council: Passives"
 [20]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/questions-negatives "British Council: Questions and negatives"
+[21]: https://www.mext.go.jp/a_menu/shotou/cs/1320119.htm "文部科学省：中学校学習指導要領 理科"
+[22]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21307/ "東京書籍：新編 新しい科学3 第1章 生物の成長と生殖"
