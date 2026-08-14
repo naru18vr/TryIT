@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 式と証明１２ ",
+  "titleContains": "【高校 数学Ⅱ】 式と証明２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "yQJ2jM4-UiQ",
-      "title": "【高校 数学Ⅱ】 式と証明１２ 組立除法 （１７分）",
+      "id": "sffGRpMnDQM",
+      "title": "【高校 数学Ⅱ】 式と証明２４ 相加相乗平均 （１７分）",
       "subject": "数学",
       "unit": "式と証明",
-      "youtubeUrl": "https://www.youtube.com/watch?v=yQJ2jM4-UiQ",
-      "durationLabel": "17:22"
+      "youtubeUrl": "https://www.youtube.com/watch?v=sffGRpMnDQM",
+      "durationLabel": "16:32"
     }
   ]
 }
