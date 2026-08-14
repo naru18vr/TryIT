@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅲ】 関数１２ ",
+  "titleContains": "【高校 数学Ⅲ】 関数１６ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "TF_pgVZNifk",
-      "title": "【高校 数学Ⅲ】 関数１２ 逆関数の求め方 （１８分）",
+      "id": "oIRdZSV86wk",
+      "title": "【高校 数学Ⅲ】 関数１６ 合成関数 （１９分）",
       "subject": "数学",
       "unit": "関数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TF_pgVZNifk",
-      "durationLabel": "17:36"
+      "youtubeUrl": "https://www.youtube.com/watch?v=oIRdZSV86wk",
+      "durationLabel": "18:44"
     }
   ]
 }
