@@ -96,6 +96,10 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 
 東京書籍の中学3年理科資料で、電解質水溶液と金属板を組み合わせて電流を取り出すこと、電池では電解質水溶液中のイオンと金属の種類が関係すること、化学変化から電気エネルギーを得られることを確認しました。[31] 燃料電池のノートは、水素と酸素から水が生じる化学反応を利用する基本までに限定します。[31]
 
+## 中学3年理科：地球と宇宙
+
+東京書籍の中学3年理科資料で、天体の1日の見かけの動きは地球の自転と関連付けて扱い、同じ時刻に見える星座の位置の変化は地球の公転による見かけの動きとして扱うことを確認しました。[32] 動画別ノートでは、地球から見た動きと宇宙から見た位置関係を区別し、月の満ち欠けと食は太陽・地球・月の位置関係に限定して記述します。
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -129,3 +133,4 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 [29]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-followed-infinitive "British Council: Verbs followed by the infinitive"
 [30]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21308/ "東京書籍：新編 新しい科学3 第2章 遺伝の規則性と遺伝子"
 [31]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12363/17864/ "東京書籍：新しい科学3 第3章 化学変化と電池"
+[32]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21318/ "東京書籍：新編 新しい科学3 第1章 地球の運動と天体の動き"
