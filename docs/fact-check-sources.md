@@ -158,6 +158,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 関数の極限では、Try IT公式の片側極限要点で、x→a−0を左側、x→a+0を右側からの極限と表し、左側極限と右側極限が一致しないときはx→aの極限が存在しないことを確認しました。[132][133] 同公式の三角関数の極限要点では、sin x・cos xはx→∞およびx→−∞では周期的に変化して極限をもたず、有限のaへ近づく場合は連続性から代入して考えることを確認しました。[134] 東京書籍の数学III「関数の極限」資料では、片側極限、指数・対数・三角関数を含む関数の極限、はさみうちの原理を扱うことを確認しました。[135]
 
+Try IT公式のeの要点では、eを(1+x)^(1/x)のx→0における極限で定義し、底の増分と指数が逆数関係にあることを確認しました。[136] 関数の連続性については、x=aにおける極限値と関数値f(a)が一致するときに連続、異なるときに不連続であることを確認しました。[137] 中間値の定理では、区間で連続な関数の両端の値が異符号なら、その区間内に方程式f(x)=0の実数解が存在することを確認しました。[138]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -414,3 +416,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [133]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7367/ "Try IT公式：片側からの極限（2）"
 [134]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7377/ "Try IT公式：三角関数の極限（1）"
 [135]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16616/19739/ "東京書籍：数学III 関数の極限"
+[136]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7389/ "Try IT公式：eについて（1）"
+[137]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7397/ "Try IT公式：関数の連続性"
+[138]: https://www.try-it.jp/chapters-7292/sections-7346/lessons-7399/ "Try IT公式：中間値の定理"

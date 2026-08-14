@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅲ】 極限３０ ",
+  "titleContains": "【高校 数学Ⅲ】 極限３６ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "G22uuFLq9LM",
-      "title": "【高校 数学Ⅲ】 極限３０ 三角関数の極限２ （１７分）",
+      "id": "yTxG-47oxk8",
+      "title": "【高校 数学Ⅲ】 極限３６ 中間値の定理 （１８分）",
       "subject": "数学",
       "unit": "極限",
-      "youtubeUrl": "https://www.youtube.com/watch?v=G22uuFLq9LM",
-      "durationLabel": "17:14"
+      "youtubeUrl": "https://www.youtube.com/watch?v=yTxG-47oxk8",
+      "durationLabel": "18:15"
     }
   ]
 }
