@@ -66,6 +66,12 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 体細胞分裂の過程を確かめ、細胞分裂を生物の成長と関連付けること、有性生殖と無性生殖の特徴を扱うことを文部科学省の中学校理科資料で照合しました。[21] 動物や被子植物の受精、受精卵が細胞分裂を繰り返して体のつくりが完成していく過程については、東京書籍の中学3年理科単元資料でも確認しました。[22]
 
+## 中学3年英語：名詞の修飾
+
+関係節は人や物についての情報を加える表現であり、whoは人、thatは人または物について使えることをBritish Councilの資料で照合しました。[23] 関係詞が節の目的語で後ろに別の主語が続く場合には省略できるが、関係詞が主語で直後に動詞が続く場合には通常省略できないことも確認しました。[23][24]
+
+現在分詞は動詞に-ingを付けた形、過去分詞は規則動詞では-ed、または不規則な形であり、どちらも形容詞として名詞を説明できることをBritish Councilの資料で確認しました。[25]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -90,3 +96,6 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [20]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/questions-negatives "British Council: Questions and negatives"
 [21]: https://www.mext.go.jp/a_menu/shotou/cs/1320119.htm "文部科学省：中学校学習指導要領 理科"
 [22]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21307/ "東京書籍：新編 新しい科学3 第1章 生物の成長と生殖"
+[23]: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-defining-relative-clauses "British Council: Defining relative clauses"
+[24]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/relative-pronouns-relative-clauses "British Council: Relative pronouns and relative clauses"
+[25]: https://africa.teachingenglish.org.uk/classroom/grammar/participles "British Council: Participles (present and past)"
