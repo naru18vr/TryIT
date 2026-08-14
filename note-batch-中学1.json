@@ -1,16 +1,24 @@
 {
   "grade": "中学1年",
-  "titleContains": "when",
+  "titleContains": "how",
   "selectedUnit": "混合単元",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "im_36cpF2x4",
-      "title": "【中１ 英語】 when の意味と使い方 （１６分）",
+      "id": "U3dyrq6XwTY",
+      "title": "【中１ 英語】 how many ～ の意味と使い方 （１２分）",
       "subject": "英語",
-      "unit": "when の意味と使い方",
-      "youtubeUrl": "https://www.youtube.com/watch?v=im_36cpF2x4",
-      "durationLabel": "15:47"
+      "unit": "how many ～ の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=U3dyrq6XwTY",
+      "durationLabel": "12:17"
+    },
+    {
+      "id": "ltPSXeG6eZE",
+      "title": "【中１ 英語】 how の意味と使い方 （１３分）",
+      "subject": "英語",
+      "unit": "how の意味と使い方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ltPSXeG6eZE",
+      "durationLabel": "13:25"
     }
   ]
 }
