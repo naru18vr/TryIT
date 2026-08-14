@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 場合の数３４ ",
+  "titleContains": "【高校 数学Ａ】 図形１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "zRDiXGDIT8o",
-      "title": "【高校 数学Ａ】 場合の数３４ 重複組合せ（１０分）",
+      "id": "Emi2BxR4D0c",
+      "title": "【高校 数学Ａ】 図形１２ 三角形の内心１ （１２分）",
       "subject": "数学",
-      "unit": "場合の数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=zRDiXGDIT8o",
-      "durationLabel": "10:26"
+      "unit": "図形",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Emi2BxR4D0c",
+      "durationLabel": "12:14"
     }
   ]
 }
