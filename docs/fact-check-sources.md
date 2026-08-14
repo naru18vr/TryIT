@@ -142,6 +142,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 高校数学B「数列」では、Try IT公式の等差数列と等比数列一覧に、数列、等差数列・等比数列の一般項と和、等差中項・等比中項が並ぶことを確認しました。[106] 文部科学省の数学B内容では、数列とその和、等差数列と等比数列、漸化式と数学的帰納法を扱うことを確認しました。[107]
 
+高校数学B「ベクトル」では、Try IT公式の要点ページに、ベクトルの加法・減法・実数倍、成分、平行条件、内積が並ぶことを確認しました。[108] 同ページでは成分表示したベクトルの加法・減法はx成分・y成分ごとに計算し、実数倍では各成分を同じ実数倍することを確認しました。[109] 文部科学省の数学B内容では、平面上のベクトルとその演算、内積、空間座標とベクトルを扱うことを確認しました。[110]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -370,3 +372,6 @@ British Councilのアルファベット資料で、アルファベットの文�
 [105]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16610/18758/ "東京書籍：数学II 導関数の応用"
 [106]: https://www.try-it.jp/chapters-5324/sections-5325/ "Try IT公式：高校数学B 等差数列と等比数列"
 [107]: https://www.mext.go.jp/a_menu/shotou/cs/1320155.htm "文部科学省：高等学校学習指導要領 数学B"
+[108]: https://www.try-it.jp/chapters-5458/sections-5459/lessons-5488/ "Try IT公式：高校数学B ベクトル"
+[109]: https://www.try-it.jp/chapters-5458/sections-5459/lessons-5488/ "Try IT公式：成分によるベクトルの演算"
+[110]: https://www.mext.go.jp/a_menu/shotou/cs/1320155.htm "文部科学省：高等学校学習指導要領 数学B ベクトル"
