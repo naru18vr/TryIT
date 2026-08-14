@@ -1,16 +1,16 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "中和とイオン",
+  "selectedUnit": "力の分解の作図",
   "count": 1,
   "items": [
     {
-      "id": "xd_FC9SYAvE",
-      "title": "【中３ 理科 化学】 中和とイオン （２０分）",
+      "id": "L_zEq-JVWGI",
+      "title": "【中３ 理科 物理】 力の分解の作図 （２０分）",
       "subject": "理科",
-      "unit": "中和とイオン",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xd_FC9SYAvE",
-      "durationLabel": "20:29"
+      "unit": "力の分解の作図",
+      "youtubeUrl": "https://www.youtube.com/watch?v=L_zEq-JVWGI",
+      "durationLabel": "20:26"
     }
   ]
 }
