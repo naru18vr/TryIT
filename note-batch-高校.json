@@ -1,16 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学B】 数列２４ ",
+  "titleContains": "【高校 数学B】 数列３６ ",
   "selectedUnit": "混合単元",
-  "count": 1,
-  "items": [
-    {
-      "id": "l3NRA1oDc8Q",
-      "title": "【高校 数学B】 数列２４ 分数の分解と和２ （１８分）",
-      "subject": "数学",
-      "unit": "数列",
-      "youtubeUrl": "https://www.youtube.com/watch?v=l3NRA1oDc8Q",
-      "durationLabel": "18:01"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
