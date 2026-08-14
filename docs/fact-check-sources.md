@@ -106,6 +106,10 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 
 British Councilの命令文資料で、命令・指示は主語youを置かずに動詞の原形で表し、否定の命令・指示はdon't＋動詞の原形で作ることを確認しました。[44] pleaseを添えると丁寧な言い方になることも記述します。
 
+## 高校数学I：データ分析
+
+東京書籍の数学I「データの分析」資料で、平均値・標準偏差、四分位数・箱ひげ図、散布図・相関係数を扱うことを確認しました。[60][61] ノートでは、公式の計算手順だけでなく、データの散らばりや二変量の関係を図表から読み取り、結果を解釈する観点を記述します。
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -286,3 +290,5 @@ British Councilのアルファベット資料で、アルファベットの文�
 [57]: https://jp-cos.github.io/745/1503110000000 "学習指導要領LOD：高等学校数学I 数と集合"
 [58]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13965/ "東京書籍：数学I Advanced 1節 関数とグラフ"
 [59]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16528/14000/ "東京書籍：改訂 新数学I 3章 三角比"
+[60]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16526/13989/ "東京書籍：数学I Standard 5章 データの分析"
+[61]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16528/14006/ "東京書籍：改訂 新数学I 1節 データの分析"
