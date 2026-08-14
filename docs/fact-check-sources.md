@@ -46,6 +46,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 酸性・アルカリ性の性質、水素イオン・水酸化物イオンとの関係、中和で水と塩が生成する内容は、文部科学省の中学校理科学習指導要領と東京書籍の中学3年理科単元資料を照合しました。[9] [15]
 
+## 中学3年英語：現在完了形
+
+現在完了形は have/has と過去分詞でつくり、過去から現在までの継続、現在までの経験、現在に関係する過去の出来事に用いることをBritish Councilの資料で照合しました。[16] また、just は have/has と過去分詞の間、yet は疑問文・否定文の文末、already は「今より前」の意味で使われることを確認しました。[17]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -63,3 +67,5 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [13]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/link-verbs "British Council: Link verbs"
 [14]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/reporting-verbs-wh-if-clauses "British Council: Reporting verbs with 'that', 'wh-' and 'if' clauses"
 [15]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12363/17863/ "東京書籍：新しい科学3 第2章 酸、アルカリとイオン"
+[16]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect "British Council: Present perfect"
+[17]: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect-just-yet-still-already "British Council: Present perfect: just, yet, still and already"
