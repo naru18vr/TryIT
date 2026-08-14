@@ -1,72 +1,128 @@
 {
   "grade": "中学1年",
   "titleContains": null,
-  "selectedUnit": "資料の整理",
-  "count": 8,
+  "selectedUnit": "比例と反比例",
+  "count": 15,
   "items": [
     {
-      "id": "5tk8mmDlmzc",
-      "title": "【中１ 数学】 資料の整理７ 近似値とは？ （１３分）",
+      "id": "SUzlnAiLTW0",
+      "title": "【中１ 数学】 比例と反比例１ 関数 （１０分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=5tk8mmDlmzc",
-      "durationLabel": "12:39"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SUzlnAiLTW0",
+      "durationLabel": "9:47"
     },
     {
-      "id": "0wKqQUKqOW8",
-      "title": "【中１ 数学】 資料の整理８ 有効数字とは？ （９分）",
+      "id": "krp4DTDvX0Y",
+      "title": "【中１ 数学】 比例と反比例８ 直線の式 （５分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=0wKqQUKqOW8",
-      "durationLabel": "9:11"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=krp4DTDvX0Y",
+      "durationLabel": "5:11"
     },
     {
-      "id": "INDKrK2ZYS4",
-      "title": "【中１ 数学】 資料の整理６ 資料整理の総合問題 （１０分）",
+      "id": "bGqTkmLwJdQ",
+      "title": "【中１ 数学】 比例と反比例１１ 反比例グラフ （８分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=INDKrK2ZYS4",
-      "durationLabel": "9:32"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bGqTkmLwJdQ",
+      "durationLabel": "7:41"
     },
     {
-      "id": "WDUhMCPQGyE",
-      "title": "【中１ 数学】 資料の整理５ 最頻値と階級値 （９分）",
+      "id": "Y8PU7bQt4NU",
+      "title": "【中１ 数学】 比例と反比例１３ 反比例の式 （４分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=WDUhMCPQGyE",
-      "durationLabel": "8:53"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y8PU7bQt4NU",
+      "durationLabel": "4:27"
     },
     {
-      "id": "PRXzrAnX-ms",
-      "title": "【中１ 数学】 資料の整理４ 平均値と中央値 （１２分）",
+      "id": "P5yKUOivmis",
+      "title": "【中１ 数学】 比例と反比例９ 比例の式 （６分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=PRXzrAnX-ms",
-      "durationLabel": "12:30"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P5yKUOivmis",
+      "durationLabel": "6:21"
     },
     {
-      "id": "FWYc_oqHoZ0",
-      "title": "【中１ 数学】 資料の整理３ 相対度数の求め方 （９分）",
+      "id": "3Ing9bxBCvg",
+      "title": "【中１ 数学】 比例と反比例１０ 反比例とは？ （９分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=FWYc_oqHoZ0",
-      "durationLabel": "8:41"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3Ing9bxBCvg",
+      "durationLabel": "8:35"
     },
     {
-      "id": "1qbrWVkWVhI",
-      "title": "【中１ 数学】 資料の整理２ ヒストグラムとは？ （９分）",
+      "id": "QOjEgAtTNOk",
+      "title": "【中１ 数学】 比例と反比例３ 変域 （６分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=1qbrWVkWVhI",
-      "durationLabel": "9:15"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QOjEgAtTNOk",
+      "durationLabel": "6:01"
     },
     {
-      "id": "DBeg1mrlPh4",
-      "title": "【中１ 数学】 資料の整理１ 度数分布表とは？ （１３分）",
+      "id": "LChmQpKm93U",
+      "title": "【中１ 数学】 比例と反比例１２ 双曲線の式 （５分）",
       "subject": "数学",
-      "unit": "資料の整理",
-      "youtubeUrl": "https://www.youtube.com/watch?v=DBeg1mrlPh4",
-      "durationLabel": "13:25"
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LChmQpKm93U",
+      "durationLabel": "5:04"
+    },
+    {
+      "id": "2Xu0KvKMSb8",
+      "title": "【中１ 数学】 比例と反比例２ 比例とは？ （１４分）",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2Xu0KvKMSb8",
+      "durationLabel": "13:50"
+    },
+    {
+      "id": "2uz7tBD8LOU",
+      "title": "【中１数学】 比例と反比例１４ 比例の文章題（１１分）",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2uz7tBD8LOU",
+      "durationLabel": "10:34"
+    },
+    {
+      "id": "MmiHtlhkB3I",
+      "title": "【中１ 数学】 比例と反比例６ 比例のグラフ２ （６分）",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MmiHtlhkB3I",
+      "durationLabel": "5:40"
+    },
+    {
+      "id": "Cyttk10XmnI",
+      "title": "【中１ 数学】 比例と反比例４ 座標の書き方 （９分）",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Cyttk10XmnI",
+      "durationLabel": "9:08"
+    },
+    {
+      "id": "-ULjfPao3JY",
+      "title": "【中１ 数学】 比例と反比例５ 比例のグラフ１ （８分）",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-ULjfPao3JY",
+      "durationLabel": "8:13"
+    },
+    {
+      "id": "jtvtB2WVIHc",
+      "title": "【中１ 数学】 比例と反比例７ 比例のグラフ３ （５分）",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jtvtB2WVIHc",
+      "durationLabel": "4:36"
+    },
+    {
+      "id": "v-MNBoY_onM",
+      "title": "【中１ 数学】 比例と反比例１５ 反比例の文章題 (９分)",
+      "subject": "数学",
+      "unit": "比例と反比例",
+      "youtubeUrl": "https://www.youtube.com/watch?v=v-MNBoY_onM",
+      "durationLabel": "8:32"
     }
   ]
 }
