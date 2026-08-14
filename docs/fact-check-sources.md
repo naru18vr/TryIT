@@ -88,6 +88,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 British Councilの資料で、want などは「動詞＋名詞＋to不定詞」の形をとること、また make は「動詞＋名詞＋toのない不定詞」の形をとることを照合しました。[29] 疑問詞を含む節は「動詞＋疑問詞＋節」の形で用い、通常の疑問文の語順にしないこと、疑問詞＋to不定詞の形として where to go などを用いることも確認しました。[14][29]
 
+## 中学3年理科：遺伝の規則性
+
+中学校理科の東京書籍資料で、「遺伝の規則性と遺伝子」が中学3年理科の単元として扱われ、遺伝の法則の説明では「顕性・潜性」の用語を用いることを確認しました。[30] 動画別ノートでは、遺伝の規則性と分離の法則を、遺伝子の組合せを表に整理する基本手順に限定して記述します。
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -119,3 +123,4 @@ British Councilの資料で、want などは「動詞＋名詞＋to不定詞」�
 [27]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21312/ "東京書籍：新編 新しい科学3 第1章 物体の運動"
 [28]: https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/a/ions "Khan Academy: Ions"
 [29]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-followed-infinitive "British Council: Verbs followed by the infinitive"
+[30]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21308/ "東京書籍：新編 新しい科学3 第2章 遺伝の規則性と遺伝子"
