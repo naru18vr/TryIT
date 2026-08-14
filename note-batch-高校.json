@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅱ】 図形と式１２ ",
+  "titleContains": "【高校 数学Ⅱ】 図形と式２４ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "i4XNQU5W5xo",
-      "title": "【高校 数学Ⅱ】 図形と式１２ 放物線と直線１ （１２分）",
+      "id": "EvuIA3muClk",
+      "title": "【高校 数学Ⅱ】 図形と式２４ 円の接線公式 （１５分）",
       "subject": "数学",
       "unit": "図形と式",
-      "youtubeUrl": "https://www.youtube.com/watch?v=i4XNQU5W5xo",
-      "durationLabel": "11:31"
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvuIA3muClk",
+      "durationLabel": "14:45"
     }
   ]
 }
