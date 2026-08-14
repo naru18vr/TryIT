@@ -152,6 +152,8 @@ Try IT公式の円単元一覧と要点ページで、円周角は同じ弧に�
 
 極方程式については、Try IT公式で、極座標(r,θ)を使って図形をr=f(θ)の形で表すことを確認しました。[120] 極方程式からx,yの方程式への変換では、rcosθ=x、rsinθ=y、r²=x²+y²を作るように式変形することを確認しました。[121][122] 直交座標から極座標への変換ではr=√(x²+y²)、cosθ=x/r、sinθ=y/rを使い、x,yの方程式から極方程式への変換ではx=rcosθ、y=rsinθを代入することも確認しました。[123][124]
 
+高校数学III「種々の関数」では、Try IT公式の単元一覧で、分数関数5本、無理関数5本、逆関数と合成関数6本の合計16本を扱うことを確認しました。[125] 東京書籍の数学III資料では、分数関数・無理関数のグラフ、分数関数・無理関数と整関数から作る方程式・不等式、逆関数と合成関数が微分に先立つ学習内容であり、逆関数を求めるにはxについて解いてxとyを入れ替える手順を確認しました。[126]
+
 ## References
 
 [1]: https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/chu/su.htm "文部科学省：中学校学習指導要領 数学"
@@ -397,3 +399,5 @@ British Councilのアルファベット資料で、アルファベットの文�
 [122]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7244/ "Try IT公式：極方程式からx,yの方程式へ（2）"
 [123]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7226/ "Try IT公式：極座標と直交座標（2）"
 [124]: https://www.try-it.jp/chapters-7149/sections-7215/lessons-7234/ "Try IT公式：x,yの方程式から極方程式へ（1）"
+[125]: https://www.try-it.jp/chapters-7246/ "Try IT公式：高校数学III 種々の関数"
+[126]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16616/19737/ "東京書籍：数学III 関数"

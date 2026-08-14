@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ⅲ】 式と曲線３０ ",
+  "titleContains": "【高校 数学Ⅲ】 関数１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "XnTrR3dWw9A",
-      "title": "【高校 数学Ⅲ】 式と曲線３０ 極方程式５ （１８分）",
+      "id": "TF_pgVZNifk",
+      "title": "【高校 数学Ⅲ】 関数１２ 逆関数の求め方 （１８分）",
       "subject": "数学",
-      "unit": "式と曲線",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XnTrR3dWw9A",
-      "durationLabel": "13:57"
+      "unit": "関数",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TF_pgVZNifk",
+      "durationLabel": "17:36"
     }
   ]
 }
