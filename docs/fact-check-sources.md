@@ -225,6 +225,10 @@ British Councilの過去形資料で、一般動詞の過去形の否定文はdi
 
 British Councilの現在進行形資料で、現在進行形はbe動詞の現在形＋動詞ing形で作り、話している時点で進行中の活動を表すことを確認しました。[43] 否定文ではbe動詞の後にnotを置き、疑問文ではam/is/areを主語の前に置きます。
 
+## 中学1年英語：疑問詞・助動詞can
+
+British Councilの疑問詞資料で、whoは人、what/whichは物や事柄、whenは時、whereは場所、whyは理由、howは詳しい情報をたずねることを確認しました。[45] whoseは持ち主をたずねる語であり、whose＋名詞またはWhose＋be動詞の形を使い、who's（who is）と混同しないことを確認しました。[46] また、can/can'tは能力を表し、疑問文ではcanの後に主語を置き、否定形にはcan't/cannotを使うことを確認しました。[12] 動画別ノートでは、各動画タイトルから確認できる基本形・語順・よくある混同に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -235,3 +239,5 @@ British Councilの現在進行形資料で、現在進行形はbe動詞の現在
 [39]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple "British Council: Present simple"
 
 [38]: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be "British Council: Present simple: to be"
+[45]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/question-words "British Council: Question words"
+[46]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-questions "British Council: Possessives: questions"
