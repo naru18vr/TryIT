@@ -1,24 +1,16 @@
 {
   "grade": "中学3年",
   "titleContains": null,
-  "selectedUnit": "速さが変わる運動",
-  "count": 2,
+  "selectedUnit": "イオンのでき方",
+  "count": 1,
   "items": [
     {
-      "id": "SP_phcF0CgU",
-      "title": "【中３ 理科 物理】 速さが変わる運動１ （１４分）",
+      "id": "5NSHo4bjmNY",
+      "title": "【中３ 理科 化学】 イオンのでき方 （１９分）",
       "subject": "理科",
-      "unit": "速さが変わる運動",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SP_phcF0CgU",
-      "durationLabel": "14:12"
-    },
-    {
-      "id": "Cz6dc76JhFk",
-      "title": "【中３ 理科 物理】 速さが変わる運動２ （１８分）",
-      "subject": "理科",
-      "unit": "速さが変わる運動",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Cz6dc76JhFk",
-      "durationLabel": "18:19"
+      "unit": "イオンのでき方",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5NSHo4bjmNY",
+      "durationLabel": "19:05"
     }
   ]
 }

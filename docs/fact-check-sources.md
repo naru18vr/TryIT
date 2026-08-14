@@ -70,6 +70,10 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 
 物体に力が働く運動では、運動の向きや時間の経過に伴って速さが変わり、力が働かない運動では等速直線運動となることを文部科学省の資料で照合しました。[9] 記録タイマーのデータや、時間と速さ・移動距離のグラフを用いて運動を考察する学習であることは、東京書籍の中学3年理科単元資料でも確認しました。[27]
 
+## 中学3年理科：イオンのでき方
+
+イオンは電気を帯びた原子であり、原子が電子を失うと陽イオン、電子を受け取ると陰イオンになることを、Khan Academyの化学教材で照合しました。[28] イオンの生成が原子の成り立ちと関係することは、文部科学省の中学校理科資料でも確認しました。[9]
+
 ## 中学3年英語：名詞の修飾
 
 関係節は人や物についての情報を加える表現であり、whoは人、thatは人または物について使えることをBritish Councilの資料で照合しました。[23] 関係詞が節の目的語で後ろに別の主語が続く場合には省略できるが、関係詞が主語で直後に動詞が続く場合には通常省略できないことも確認しました。[23][24]
@@ -109,3 +113,4 @@ think・know・hope＋thatは、British Councilのthat節資料で、考えや�
 [25]: https://africa.teachingenglish.org.uk/classroom/grammar/participles "British Council: Participles (present and past)"
 [26]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/irregular-verbs "British Council: Irregular verbs"
 [27]: https://ten.tokyo-shoseki.co.jp/tangenl/chu/12103/21312/ "東京書籍：新編 新しい科学3 第1章 物体の運動"
+[28]: https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/a/ions "Khan Academy: Ions"
