@@ -253,6 +253,8 @@ British Councilのアルファベット資料で、アルファベットの文�
 
 文部科学省の高等学校数学資料で、数学Iの「数と式」では実数、式の展開、因数分解を扱うことを確認しました。[54] 同資料は、展開公式を三次までの範囲とし、複雑な因数分解には深入りしないことも示しています。[54] 東京書籍の数学I資料では、整式の用語・降べきの順、展開の意味と公式、因数分解が数と式の学習内容であることを確認しました。[55]
 
+高校数学Iの実数分野では、東京書籍の単元資料で、実数・無理数、平方根、根号を含む式の計算、分母の有理化、平方根を含む数の整数部分・小数部分を扱うことを確認しました。[56] 動画別ノートは、動画タイトルで確認できる範囲の循環小数、平方根、根号の計算、有理化、整数部分・小数部分に限定して記述します。
+
 [43]: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous "British Council: Present continuous"
 
 [41]: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs "British Council: Past simple – regular verbs"
@@ -274,3 +276,4 @@ British Councilのアルファベット資料で、アルファベットの文�
 [53]: https://www.gsj.jp/geology/fault-fold/formation/r-classification/index.html "産総研 地質調査総合センター：岩石の分類"
 [54]: https://www.mext.go.jp/a_menu/shotou/cs/1320230.htm "文部科学省：高等学校学習指導要領 数学"
 [55]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16525/13958/ "東京書籍：数学I Advanced 1節 式の計算"
+[56]: https://ten.tokyo-shoseki.co.jp/tangenl/kou/16605/18764/ "東京書籍：数学I Standard 2節 実数"
