@@ -1,16 +1,16 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 数学Ａ】 整数４１ ",
+  "titleContains": "【高校 数学Ⅱ】 式と証明１２ ",
   "selectedUnit": "混合単元",
   "count": 1,
   "items": [
     {
-      "id": "fXng5rgZRgc",
-      "title": "【高校 数学Ａ】 整数４１ ｎ進法の小数 （７分）",
+      "id": "yQJ2jM4-UiQ",
+      "title": "【高校 数学Ⅱ】 式と証明１２ 組立除法 （１７分）",
       "subject": "数学",
-      "unit": "整数",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fXng5rgZRgc",
-      "durationLabel": "6:51"
+      "unit": "式と証明",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yQJ2jM4-UiQ",
+      "durationLabel": "17:22"
     }
   ]
 }
