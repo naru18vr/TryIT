@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "比較級 and 比較級",
+  "titleContains": "no more",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "IyHCzSCOvW8",
-      "title": "【高校 英語】 比較級 and 比較級 など① （10分）",
+      "id": "qSZXX9zhkxo",
+      "title": "【高校 英語】 no more … than～ など① （16分）",
       "subject": "英語",
-      "unit": "比較級 and 比較級 など①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=IyHCzSCOvW8",
-      "durationLabel": "10:05"
+      "unit": "no more … than～ など①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qSZXX9zhkxo",
+      "durationLabel": "16:28"
     },
     {
-      "id": "ICbyRlUqOfc",
-      "title": "【高校 英語】 比較級 and 比較級 など② （8分）",
+      "id": "iSEWPU0ZQnQ",
+      "title": "【高校 英語】 no more … than～ など② （8分）",
       "subject": "英語",
-      "unit": "比較級 and 比較級 など②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ICbyRlUqOfc",
-      "durationLabel": "7:48"
+      "unit": "no more … than～ など②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iSEWPU0ZQnQ",
+      "durationLabel": "8:11"
     }
   ]
 }
