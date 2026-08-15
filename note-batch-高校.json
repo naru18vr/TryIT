@@ -1,32 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "not so",
+  "titleContains": "twice",
   "selectedUnit": "混合単元",
-  "count": 3,
-  "items": [
-    {
-      "id": "p8WzRGzTr40",
-      "title": "【高校英語 構文】 比較２（not so ～ as … ）（１７分）",
-      "subject": "英語",
-      "unit": "比較",
-      "youtubeUrl": "https://www.youtube.com/watch?v=p8WzRGzTr40",
-      "durationLabel": "16:51"
-    },
-    {
-      "id": "XBMzAivXS9w",
-      "title": "【高校 英語】 not so … as ～② （6分）",
-      "subject": "英語",
-      "unit": "not so … as ～②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XBMzAivXS9w",
-      "durationLabel": "5:33"
-    },
-    {
-      "id": "1qmxe8e8fU8",
-      "title": "【高校 英語】 not so … as ～① （5分）",
-      "subject": "英語",
-      "unit": "not so … as ～①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=1qmxe8e8fU8",
-      "durationLabel": "4:31"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
