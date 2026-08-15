@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "動名詞の意味上の主語",
+  "titleContains": "動名詞の慣用表現",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "c8yd8uhqdNE",
-      "title": "【高校 英語】 動名詞の意味上の主語① （7分）",
+      "id": "U63xtJVMk7A",
+      "title": "【高校 英語】 動名詞の慣用表現① （7分）",
       "subject": "英語",
-      "unit": "動名詞の意味上の主語①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=c8yd8uhqdNE",
-      "durationLabel": "7:26"
+      "unit": "動名詞の慣用表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=U63xtJVMk7A",
+      "durationLabel": "7:31"
     },
     {
-      "id": "_GbyJCiXZZk",
-      "title": "【高校 英語】 動名詞の意味上の主語② （8分）",
+      "id": "LotQsVyxmfU",
+      "title": "【高校 英語】 動名詞の慣用表現② （7分）",
       "subject": "英語",
-      "unit": "動名詞の意味上の主語②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_GbyJCiXZZk",
-      "durationLabel": "8:21"
+      "unit": "動名詞の慣用表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LotQsVyxmfU",
+      "durationLabel": "7:03"
     }
   ]
 }
