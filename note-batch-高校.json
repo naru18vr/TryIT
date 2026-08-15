@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "If it were not for",
+  "titleContains": "as if",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "wi01UmsTHCo",
-      "title": "【高校 英語】 仮定法If it were not for など② （7分）",
+      "id": "Z1dgav-nqtc",
+      "title": "【高校 英語】 as if/though＋仮定法② （7分）",
       "subject": "英語",
-      "unit": "仮定法If it were not for など②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wi01UmsTHCo",
-      "durationLabel": "7:20"
+      "unit": "as if/though＋仮定法②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Z1dgav-nqtc",
+      "durationLabel": "7:04"
     },
     {
-      "id": "XGFCYS2LUpA",
-      "title": "【高校 英語】 仮定法If it were not for など① （6分）",
+      "id": "Xoczw1_4srQ",
+      "title": "【高校 英語】 as if/though＋仮定法① （5分）",
       "subject": "英語",
-      "unit": "仮定法If it were not for など①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XGFCYS2LUpA",
-      "durationLabel": "5:37"
+      "unit": "as if/though＋仮定法①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Xoczw1_4srQ",
+      "durationLabel": "5:05"
     }
   ]
 }
