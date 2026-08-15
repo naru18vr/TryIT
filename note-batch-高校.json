@@ -1,24 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "分詞構文の慣用表現",
+  "titleContains": "with A 分詞",
   "selectedUnit": "混合単元",
-  "count": 2,
-  "items": [
-    {
-      "id": "daziXDvi_do",
-      "title": "【高校 英語】 分詞構文の慣用表現① （5分）",
-      "subject": "英語",
-      "unit": "分詞構文の慣用表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=daziXDvi_do",
-      "durationLabel": "4:40"
-    },
-    {
-      "id": "AU0biizdz-k",
-      "title": "【高校 英語】 分詞構文の慣用表現② （6分）",
-      "subject": "英語",
-      "unit": "分詞構文の慣用表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=AU0biizdz-k",
-      "durationLabel": "5:32"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
