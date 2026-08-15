@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "There be 主語＋分詞",
+  "titleContains": "主格の補語となる分詞",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "xGi83Nmgjrw",
-      "title": "【高校 英語】 There be 主語＋分詞① （6分）",
+      "id": "BNxnDCmpZe4",
+      "title": "【高校 英語】 主格の補語となる分詞① （7分）",
       "subject": "英語",
-      "unit": "There be 主語＋分詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xGi83Nmgjrw",
-      "durationLabel": "5:46"
+      "unit": "主格の補語となる分詞①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BNxnDCmpZe4",
+      "durationLabel": "6:36"
     },
     {
-      "id": "fnyxmeRBtlM",
-      "title": "【高校 英語】 There be 主語＋分詞② （10分）",
+      "id": "4si2cMSzXA8",
+      "title": "【高校 英語】 主格の補語となる分詞② （8分）",
       "subject": "英語",
-      "unit": "There be 主語＋分詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fnyxmeRBtlM",
-      "durationLabel": "10:16"
+      "unit": "主格の補語となる分詞②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4si2cMSzXA8",
+      "durationLabel": "7:52"
     }
   ]
 }
