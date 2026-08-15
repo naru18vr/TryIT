@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "「動名詞」とは？",
+  "titleContains": "to＋動名詞の熟語",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "x1Wc38aQW7Y",
-      "title": "【高校 英語】 「動名詞」とは？① （8分）",
+      "id": "XwCUTrGhBsc",
+      "title": "【高校 英語】 to＋動名詞の熟語① （7分）",
       "subject": "英語",
-      "unit": "「動名詞」とは？①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=x1Wc38aQW7Y",
-      "durationLabel": "8:24"
+      "unit": "to＋動名詞の熟語①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XwCUTrGhBsc",
+      "durationLabel": "6:45"
     },
     {
-      "id": "dO1agjGpcDM",
-      "title": "【高校 英語】 「動名詞」とは？② （12分）",
+      "id": "0rgldA8AP_k",
+      "title": "【高校 英語】 to＋動名詞の熟語② （8分）",
       "subject": "英語",
-      "unit": "「動名詞」とは？②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dO1agjGpcDM",
-      "durationLabel": "12:06"
+      "unit": "to＋動名詞の熟語②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0rgldA8AP_k",
+      "durationLabel": "8:05"
     }
   ]
 }
