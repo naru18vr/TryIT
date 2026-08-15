@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 不定詞の名詞的用法",
+  "titleContains": "【高校 英語】 不定詞の形容詞的用法",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "jEZB_MN0GX4",
-      "title": "【高校 英語】 不定詞の名詞的用法① （7分）",
+      "id": "qVUTLKYoYbU",
+      "title": "【高校 英語】 不定詞の形容詞的用法① （9分）",
       "subject": "英語",
-      "unit": "不定詞の名詞的用法①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=jEZB_MN0GX4",
-      "durationLabel": "7:23"
+      "unit": "不定詞の形容詞的用法①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qVUTLKYoYbU",
+      "durationLabel": "9:28"
     },
     {
-      "id": "La5aJ_cit0U",
-      "title": "【高校 英語】 不定詞の名詞的用法② （8分）",
+      "id": "i8lwnTDJGmA",
+      "title": "【高校 英語】 不定詞の形容詞的用法② （11分）",
       "subject": "英語",
-      "unit": "不定詞の名詞的用法②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=La5aJ_cit0U",
-      "durationLabel": "8:28"
+      "unit": "不定詞の形容詞的用法②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=i8lwnTDJGmA",
+      "durationLabel": "11:07"
     }
   ]
 }
