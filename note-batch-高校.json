@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "動名詞の完了形・受身形",
+  "titleContains": "動名詞の意味上の主語",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "YqXL58DAQ5A",
-      "title": "【高校 英語】 動名詞の完了形・受身形① （10分）",
+      "id": "c8yd8uhqdNE",
+      "title": "【高校 英語】 動名詞の意味上の主語① （7分）",
       "subject": "英語",
-      "unit": "動名詞の完了形・受身形①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YqXL58DAQ5A",
-      "durationLabel": "10:18"
+      "unit": "動名詞の意味上の主語①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8yd8uhqdNE",
+      "durationLabel": "7:26"
     },
     {
-      "id": "NTUVMqH5K8c",
-      "title": "【高校 英語】 動名詞の完了形・受身形② （8分）",
+      "id": "_GbyJCiXZZk",
+      "title": "【高校 英語】 動名詞の意味上の主語② （8分）",
       "subject": "英語",
-      "unit": "動名詞の完了形・受身形②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=NTUVMqH5K8c",
-      "durationLabel": "8:19"
+      "unit": "動名詞の意味上の主語②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_GbyJCiXZZk",
+      "durationLabel": "8:21"
     }
   ]
 }
