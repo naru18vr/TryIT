@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "toを用いる比較級",
+  "titleContains": "比較級の重要表現",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "Mc6b3ymNAno",
-      "title": "【高校 英語】 toを用いる比較級② （4分）",
+      "id": "QdePVafXDZk",
+      "title": "【高校 英語】 比較級の重要表現① （7分）",
       "subject": "英語",
-      "unit": "toを用いる比較級②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Mc6b3ymNAno",
-      "durationLabel": "4:17"
+      "unit": "比較級の重要表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QdePVafXDZk",
+      "durationLabel": "7:03"
     },
     {
-      "id": "2cbErs9dcCM",
-      "title": "【高校 英語】 toを用いる比較級① （5分）",
+      "id": "17AXZp_QdGc",
+      "title": "【高校 英語】 比較級の重要表現② （6分）",
       "subject": "英語",
-      "unit": "toを用いる比較級①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2cbErs9dcCM",
-      "durationLabel": "4:46"
+      "unit": "比較級の重要表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=17AXZp_QdGc",
+      "durationLabel": "5:56"
     }
   ]
 }
