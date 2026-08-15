@@ -1,24 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "序数",
+  "titleContains": "最上級なのに",
   "selectedUnit": "混合単元",
-  "count": 2,
-  "items": [
-    {
-      "id": "tGYHYoPSzfs",
-      "title": "【高校 英語】 the+序数+最上級 など① （5分）",
-      "subject": "英語",
-      "unit": "the+序数+最上級 など①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=tGYHYoPSzfs",
-      "durationLabel": "4:40"
-    },
-    {
-      "id": "Md8gqZSWUbI",
-      "title": "【高校 英語】 the+序数+最上級 など② （5分）",
-      "subject": "英語",
-      "unit": "the+序数+最上級 など②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Md8gqZSWUbI",
-      "durationLabel": "4:35"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
