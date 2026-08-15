@@ -1,144 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "動名詞",
+  "titleContains": "【高校 英語】 「分詞」とは？",
   "selectedUnit": "混合単元",
-  "count": 17,
+  "count": 2,
   "items": [
     {
-      "id": "tM4xtToAUeQ",
-      "title": "【高校英語 構文】 「動詞ing」は動名詞？分詞？（１５分）",
+      "id": "tWK9ifBAK5I",
+      "title": "【高校 英語】 「分詞」とは？① （9分）",
       "subject": "英語",
-      "unit": "「動詞ing」は動名詞？分詞？",
-      "youtubeUrl": "https://www.youtube.com/watch?v=tM4xtToAUeQ",
-      "durationLabel": "15:11"
+      "unit": "「分詞」とは？①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tWK9ifBAK5I",
+      "durationLabel": "9:05"
     },
     {
-      "id": "x1Wc38aQW7Y",
-      "title": "【高校 英語】 「動名詞」とは？① （8分）",
+      "id": "LMHG2gTYYGY",
+      "title": "【高校 英語】 「分詞」とは？② （12分）",
       "subject": "英語",
-      "unit": "「動名詞」とは？①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=x1Wc38aQW7Y",
-      "durationLabel": "8:24"
-    },
-    {
-      "id": "dO1agjGpcDM",
-      "title": "【高校 英語】 「動名詞」とは？② （12分）",
-      "subject": "英語",
-      "unit": "「動名詞」とは？②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dO1agjGpcDM",
-      "durationLabel": "12:06"
-    },
-    {
-      "id": "XwCUTrGhBsc",
-      "title": "【高校 英語】 to＋動名詞の熟語① （7分）",
-      "subject": "英語",
-      "unit": "to＋動名詞の熟語①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XwCUTrGhBsc",
-      "durationLabel": "6:45"
-    },
-    {
-      "id": "0rgldA8AP_k",
-      "title": "【高校 英語】 to＋動名詞の熟語② （8分）",
-      "subject": "英語",
-      "unit": "to＋動名詞の熟語②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=0rgldA8AP_k",
-      "durationLabel": "8:05"
-    },
-    {
-      "id": "SsxlAObSMdo",
-      "title": "【高校 英語】 動名詞と不定詞の見分け方① （6分）",
-      "subject": "英語",
-      "unit": "動名詞と不定詞の見分け方①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SsxlAObSMdo",
-      "durationLabel": "6:06"
-    },
-    {
-      "id": "JTG4o6YshEg",
-      "title": "【高校 英語】 動名詞と不定詞の見分け方② （8分）",
-      "subject": "英語",
-      "unit": "動名詞と不定詞の見分け方②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JTG4o6YshEg",
-      "durationLabel": "8:30"
-    },
-    {
-      "id": "SOQM4DrazPU",
-      "title": "【高校 英語】 動名詞と不定詞の意味の違い② （11分）",
-      "subject": "英語",
-      "unit": "動名詞と不定詞の意味の違い②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SOQM4DrazPU",
-      "durationLabel": "10:48"
-    },
-    {
-      "id": "ENguXAQoHZs",
-      "title": "【高校 英語】 動名詞と不定詞の意味の違い① （8分）",
-      "subject": "英語",
-      "unit": "動名詞と不定詞の意味の違い①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ENguXAQoHZs",
-      "durationLabel": "9:18"
-    },
-    {
-      "id": "uqzcjsBe0S4",
-      "title": "【高校 英語】 省略可能なin＋動名詞② （6分）",
-      "subject": "英語",
-      "unit": "省略可能なin＋動名詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=uqzcjsBe0S4",
-      "durationLabel": "6:08"
-    },
-    {
-      "id": "F8EB9PBCqw8",
-      "title": "【高校 英語】 省略可能なin＋動名詞① （4分）",
-      "subject": "英語",
-      "unit": "省略可能なin＋動名詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=F8EB9PBCqw8",
-      "durationLabel": "4:18"
-    },
-    {
-      "id": "U63xtJVMk7A",
-      "title": "【高校 英語】 動名詞の慣用表現① （7分）",
-      "subject": "英語",
-      "unit": "動名詞の慣用表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=U63xtJVMk7A",
-      "durationLabel": "7:31"
-    },
-    {
-      "id": "c8yd8uhqdNE",
-      "title": "【高校 英語】 動名詞の意味上の主語① （7分）",
-      "subject": "英語",
-      "unit": "動名詞の意味上の主語①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=c8yd8uhqdNE",
-      "durationLabel": "7:26"
-    },
-    {
-      "id": "_GbyJCiXZZk",
-      "title": "【高校 英語】 動名詞の意味上の主語② （8分）",
-      "subject": "英語",
-      "unit": "動名詞の意味上の主語②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_GbyJCiXZZk",
-      "durationLabel": "8:21"
-    },
-    {
-      "id": "YqXL58DAQ5A",
-      "title": "【高校 英語】 動名詞の完了形・受身形① （10分）",
-      "subject": "英語",
-      "unit": "動名詞の完了形・受身形①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YqXL58DAQ5A",
-      "durationLabel": "10:18"
-    },
-    {
-      "id": "NTUVMqH5K8c",
-      "title": "【高校 英語】 動名詞の完了形・受身形② （8分）",
-      "subject": "英語",
-      "unit": "動名詞の完了形・受身形②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=NTUVMqH5K8c",
-      "durationLabel": "8:19"
-    },
-    {
-      "id": "LotQsVyxmfU",
-      "title": "【高校 英語】 動名詞の慣用表現② （7分）",
-      "subject": "英語",
-      "unit": "動名詞の慣用表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LotQsVyxmfU",
-      "durationLabel": "7:03"
+      "unit": "「分詞」とは？②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LMHG2gTYYGY",
+      "durationLabel": "11:43"
     }
   ]
 }
