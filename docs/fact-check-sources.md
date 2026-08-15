@@ -477,3 +477,11 @@ British Councilのアルファベット資料で、アルファベットの文�
 - Try IT公式「助動詞(must/cannot/may)＋have 過去分詞」: https://www.try-it.jp/chapters-3664/lessons-3693/ 。助動詞＋have＋過去分詞が「過去についての現在の気持ち」を表し、must have・cannot have・may haveを使い分けることを確認した。
 - Try IT公式「分詞構文」とは？: https://www.try-it.jp/chapters-3807/lessons-3824/ 。接続詞＋主語を省略し、分詞～, 主語＋動詞の形で理由・時・条件などを補って読む基本を確認した。
 - Try IT公式「受身ではじまる分詞構文」: https://www.try-it.jp/chapters-3807/lessons-3828/ 。過去分詞～, 主語＋動詞の形が受動の意味を表し、Seen from～やWritten in～のように主節の主語との受動関係を確認して読むことを確認した。
+
+## 高校英語文法「不定詞の副詞的用法」確認記録（2026-08-15）
+
+Try IT公式「不定詞」一覧では、目的・結果・感情の原因を含む副詞的用法を別テーマとして扱うことを確認した。結果を表す用法は、先行する内容を受けて「…して～になる」と結果を付け足し、only to～は「結局～する」の意味を示す。高校英語構文の公式練習でも、副詞的用法は目的・感情の原因・結果の三つを文脈で判別することを確認した。
+
+- https://www.try-it.jp/chapters-3709/ （Try IT公式：高校英語文法 不定詞）
+- https://www.try-it.jp/chapters-3709/lessons-3726/ （Try IT公式：不定詞の使い方4・結果）
+- https://www.try-it.jp/chapters-4531/lessons-4544/practice-2/ （Try IT公式：不定詞の副詞的用法・練習）
