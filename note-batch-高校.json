@@ -1,40 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 仮定法過去完了",
+  "titleContains": "未来についての仮定",
   "selectedUnit": "混合単元",
-  "count": 4,
+  "count": 2,
   "items": [
     {
-      "id": "pxBKhi6KC6U",
-      "title": "【高校 英語】 仮定法過去完了② （9分）",
+      "id": "qczBAKk0eMo",
+      "title": "【高校 英語】 未来についての仮定① （11分）",
       "subject": "英語",
-      "unit": "仮定法過去完了②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pxBKhi6KC6U",
-      "durationLabel": "8:35"
+      "unit": "未来についての仮定①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qczBAKk0eMo",
+      "durationLabel": "10:55"
     },
     {
-      "id": "b8uGWwe1UZU",
-      "title": "【高校 英語】 仮定法過去完了① （9分）",
+      "id": "_z-Ap9us6n4",
+      "title": "【高校 英語】 未来についての仮定② （7分）",
       "subject": "英語",
-      "unit": "仮定法過去完了①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=b8uGWwe1UZU",
-      "durationLabel": "9:13"
-    },
-    {
-      "id": "ugpa5_6c34w",
-      "title": "【高校 英語】 仮定法過去完了＋仮定法過去① （7分）",
-      "subject": "英語",
-      "unit": "仮定法過去完了＋仮定法過去①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ugpa5_6c34w",
-      "durationLabel": "6:48"
-    },
-    {
-      "id": "KrCwJI-cBXs",
-      "title": "【高校 英語】 仮定法過去完了＋仮定法過去② （7分）",
-      "subject": "英語",
-      "unit": "仮定法過去完了＋仮定法過去②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=KrCwJI-cBXs",
-      "durationLabel": "6:58"
+      "unit": "未来についての仮定②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_z-Ap9us6n4",
+      "durationLabel": "7:22"
     }
   ]
 }
