@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "「比較」とは？",
+  "titleContains": "「比較級」の表現",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "H29iGCqeBz4",
-      "title": "【高校 英語】 「比較」とは？① （11分）",
+      "id": "agvMNVSQxMA",
+      "title": "【高校 英語】 「比較級」の表現② （13分）",
       "subject": "英語",
-      "unit": "「比較」とは？①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=H29iGCqeBz4",
-      "durationLabel": "11:26"
+      "unit": "「比較級」の表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=agvMNVSQxMA",
+      "durationLabel": "13:22"
     },
     {
-      "id": "_2xRVJSeQ70",
-      "title": "【高校 英語】 「比較」とは？② （9分）",
+      "id": "7GswC3PYgAA",
+      "title": "【高校 英語】 「比較級」の表現① （11分）",
       "subject": "英語",
-      "unit": "「比較」とは？②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_2xRVJSeQ70",
-      "durationLabel": "8:32"
+      "unit": "「比較級」の表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7GswC3PYgAA",
+      "durationLabel": "10:48"
     }
   ]
 }
