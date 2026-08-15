@@ -9,10 +9,12 @@ const terms = query
 
 const items = TRYIT_CATALOG.filter(
   (video) =>
-    video.grade === '高校' &&
-    video.subject === '英語' &&
-    video.title.startsWith('【高校 英語】') &&
-    (id ? video.id === id : terms.some((term) => video.title.includes(term))),
+    id
+      ? video.id === id
+      : video.grade === '高校' &&
+        video.subject === '英語' &&
+        video.title.startsWith('【高校 英語】') &&
+        terms.some((term) => video.title.includes(term)),
 );
 
 console.log(

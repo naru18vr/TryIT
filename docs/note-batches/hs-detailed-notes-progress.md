@@ -45,9 +45,11 @@
 | 高校英語文法 | 仮定法（導入・願望表現・仮定法過去・倒置・仮定法過去完了・未来・混合仮定・慣用表現・as if／as though・It is time） | 18 / 完了 | 高校英語文法の仮定法18本すべてに詳しいノートを追加し、総合監査済み |
 | 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現・強調as～as・できるだけ・rather than・最上級書き換え） | 40 / 完了 | 高校英語文法の比較40本すべてに詳しいノートを追加し、総合監査済み |
 | 高校英語文法 | 関係詞（全17トピック） | 34 / 完了 | 主格・所有格・目的格・that・前置詞＋関係代名詞・関係副詞・カンマ付き用法・what・as／but／than・複合関係詞・no matterの全17トピック、正規動画34本を詳しいノート追加・検証済み |
-| 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い） | 10 / 継続中 | 接続詞の最初の5トピックの正規動画10本を詳しいノート追加・検証済み |
+| 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until） | 12 / 継続中 | 接続詞の最初の6トピックの正規動画12本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
+
+高校英語文法「時を表す接続詞2（before / after / since / until）」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-4047/lessons-4068/ 、https://www.try-it.jp/chapters-4047/lessons-4068/practice-2/）、公式検索結果の正規動画とカタログタイトルを照合して登録した。beforeとafterが時間の順序を反対に表すこと、sinceが継続の起点を示して主節と完了形を組み合わせることが多いこと、until/tillが継続の終点を示すことを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `HRvyvOKULPk`（before/after/since/until①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-before-after-since-until-source-note.md` に記録した。
 
 高校英語文法「時を表す接続詞1（whenとwhileの違い）」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-4047/lessons-4064/ 、https://www.try-it.jp/chapters-4047/lessons-4064/practice-2/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。whenが「～するとき」を表すこと、whileが継続・同時進行の「～する間」と対比の「一方」を表すこと、主節と接続詞節の主語が同じ場合にはwhen/whileの後ろの主語＋be動詞を省略できることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `OhLdBHQNS94`（whenとwhileの違い①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-when-while-source-note.md` に記録した。
 
