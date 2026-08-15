@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "「最上級」の表現",
+  "titleContains": "最上級の強調",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "vbbdfVMAEtk",
-      "title": "【高校 英語】 「最上級」の表現② （8分）",
+      "id": "ZL95BvYG1i4",
+      "title": "【高校 英語】 最上級の強調② （6分）",
       "subject": "英語",
-      "unit": "「最上級」の表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=vbbdfVMAEtk",
-      "durationLabel": "8:29"
+      "unit": "最上級の強調②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZL95BvYG1i4",
+      "durationLabel": "5:34"
     },
     {
-      "id": "h7UJRcjCWYs",
-      "title": "【高校 英語】 「最上級」の表現① （9分）",
+      "id": "zMgnF_P_pqM",
+      "title": "【高校 英語】 最上級の強調① （5分）",
       "subject": "英語",
-      "unit": "「最上級」の表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=h7UJRcjCWYs",
-      "durationLabel": "9:05"
+      "unit": "最上級の強調①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zMgnF_P_pqM",
+      "durationLabel": "5:24"
     }
   ]
 }
