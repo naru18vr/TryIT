@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 「分詞」とは？",
+  "titleContains": "There be 主語＋分詞",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "tWK9ifBAK5I",
-      "title": "【高校 英語】 「分詞」とは？① （9分）",
+      "id": "xGi83Nmgjrw",
+      "title": "【高校 英語】 There be 主語＋分詞① （6分）",
       "subject": "英語",
-      "unit": "「分詞」とは？①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=tWK9ifBAK5I",
-      "durationLabel": "9:05"
+      "unit": "There be 主語＋分詞①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xGi83Nmgjrw",
+      "durationLabel": "5:46"
     },
     {
-      "id": "LMHG2gTYYGY",
-      "title": "【高校 英語】 「分詞」とは？② （12分）",
+      "id": "fnyxmeRBtlM",
+      "title": "【高校 英語】 There be 主語＋分詞② （10分）",
       "subject": "英語",
-      "unit": "「分詞」とは？②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LMHG2gTYYGY",
-      "durationLabel": "11:43"
+      "unit": "There be 主語＋分詞②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fnyxmeRBtlM",
+      "durationLabel": "10:16"
     }
   ]
 }
