@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "比較級の強調",
+  "titleContains": "比較級 and 比較級",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "Mdy_APq9P7k",
-      "title": "【高校 英語】 比較級の強調② （7分）",
+      "id": "IyHCzSCOvW8",
+      "title": "【高校 英語】 比較級 and 比較級 など① （10分）",
       "subject": "英語",
-      "unit": "比較級の強調②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Mdy_APq9P7k",
-      "durationLabel": "6:42"
+      "unit": "比較級 and 比較級 など①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IyHCzSCOvW8",
+      "durationLabel": "10:05"
     },
     {
-      "id": "CXAo0sp6DFI",
-      "title": "【高校 英語】 比較級の強調① （6分）",
+      "id": "ICbyRlUqOfc",
+      "title": "【高校 英語】 比較級 and 比較級 など② （8分）",
       "subject": "英語",
-      "unit": "比較級の強調①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=CXAo0sp6DFI",
-      "durationLabel": "5:58"
+      "unit": "比較級 and 比較級 など②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ICbyRlUqOfc",
+      "durationLabel": "7:48"
     }
   ]
 }
