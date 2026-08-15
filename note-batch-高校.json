@@ -1,40 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 不定詞",
-  "selectedUnit": "不定詞の副詞的用法",
-  "count": 4,
+  "titleContains": "【高校 英語】 「不定詞」とは？",
+  "selectedUnit": "混合単元",
+  "count": 2,
   "items": [
     {
-      "id": "l4Jcm23rWcE",
-      "title": "【高校 英語】 不定詞の副詞的用法（目的）① （9分）",
+      "id": "-BVbwkqAf3A",
+      "title": "【高校 英語】 「不定詞」とは？① （15分）",
       "subject": "英語",
-      "unit": "不定詞の副詞的用法",
-      "youtubeUrl": "https://www.youtube.com/watch?v=l4Jcm23rWcE",
-      "durationLabel": "9:22"
+      "unit": "「不定詞」とは？①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-BVbwkqAf3A",
+      "durationLabel": "15:21"
     },
     {
-      "id": "_Pgyc_gahqY",
-      "title": "【高校 英語】 不定詞の副詞的用法（目的）② （10分）",
+      "id": "9iQeGfxTm6I",
+      "title": "【高校 英語】 「不定詞」とは？② （8分）",
       "subject": "英語",
-      "unit": "不定詞の副詞的用法",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_Pgyc_gahqY",
-      "durationLabel": "9:59"
-    },
-    {
-      "id": "eSWNJLsWvC8",
-      "title": "【高校 英語】 不定詞の副詞的用法（結果）② （7分）",
-      "subject": "英語",
-      "unit": "不定詞の副詞的用法",
-      "youtubeUrl": "https://www.youtube.com/watch?v=eSWNJLsWvC8",
-      "durationLabel": "7:01"
-    },
-    {
-      "id": "4d7KUadDvXA",
-      "title": "【高校 英語】 不定詞の副詞的用法（結果）① （8分）",
-      "subject": "英語",
-      "unit": "不定詞の副詞的用法",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4d7KUadDvXA",
-      "durationLabel": "8:30"
+      "unit": "「不定詞」とは？②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9iQeGfxTm6I",
+      "durationLabel": "7:55"
     }
   ]
 }
