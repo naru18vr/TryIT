@@ -1,56 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "感情を表す",
+  "titleContains": "分詞の形をした形容詞",
   "selectedUnit": "混合単元",
-  "count": 6,
+  "count": 2,
   "items": [
     {
-      "id": "CSCbpmQUlig",
-      "title": "【高校 英語】 感情を表す他動詞① （9分）",
+      "id": "Za9VRi7RjaI",
+      "title": "【高校 英語】 分詞の形をした形容詞① （6分）",
       "subject": "英語",
-      "unit": "感情を表す他動詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=CSCbpmQUlig",
-      "durationLabel": "8:46"
+      "unit": "分詞の形をした形容詞①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Za9VRi7RjaI",
+      "durationLabel": "6:31"
     },
     {
-      "id": "yTIw6DNlGsM",
-      "title": "【高校 英語】 感情を表す動詞の受動態② （11分）",
+      "id": "-Dyx25pCFtc",
+      "title": "【高校 英語】 分詞の形をした形容詞② （6分）",
       "subject": "英語",
-      "unit": "感情を表す動詞の受動態②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=yTIw6DNlGsM",
-      "durationLabel": "11:08"
-    },
-    {
-      "id": "uQiQAU3oZbU",
-      "title": "【高校 英語】 感情を表す動詞の受動態① （8分）",
-      "subject": "英語",
-      "unit": "感情を表す動詞の受動態①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=uQiQAU3oZbU",
-      "durationLabel": "7:52"
-    },
-    {
-      "id": "wtJskwmFdM0",
-      "title": "【高校 英語】 感情を表す他動詞② （8分）",
-      "subject": "英語",
-      "unit": "感情を表す他動詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wtJskwmFdM0",
-      "durationLabel": "7:59"
-    },
-    {
-      "id": "fZ3rpazMGxQ",
-      "title": "【高校 英語】 To one's 感情を表す名詞② （6分）",
-      "subject": "英語",
-      "unit": "To one's 感情を表す名詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fZ3rpazMGxQ",
-      "durationLabel": "5:35"
-    },
-    {
-      "id": "d4WBN7raTGM",
-      "title": "【高校 英語】 To one's 感情を表す名詞① （5分）",
-      "subject": "英語",
-      "unit": "To one's 感情を表す名詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=d4WBN7raTGM",
-      "durationLabel": "4:56"
+      "unit": "分詞の形をした形容詞②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-Dyx25pCFtc",
+      "durationLabel": "5:54"
     }
   ]
 }
