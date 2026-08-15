@@ -1,7 +1,120 @@
 {
   "grade": "高校",
-  "titleContains": "twice",
+  "titleContains": "強調",
   "selectedUnit": "混合単元",
-  "count": 0,
-  "items": []
+  "count": 14,
+  "items": [
+    {
+      "id": "Hl9Fv_Xm0xE",
+      "title": "【高校英語 構文】 主語を強調するための倒置（１４分）",
+      "subject": "英語",
+      "unit": "主語を強調するための倒置",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hl9Fv_Xm0xE",
+      "durationLabel": "14:27"
+    },
+    {
+      "id": "tf0ZRSi3-3A",
+      "title": "【高校英語 構文】 強調構文（１４分）",
+      "subject": "英語",
+      "unit": "強調構文",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tf0ZRSi3-3A",
+      "durationLabel": "13:50"
+    },
+    {
+      "id": "4Kq9yOCoCaI",
+      "title": "【高校 英語】 強調を表す語句 very など① （8分）",
+      "subject": "英語",
+      "unit": "強調を表す語句 very など①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4Kq9yOCoCaI",
+      "durationLabel": "8:22"
+    },
+    {
+      "id": "RMxXI9iDPEs",
+      "title": "【高校 英語】 強調を表す語句 very など② （6分）",
+      "subject": "英語",
+      "unit": "強調を表す語句 very など②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RMxXI9iDPEs",
+      "durationLabel": "5:35"
+    },
+    {
+      "id": "Oy3QohkDZ3A",
+      "title": "【高校 英語】 強調構文① （6分）",
+      "subject": "英語",
+      "unit": "強調構文①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Oy3QohkDZ3A",
+      "durationLabel": "6:03"
+    },
+    {
+      "id": "u7tdczcP2gk",
+      "title": "【高校 英語】 強調のための「倒置」① （10分）",
+      "subject": "英語",
+      "unit": "強調のための「倒置」①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u7tdczcP2gk",
+      "durationLabel": "9:50"
+    },
+    {
+      "id": "3qOfHigLdKE",
+      "title": "【高校 英語】 強調構文② （8分）",
+      "subject": "英語",
+      "unit": "強調構文②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3qOfHigLdKE",
+      "durationLabel": "7:31"
+    },
+    {
+      "id": "R5LWS8z0u78",
+      "title": "【高校 英語】 強調のための「倒置」② （9分）",
+      "subject": "英語",
+      "unit": "強調のための「倒置」②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R5LWS8z0u78",
+      "durationLabel": "8:35"
+    },
+    {
+      "id": "Mdy_APq9P7k",
+      "title": "【高校 英語】 比較級の強調② （7分）",
+      "subject": "英語",
+      "unit": "比較級の強調②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Mdy_APq9P7k",
+      "durationLabel": "6:42"
+    },
+    {
+      "id": "CXAo0sp6DFI",
+      "title": "【高校 英語】 比較級の強調① （6分）",
+      "subject": "英語",
+      "unit": "比較級の強調①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CXAo0sp6DFI",
+      "durationLabel": "5:58"
+    },
+    {
+      "id": "ZL95BvYG1i4",
+      "title": "【高校 英語】 最上級の強調② （6分）",
+      "subject": "英語",
+      "unit": "最上級の強調②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZL95BvYG1i4",
+      "durationLabel": "5:34"
+    },
+    {
+      "id": "zMgnF_P_pqM",
+      "title": "【高校 英語】 最上級の強調① （5分）",
+      "subject": "英語",
+      "unit": "最上級の強調①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zMgnF_P_pqM",
+      "durationLabel": "5:24"
+    },
+    {
+      "id": "QNShr2CArqo",
+      "title": "【高校 英語】 強調の as … as① （4分）",
+      "subject": "英語",
+      "unit": "強調の as … as①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QNShr2CArqo",
+      "durationLabel": "4:13"
+    },
+    {
+      "id": "nnEUGdKMT58",
+      "title": "【高校 英語】 強調の as … as② （8分）",
+      "subject": "英語",
+      "unit": "強調の as … as②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nnEUGdKMT58",
+      "durationLabel": "8:16"
+    }
+  ]
 }

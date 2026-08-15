@@ -43,7 +43,7 @@
 | 高校英語文法 | 動名詞（導入・使い分け・to＋動名詞の熟語・省略可能なin＋動名詞・完了形・受身形・意味上の主語・慣用表現1・2・3） | 18 / 完了 | 18本を詳しいノート追加・全件監査済み |
 | 高校英語文法 | 分詞（導入・There be 主語＋分詞・主格／目的格の補語となる分詞・分詞構文導入・受動態・付帯状況・否定形／完了形・独立分詞構文・慣用表現・with A 分詞・感情を表す他動詞） | 24 / 完了 | 24本を詳しいノート追加・総合監査済み |
 | 高校英語文法 | 仮定法（導入・願望表現・仮定法過去・倒置・仮定法過去完了・未来・混合仮定・慣用表現・as if／as though・It is time） | 18 / 完了 | 高校英語文法の仮定法18本すべてに詳しいノートを追加し、総合監査済み |
-| 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現） | 32 / 継続中 | 「比較とは？」・比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・序数／least・the例外・as～as・not so…as・倍数表現など32本を詳しいノート追加・検証済み |
+| 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現・強調as～as） | 34 / 継続中 | 「比較とは？」・比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・序数／least・the例外・as～as・not so…as・倍数表現・強調as～asなど34本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -342,3 +342,5 @@ References: Try IT公式「時制」一覧および各動画タイトル、東�
 高校英語文法「～ほど…でない（not so … as ～）」の表現2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3954/）、正規動画タイトルを照合して登録した。not so…asが「～ほど…でない」を表すこと、否定では1つ目をasでなくsoにすること、notとso…asが助動詞などで離れていても一組として読むこと、単純な否定とは異なる比較のニュアンスを持つことを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `1qmxe8e8fU8`（not so…as～①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-not-so-as-source-note.md` に記録した。
 
 高校英語文法「倍数の表し方（twice as … as ～など）」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3958/）、公式再生リストの正規動画IDを照合して登録した。twice as…asが「～の2倍…だ」、three times as…asが「～の3倍…だ」、half as…asが「～の半分…だ」を表すこと、倍数をas…asの直前に置き、倍数表現ではso…asを使わないことを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `7ApuFPwS9lY`（倍数の表し方①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-multiples-source-note.md` に記録した。
+
+高校英語文法「強調のas … as」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3962/）、正規動画タイトルを照合して登録した。as many asが数、as often asが回数、as early asが早い時期を「～も」「早くも」と強調すること、manyとmuch、as early asとas soon asを文脈によって使い分けることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `QNShr2CArqo`（強調のas … as①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-emphatic-as-as-source-note.md` に記録した。
