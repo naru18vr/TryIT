@@ -1,104 +1,32 @@
 {
   "grade": "高校",
-  "titleContains": "that",
+  "titleContains": "前置詞＋関係代名詞",
   "selectedUnit": "混合単元",
-  "count": 12,
+  "count": 3,
   "items": [
     {
-      "id": "HF_6HSsLCms",
-      "title": "【高校英語 構文】 「It is 名詞 that」の判別（１５分）",
+      "id": "w_luelzOfPk",
+      "title": "【高校 英語】 前置詞＋関係代名詞① （9分）",
       "subject": "英語",
-      "unit": "「It is 名詞 that」の判別",
-      "youtubeUrl": "https://www.youtube.com/watch?v=HF_6HSsLCms",
-      "durationLabel": "15:24"
+      "unit": "前置詞＋関係代名詞①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w_luelzOfPk",
+      "durationLabel": "9:30"
     },
     {
-      "id": "o8m3hS5QD4Q",
-      "title": "【高校英語 構文】 動詞＋that「思う」系（１５分）",
+      "id": "SPM6KHD21wk",
+      "title": "【高校英語 構文】 前置詞＋関係代名詞のカタマリ（１６分）",
       "subject": "英語",
-      "unit": "動詞＋that「思う」系",
-      "youtubeUrl": "https://www.youtube.com/watch?v=o8m3hS5QD4Q",
-      "durationLabel": "14:49"
+      "unit": "前置詞＋関係代名詞のカタマリ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SPM6KHD21wk",
+      "durationLabel": "16:25"
     },
     {
-      "id": "jAtXf1irx3g",
-      "title": "【高校英語 構文】 「so 形容詞」と離れた「that」（１４分）",
+      "id": "wdSgMHcFi-I",
+      "title": "【高校 英語】 前置詞＋関係代名詞② （8分）",
       "subject": "英語",
-      "unit": "「so 形容詞」と離れた「that」",
-      "youtubeUrl": "https://www.youtube.com/watch?v=jAtXf1irx3g",
-      "durationLabel": "13:20"
-    },
-    {
-      "id": "87gwtb65BgM",
-      "title": "【高校英語 構文】 動詞＋人＋thatの頻出パターン（１３分）",
-      "subject": "英語",
-      "unit": "動詞＋人＋thatの頻出パターン",
-      "youtubeUrl": "https://www.youtube.com/watch?v=87gwtb65BgM",
-      "durationLabel": "12:31"
-    },
-    {
-      "id": "rspxvu2QrcM",
-      "title": "【高校英語 構文】 動詞＋that「言う・示す」系（１９分）",
-      "subject": "英語",
-      "unit": "動詞＋that「言う・示す」系",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rspxvu2QrcM",
-      "durationLabel": "18:44"
-    },
-    {
-      "id": "lrYAP2_adMU",
-      "title": "【高校 英語】 be said to～，be said that～① （6分）",
-      "subject": "英語",
-      "unit": "be said to～，be said that～①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lrYAP2_adMU",
-      "durationLabel": "5:54"
-    },
-    {
-      "id": "uOS3jF7jOv4",
-      "title": "【高校 英語】 be said to～，be said that～② （8分）",
-      "subject": "英語",
-      "unit": "be said to～，be said that～②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=uOS3jF7jOv4",
-      "durationLabel": "8:26"
-    },
-    {
-      "id": "le29w4SbcJc",
-      "title": "【高校 英語】 that節の中のshould① （6分）",
-      "subject": "英語",
-      "unit": "that節の中のshould①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=le29w4SbcJc",
-      "durationLabel": "6:26"
-    },
-    {
-      "id": "JnNzqin8FRs",
-      "title": "【高校 英語】 that節の中のshould② （8分）",
-      "subject": "英語",
-      "unit": "that節の中のshould②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JnNzqin8FRs",
-      "durationLabel": "8:08"
-    },
-    {
-      "id": "Vjlwy0ssSqU",
-      "title": "【高校 英語】 関係代名詞 that② （7分）",
-      "subject": "英語",
-      "unit": "関係代名詞 that②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Vjlwy0ssSqU",
-      "durationLabel": "6:48"
-    },
-    {
-      "id": "VR7esV0WySY",
-      "title": "【高校 英語】 関係代名詞 that① （6分）",
-      "subject": "英語",
-      "unit": "関係代名詞 that①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VR7esV0WySY",
-      "durationLabel": "5:53"
-    },
-    {
-      "id": "O311W4K7YTU",
-      "title": "【高校 英語】 It seems/happens that① （3分）",
-      "subject": "英語",
-      "unit": "It seems/happens that①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=O311W4K7YTU",
-      "durationLabel": "3:21"
+      "unit": "前置詞＋関係代名詞②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wdSgMHcFi-I",
+      "durationLabel": "7:48"
     }
   ]
 }
