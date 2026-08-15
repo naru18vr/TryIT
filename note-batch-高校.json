@@ -1,24 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "分詞構文の否定形・完了形",
+  "titleContains": "主語が異なる",
   "selectedUnit": "混合単元",
-  "count": 2,
-  "items": [
-    {
-      "id": "vN5gtqMPSuo",
-      "title": "【高校 英語】 分詞構文の否定形・完了形① （10分）",
-      "subject": "英語",
-      "unit": "分詞構文の否定形・完了形①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=vN5gtqMPSuo",
-      "durationLabel": "10:06"
-    },
-    {
-      "id": "Nff2MK-8lZc",
-      "title": "【高校 英語】 分詞構文の否定形・完了形② （8分）",
-      "subject": "英語",
-      "unit": "分詞構文の否定形・完了形②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Nff2MK-8lZc",
-      "durationLabel": "8:28"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
