@@ -1,32 +1,72 @@
 {
   "grade": "高校",
-  "titleContains": "前置詞＋関係代名詞",
+  "titleContains": "where",
   "selectedUnit": "混合単元",
-  "count": 3,
+  "count": 8,
   "items": [
     {
-      "id": "w_luelzOfPk",
-      "title": "【高校 英語】 前置詞＋関係代名詞① （9分）",
+      "id": "zt_Ckx3Kmlc",
+      "title": "【高校 英語】 関係副詞 where，when① （10分）",
       "subject": "英語",
-      "unit": "前置詞＋関係代名詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=w_luelzOfPk",
+      "unit": "関係副詞 where，when①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zt_Ckx3Kmlc",
+      "durationLabel": "10:05"
+    },
+    {
+      "id": "4FPLMqLSedw",
+      "title": "【高校 英語】 whereとwhichの使い分け① （8分）",
+      "subject": "英語",
+      "unit": "whereとwhichの使い分け①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4FPLMqLSedw",
+      "durationLabel": "7:58"
+    },
+    {
+      "id": "2qPUM6Iv3FI",
+      "title": "【高校 英語】 関係副詞 where，when② （8分）",
+      "subject": "英語",
+      "unit": "関係副詞 where，when②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2qPUM6Iv3FI",
+      "durationLabel": "7:41"
+    },
+    {
+      "id": "2AW8vxdkJJw",
+      "title": "【高校 英語】 whereとwhichの使い分け② （10分）",
+      "subject": "英語",
+      "unit": "whereとwhichの使い分け②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2AW8vxdkJJw",
       "durationLabel": "9:30"
     },
     {
-      "id": "SPM6KHD21wk",
-      "title": "【高校英語 構文】 前置詞＋関係代名詞のカタマリ（１６分）",
+      "id": "j3F7s7qQFio",
+      "title": "【高校 英語】 where/whenの非制限用法② （7分）",
       "subject": "英語",
-      "unit": "前置詞＋関係代名詞のカタマリ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SPM6KHD21wk",
-      "durationLabel": "16:25"
+      "unit": "where/whenの非制限用法②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j3F7s7qQFio",
+      "durationLabel": "7:19"
     },
     {
-      "id": "wdSgMHcFi-I",
-      "title": "【高校 英語】 前置詞＋関係代名詞② （8分）",
+      "id": "NoNpbYa5-Ns",
+      "title": "【高校 英語】 where/whenの非制限用法① （6分）",
       "subject": "英語",
-      "unit": "前置詞＋関係代名詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wdSgMHcFi-I",
-      "durationLabel": "7:48"
+      "unit": "where/whenの非制限用法①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NoNpbYa5-Ns",
+      "durationLabel": "6:19"
+    },
+    {
+      "id": "F0MXW8rW8Oc",
+      "title": "【高校 英語】 whenever/wherever/however① （5分）",
+      "subject": "英語",
+      "unit": "whenever/wherever/however①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=F0MXW8rW8Oc",
+      "durationLabel": "5:08"
+    },
+    {
+      "id": "KJzeL63bUpk",
+      "title": "【高校 英語】 whenever/wherever/however② （6分）",
+      "subject": "英語",
+      "unit": "whenever/wherever/however②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KJzeL63bUpk",
+      "durationLabel": "6:00"
     }
   ]
 }
