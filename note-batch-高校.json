@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 不定詞の慣用表現",
+  "titleContains": "【高校 英語】 toの省略",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "uJJWM-pOP4E",
-      "title": "【高校 英語】 不定詞の慣用表現① （7分）",
+      "id": "3uGEtTBcSGs",
+      "title": "【高校 英語】 toの省略（原形不定詞）① （10分）",
       "subject": "英語",
-      "unit": "不定詞の慣用表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=uJJWM-pOP4E",
-      "durationLabel": "7:24"
+      "unit": "toの省略",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3uGEtTBcSGs",
+      "durationLabel": "9:40"
     },
     {
-      "id": "pcRNUsbeJ8A",
-      "title": "【高校 英語】 不定詞の慣用表現② （7分）",
+      "id": "yIsdjsWAHzY",
+      "title": "【高校 英語】 toの省略（原形不定詞）② （8分）",
       "subject": "英語",
-      "unit": "不定詞の慣用表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pcRNUsbeJ8A",
-      "durationLabel": "6:32"
+      "unit": "toの省略",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yIsdjsWAHzY",
+      "durationLabel": "7:42"
     }
   ]
 }
