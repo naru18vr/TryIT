@@ -1,40 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 動名詞と不定詞",
+  "titleContains": "「動名詞」とは？",
   "selectedUnit": "混合単元",
-  "count": 4,
+  "count": 2,
   "items": [
     {
-      "id": "SsxlAObSMdo",
-      "title": "【高校 英語】 動名詞と不定詞の見分け方① （6分）",
+      "id": "x1Wc38aQW7Y",
+      "title": "【高校 英語】 「動名詞」とは？① （8分）",
       "subject": "英語",
-      "unit": "動名詞と不定詞の見分け方①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SsxlAObSMdo",
-      "durationLabel": "6:06"
+      "unit": "「動名詞」とは？①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x1Wc38aQW7Y",
+      "durationLabel": "8:24"
     },
     {
-      "id": "JTG4o6YshEg",
-      "title": "【高校 英語】 動名詞と不定詞の見分け方② （8分）",
+      "id": "dO1agjGpcDM",
+      "title": "【高校 英語】 「動名詞」とは？② （12分）",
       "subject": "英語",
-      "unit": "動名詞と不定詞の見分け方②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JTG4o6YshEg",
-      "durationLabel": "8:30"
-    },
-    {
-      "id": "SOQM4DrazPU",
-      "title": "【高校 英語】 動名詞と不定詞の意味の違い② （11分）",
-      "subject": "英語",
-      "unit": "動名詞と不定詞の意味の違い②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SOQM4DrazPU",
-      "durationLabel": "10:48"
-    },
-    {
-      "id": "ENguXAQoHZs",
-      "title": "【高校 英語】 動名詞と不定詞の意味の違い① （8分）",
-      "subject": "英語",
-      "unit": "動名詞と不定詞の意味の違い①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ENguXAQoHZs",
-      "durationLabel": "9:18"
+      "unit": "「動名詞」とは？②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dO1agjGpcDM",
+      "durationLabel": "12:06"
     }
   ]
 }
