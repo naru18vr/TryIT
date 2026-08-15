@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "whichの非制限用法",
+  "titleContains": "where/whenの非制限用法",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "SR5L_jTNkfA",
-      "title": "【高校 英語】 whichの非制限用法② （10分）",
+      "id": "j3F7s7qQFio",
+      "title": "【高校 英語】 where/whenの非制限用法② （7分）",
       "subject": "英語",
-      "unit": "whichの非制限用法②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SR5L_jTNkfA",
-      "durationLabel": "9:49"
+      "unit": "where/whenの非制限用法②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j3F7s7qQFio",
+      "durationLabel": "7:19"
     },
     {
-      "id": "47HFld8nkOA",
-      "title": "【高校 英語】 whichの非制限用法① （8分）",
+      "id": "NoNpbYa5-Ns",
+      "title": "【高校 英語】 where/whenの非制限用法① （6分）",
       "subject": "英語",
-      "unit": "whichの非制限用法①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=47HFld8nkOA",
-      "durationLabel": "7:39"
+      "unit": "where/whenの非制限用法①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NoNpbYa5-Ns",
+      "durationLabel": "6:19"
     }
   ]
 }
