@@ -45,9 +45,15 @@
 | 高校英語文法 | 仮定法（導入・願望表現・仮定法過去・倒置・仮定法過去完了・未来・混合仮定・慣用表現・as if／as though・It is time） | 18 / 完了 | 高校英語文法の仮定法18本すべてに詳しいノートを追加し、総合監査済み |
 | 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現・強調as～as・できるだけ・rather than・最上級書き換え） | 40 / 完了 | 高校英語文法の比較40本すべてに詳しいノートを追加し、総合監査済み |
 | 高校英語文法 | 関係詞（全17トピック） | 34 / 完了 | 主格・所有格・目的格・that・前置詞＋関係代名詞・関係副詞・カンマ付き用法・what・as／but／than・複合関係詞・no matterの全17トピック、正規動画34本を詳しいノート追加・検証済み |
-| 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until・timeを用いた表現・because/since・though/whether・even if/even though・if/unless/once・so that/in order that/in case・so…that/such…that・接続詞as・as long as/as far as・名詞節を導くthat・同格のthat） | 34 / 継続中 | 接続詞の最初の17トピックの正規動画34本を詳しいノート追加・検証済み |
+| 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until・timeを用いた表現・because/since・though/whether・even if/even though・if/unless/once・so that/in order that/in case・so…that/such…that・接続詞as・as long as/as far as・名詞節を導くthat・同格のthat・前置詞＋that・名詞節を導くwhetherとifの違い） | 38 / 完了 | 接続詞の全19トピック・正規動画38本を詳しいノート追加・最終監査済み |
 
 ## 根拠と検証
+
+高校英語文法「接続詞」単元を最終監査した。専用の再利用可能な監査スクリプト `scripts/audit-hs-conjunction-note-coverage.mjs` を追加し、高校・英語の正規カタログを等位接続詞、時・理由・譲歩・条件・目的・程度結果、as、that、whether/ifまでの全19トピックに対応付けて突合した。その結果、対象カタログ数38本、ノート登録数38本、要約と「復習では」を含む確認済みノート数38本、未登録0本、不完全0本を確認した。各トピックは2本ずつであり、カタログ抽出漏れがないことも単元別集計で確認した。
+
+高校英語文法「名詞節を導くwhetherとifの違い」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-4047/lessons-4120/ 、https://www.try-it.jp/chapters-4047/lessons-4120/practice-2/）、名詞節の配置制限を扱う補助資料、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。whetherとifがともに「～かどうか」を表すこと、whetherが主語・補語・目的語に使えること、ifが一般動詞の目的語に限られること、or notとwhether、名詞節のifと条件ifの区別を扱う2本すべてについて、要約、7項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `uX8kjmKK4LE`（名詞節を導くif/whether①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、whether・if・or not・目的語と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-whether-if-source-note.md` に記録した。
+
+高校英語文法「前置詞＋that」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4047/lessons-4116/ 、https://www.try-it.jp/chapters-4047/lessons-4116/practice-2/ 、https://www.try-it.jp/chapters-4047/lessons-4116/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。in that + SVが「～という点で」、except that + SVが「～という点を除いて」を表すこと、that節を一つの名詞のかたまりとして読むこと、in thatが観点を補いexcept thatが例外を示すことを扱う2本すべてについて、要約、7項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `1W7FA2vQUg4`（前置詞＋that①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、定型表現・観点・例外と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-preposition-that-source-note.md` に記録した。
 
 高校英語文法「同格のthat」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-4047/lessons-4112/ 、https://www.try-it.jp/chapters-4047/lessons-4112/practice-2/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。同格のthatが直前の抽象名詞とthat節をイコールの関係で結ぶこと、fact・rumor・news・hopeなどの内容を説明すること、that節が完全な文であること、関係代名詞では節内に欠けた要素があることを扱う2本すべてについて、要約、7項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `GGzd6lbcnXk`（同格のthat①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、同格・関係詞の区別と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-appositive-that-source-note.md` に記録した。
 
