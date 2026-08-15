@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "主格の補語となる分詞",
+  "titleContains": "目的格の補語となる分詞",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "BNxnDCmpZe4",
-      "title": "【高校 英語】 主格の補語となる分詞① （7分）",
+      "id": "xK_YscyHrp8",
+      "title": "【高校 英語】 目的格の補語となる分詞② （8分）",
       "subject": "英語",
-      "unit": "主格の補語となる分詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=BNxnDCmpZe4",
-      "durationLabel": "6:36"
+      "unit": "目的格の補語となる分詞②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xK_YscyHrp8",
+      "durationLabel": "8:12"
     },
     {
-      "id": "4si2cMSzXA8",
-      "title": "【高校 英語】 主格の補語となる分詞② （8分）",
+      "id": "11t1mQdNZh8",
+      "title": "【高校 英語】 目的格の補語となる分詞① （11分）",
       "subject": "英語",
-      "unit": "主格の補語となる分詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4si2cMSzXA8",
-      "durationLabel": "7:52"
+      "unit": "目的格の補語となる分詞①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=11t1mQdNZh8",
+      "durationLabel": "10:36"
     }
   ]
 }
