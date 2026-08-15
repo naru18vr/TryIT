@@ -43,7 +43,7 @@
 | 高校英語文法 | 動名詞（導入・使い分け・to＋動名詞の熟語・省略可能なin＋動名詞・完了形・受身形・意味上の主語・慣用表現1・2・3） | 18 / 完了 | 18本を詳しいノート追加・全件監査済み |
 | 高校英語文法 | 分詞（導入・There be 主語＋分詞・主格／目的格の補語となる分詞・分詞構文導入・受動態・付帯状況・否定形／完了形・独立分詞構文・慣用表現・with A 分詞・感情を表す他動詞） | 24 / 完了 | 24本を詳しいノート追加・総合監査済み |
 | 高校英語文法 | 仮定法（導入・願望表現・仮定法過去・倒置・仮定法過去完了・未来・混合仮定・慣用表現・as if／as though・It is time） | 18 / 完了 | 高校英語文法の仮定法18本すべてに詳しいノートを追加し、総合監査済み |
-| 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less） | 10 / 継続中 | 「比較とは？」・比較級・no more／no lessなど10本を詳しいノート追加・検証済み |
+| 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less） | 12 / 継続中 | 「比較とは？」・比較級・no more／no less・not more／not lessなど12本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -320,3 +320,5 @@ References: Try IT公式「時制」一覧および各動画タイトル、東�
 高校英語文法「比較級 and 比較級などの表現」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3910/）、正規動画タイトルを照合して登録した。比較級 and 比較級が「ますます～だ」を表すこと、more and more＋形容詞・名詞を後ろまで含めて読むこと、The 比較級～, the 比較級…が「～すればするほど、ますます…」を表すこと、The sooner, the better.のように二つのtheが相関構文の印であることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `IyHCzSCOvW8`（比較級 and 比較級 など①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-double-comparative-source-note.md` に記録した。
 
 高校英語文法「no more … than～などの表現」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3914/）、正規動画タイトルを照合して登録した。no more … than～が「～と同じく…ではない」、no less … than～が「～と同じく…である」を表すこと、than前が主張・than後が主張を補強する具体例となること、no moreをnot any moreに言い換えられることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `qSZXX9zhkxo`（no more … than～ など①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-no-more-source-note.md` に記録した。
+
+高校英語文法「not more than／not less thanの書き換え」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3918/）、Try IT公式YouTubeの高校英文法「比較」再生リスト、正規動画IDを照合して登録した。not more thanがat mostと同じ「せいぜい」、not less thanがat leastと同じ「少なくとも」を表すこと、no more／no lessの比較構文とは別に数量・程度を限定する熟語として処理することを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `IoHXmk73aPg`（not more/less than など①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-not-more-source-note.md` に記録した。
