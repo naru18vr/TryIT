@@ -43,7 +43,7 @@
 | 高校英語文法 | 動名詞（導入・使い分け・to＋動名詞の熟語・省略可能なin＋動名詞・完了形・受身形・意味上の主語・慣用表現1・2・3） | 18 / 完了 | 18本を詳しいノート追加・全件監査済み |
 | 高校英語文法 | 分詞（導入・There be 主語＋分詞・主格／目的格の補語となる分詞・分詞構文導入・受動態・付帯状況・否定形／完了形・独立分詞構文・慣用表現・with A 分詞・感情を表す他動詞） | 24 / 完了 | 24本を詳しいノート追加・総合監査済み |
 | 高校英語文法 | 仮定法（導入・願望表現・仮定法過去・倒置・仮定法過去完了・未来・混合仮定・慣用表現・as if／as though・It is time） | 18 / 完了 | 高校英語文法の仮定法18本すべてに詳しいノートを追加し、総合監査済み |
-| 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現・強調as～as・できるだけ） | 36 / 継続中 | 「比較とは？」・比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・序数／least・the例外・as～as・not so…as・倍数表現・強調as～as・できるだけなど36本を詳しいノート追加・検証済み |
+| 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現・強調as～as・できるだけ・rather than） | 38 / 継続中 | 「比較とは？」・比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・序数／least・the例外・as～as・not so…as・倍数表現・強調as～as・できるだけ・rather thanなど38本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -346,3 +346,5 @@ References: Try IT公式「時制」一覧および各動画タイトル、東�
 高校英語文法「強調のas … as」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3962/）、正規動画タイトルを照合して登録した。as many asが数、as often asが回数、as early asが早い時期を「～も」「早くも」と強調すること、manyとmuch、as early asとas soon asを文脈によって使い分けることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `QNShr2CArqo`（強調のas … as①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-emphatic-as-as-source-note.md` に記録した。
 
 高校英語文法「できるだけ～」の表現2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3966/）、正規動画タイトルを照合して登録した。as～as possibleとas～as S canが「できるだけ～」を表し相互に言い換えられること、as soon as possibleが「できるだけ早く」を表すこと、many booksのような意味のかたまりをasとasの間に置くことを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `U32xxrR95BQ`（できるだけ①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-as-as-possible-source-note.md` に記録した。
+
+高校英語文法「AというよりはむしろB（not so much A as B / B rather than A）」の表現2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3897/lessons-3970/）、正規動画タイトルを照合して登録した。not so much A as Bでは本当に伝えたいBが後ろに、B rather than AではBが前に来ること、二つの形を相互に書き換えられることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `grYlvfHGXKY`（AというよりはむしろB①）で、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-comparison-rather-than-source-note.md` に記録した。

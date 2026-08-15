@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "できるだけ",
+  "titleContains": "むしろ",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "3vtAM2686O8",
-      "title": "【高校 英語】 できるだけ（as ～ as S can）② （5分）",
+      "id": "lNDTcVWo1Xg",
+      "title": "【高校 英語】 AというよりはむしろB② （5分）",
       "subject": "英語",
-      "unit": "できるだけ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=3vtAM2686O8",
-      "durationLabel": "5:14"
+      "unit": "AというよりはむしろB②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lNDTcVWo1Xg",
+      "durationLabel": "4:51"
     },
     {
-      "id": "U32xxrR95BQ",
-      "title": "【高校 英語】 できるだけ（as ～ as S can）① （5分）",
+      "id": "grYlvfHGXKY",
+      "title": "【高校 英語】 AというよりはむしろB① （5分）",
       "subject": "英語",
-      "unit": "できるだけ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=U32xxrR95BQ",
-      "durationLabel": "4:45"
+      "unit": "AというよりはむしろB①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=grYlvfHGXKY",
+      "durationLabel": "4:39"
     }
   ]
 }
