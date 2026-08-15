@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "むしろ",
+  "titleContains": "最上級の意味を表す",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "lNDTcVWo1Xg",
-      "title": "【高校 英語】 AというよりはむしろB② （5分）",
+      "id": "5psWSAjWxWo",
+      "title": "【高校 英語】 最上級の意味を表す表現② （8分）",
       "subject": "英語",
-      "unit": "AというよりはむしろB②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lNDTcVWo1Xg",
-      "durationLabel": "4:51"
+      "unit": "最上級の意味を表す表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5psWSAjWxWo",
+      "durationLabel": "7:48"
     },
     {
-      "id": "grYlvfHGXKY",
-      "title": "【高校 英語】 AというよりはむしろB① （5分）",
+      "id": "HYrKzMUv2uk",
+      "title": "【高校 英語】 最上級の意味を表す表現① （9分）",
       "subject": "英語",
-      "unit": "AというよりはむしろB①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=grYlvfHGXKY",
-      "durationLabel": "4:39"
+      "unit": "最上級の意味を表す表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HYrKzMUv2uk",
+      "durationLabel": "9:05"
     }
   ]
 }
