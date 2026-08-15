@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "【高校 英語】 「仮定法」とは？",
+  "titleContains": "願望を表す仮定法",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "dwMa7evV6SY",
-      "title": "【高校 英語】 「仮定法」とは？② （9分）",
+      "id": "iG76_80ZCsc",
+      "title": "【高校 英語】 願望を表す仮定法① （10分）",
       "subject": "英語",
-      "unit": "「仮定法」とは？②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dwMa7evV6SY",
-      "durationLabel": "9:17"
+      "unit": "願望を表す仮定法①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iG76_80ZCsc",
+      "durationLabel": "10:24"
     },
     {
-      "id": "19uttgFnpkA",
-      "title": "【高校 英語】 「仮定法」とは？① （9分）",
+      "id": "BomLzpLIdQk",
+      "title": "【高校 英語】 願望を表す仮定法② （7分）",
       "subject": "英語",
-      "unit": "「仮定法」とは？①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=19uttgFnpkA",
-      "durationLabel": "9:09"
+      "unit": "願望を表す仮定法②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BomLzpLIdQk",
+      "durationLabel": "6:34"
     }
   ]
 }
