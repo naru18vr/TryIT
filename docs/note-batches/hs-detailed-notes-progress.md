@@ -44,9 +44,13 @@
 | 高校英語文法 | 分詞（導入・There be 主語＋分詞・主格／目的格の補語となる分詞・分詞構文導入・受動態・付帯状況・否定形／完了形・独立分詞構文・慣用表現・with A 分詞・感情を表す他動詞） | 24 / 完了 | 24本を詳しいノート追加・総合監査済み |
 | 高校英語文法 | 仮定法（導入・願望表現・仮定法過去・倒置・仮定法過去完了・未来・混合仮定・慣用表現・as if／as though・It is time） | 18 / 完了 | 高校英語文法の仮定法18本すべてに詳しいノートを追加し、総合監査済み |
 | 高校英語文法 | 比較（導入・比較級-er／more・比較級の強調・比較級and比較級・no more／no less・not more／not less・to比較級・重要表現・最上級・最上級の強調・序数／least・the例外・最上級重要表現・as～as・not so…as・倍数表現・強調as～as・できるだけ・rather than・最上級書き換え） | 40 / 完了 | 高校英語文法の比較40本すべてに詳しいノートを追加し、総合監査済み |
-| 高校英語文法 | 関係詞（関係代名詞1 主格・関係代名詞2 所有格・関係代名詞3 目的格・that・前置詞＋関係代名詞・関係副詞where／when／why／how・whereとwhichの使い分け・カンマ付きwho／whom／which／関係副詞・what 1・whatの慣用表現・as／but／than・whoever／whichever／whatever・whenever／wherever／however） | 32 / 継続中 | 主格2本・所有格2本・目的格2本・that2本・前置詞＋関係代名詞2本・関係副詞where／when2本・whereとwhich2本・関係副詞why／how2本・カンマ付きwho／whom2本・カンマ付きwhich2本・カンマ付き関係副詞2本・what 1の2本・whatの慣用表現2本・as／but／than2本・whoever／whichever／whatever2本・whenever／wherever／however2本を詳しいノート追加・検証済み |
+| 高校英語文法 | 関係詞（全17トピック） | 34 / 完了 | 主格・所有格・目的格・that・前置詞＋関係代名詞・関係副詞・カンマ付き用法・what・as／but／than・複合関係詞・no matterの全17トピック、正規動画34本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
+
+高校英語文法「関係詞」単元は、Try IT公式の全17トピックに対応する正規動画34本を静的カタログから再抽出して最終監査した。対象は関係代名詞の主格・所有格・目的格・that・前置詞＋関係代名詞、関係副詞、カンマ付き用法、what、as/but/than、複合関係詞、no matterである。カタログ抽出数は34本、ノート登録数は34本、要約を含む件数は34本、復習観点を含む件数は34本で一致した。`audit-relative-pronouns.mjs` の監査で対象に欠損がないことを確認し、Vitestは24件すべて成功した。このため、高校英語文法「関係詞」を完了とした。
+
+高校英語文法「no matter ～，の使い方」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3978/lessons-4043/ 、https://www.try-it.jp/chapters-3978/lessons-4043/practice-2/）、正規動画タイトルを照合して登録した。no matter ～,が「たとえ～でも」を表すこと、no matter who／what／when／where／howが、カンマ付きのwhoever／whatever／whenever／wherever／howeverと対応すること、カンマの有無で複合関係詞の意味と役割が変わることを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `tw89cCoh90o`（no matter ～，の使い方①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-no-matter-source-note.md` に記録した。
 
 高校英語文法「whenever、wherever、howeverの使い方」2本は、Try IT公式のポイントと練習（https://www.try-it.jp/chapters-3978/lessons-4039/ 、https://www.try-it.jp/chapters-3978/lessons-4039/practice-2/）、正規動画タイトルを照合して登録した。wheneverが時、whereverが場所について「～でも」を表す副詞節を作ること、howeverは形容詞・副詞を後ろに伴い程度について「たとえどれほど～でも」を表すこと、複合関係代名詞と異なり副詞相当で主節を修飾することを扱う2本すべてについて、要約、6項目の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `F0MXW8rW8Oc`（whenever/wherever/however①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-ever-adverbs-source-note.md` に記録した。
 
