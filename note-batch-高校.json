@@ -1,40 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "何",
+  "titleContains": "関係代名詞whatの慣用表現",
   "selectedUnit": "混合単元",
-  "count": 4,
+  "count": 2,
   "items": [
     {
-      "id": "Xfv1kTz7EKM",
-      "title": "【漢文】 疑問・反語・詠嘆６ 「何＋α」で疑問・反語になる言葉 （２６分）",
-      "subject": "漢文",
-      "unit": "疑問・反語・詠嘆",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Xfv1kTz7EKM",
-      "durationLabel": "25:48"
-    },
-    {
-      "id": "aAkxx_h-6Kc",
-      "title": "【漢文】 疑問・反語・詠嘆３ 疑問の副詞「何」 （２１分）",
-      "subject": "漢文",
-      "unit": "疑問・反語・詠嘆",
-      "youtubeUrl": "https://www.youtube.com/watch?v=aAkxx_h-6Kc",
-      "durationLabel": "20:39"
-    },
-    {
-      "id": "y5DY0WwStDA",
-      "title": "【高校 英語】 「～してから何年」の表現① （8分）",
+      "id": "h4XWdCR-Ka4",
+      "title": "【高校 英語】 関係代名詞whatの慣用表現② （6分）",
       "subject": "英語",
-      "unit": "「～してから何年」の表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=y5DY0WwStDA",
-      "durationLabel": "7:56"
+      "unit": "関係代名詞whatの慣用表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=h4XWdCR-Ka4",
+      "durationLabel": "5:35"
     },
     {
-      "id": "CF40kYBZe3w",
-      "title": "【高校 英語】 「～してから何年」の表現② （7分）",
+      "id": "_a2SLF4oifY",
+      "title": "【高校 英語】 関係代名詞whatの慣用表現① （7分）",
       "subject": "英語",
-      "unit": "「～してから何年」の表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=CF40kYBZe3w",
-      "durationLabel": "7:27"
+      "unit": "関係代名詞whatの慣用表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_a2SLF4oifY",
+      "durationLabel": "7:22"
     }
   ]
 }
