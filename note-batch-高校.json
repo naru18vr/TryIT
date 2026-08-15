@@ -1,24 +1,7 @@
 {
   "grade": "高校",
-  "titleContains": "関係代名詞whatの慣用表現",
+  "titleContains": "as・but・than",
   "selectedUnit": "混合単元",
-  "count": 2,
-  "items": [
-    {
-      "id": "h4XWdCR-Ka4",
-      "title": "【高校 英語】 関係代名詞whatの慣用表現② （6分）",
-      "subject": "英語",
-      "unit": "関係代名詞whatの慣用表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=h4XWdCR-Ka4",
-      "durationLabel": "5:35"
-    },
-    {
-      "id": "_a2SLF4oifY",
-      "title": "【高校 英語】 関係代名詞whatの慣用表現① （7分）",
-      "subject": "英語",
-      "unit": "関係代名詞whatの慣用表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_a2SLF4oifY",
-      "durationLabel": "7:22"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
