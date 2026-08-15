@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "等位接続詞 and/or/but",
+  "titleContains": "命令文＋and/or",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "synF6L96ZpA",
-      "title": "【高校 英語】 等位接続詞 and/or/but② （8分）",
+      "id": "garK3Q_rPyk",
+      "title": "【高校 英語】 命令文＋and/or② （7分）",
       "subject": "英語",
-      "unit": "等位接続詞 and/or/but②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=synF6L96ZpA",
-      "durationLabel": "7:46"
+      "unit": "命令文＋and/or②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=garK3Q_rPyk",
+      "durationLabel": "7:17"
     },
     {
-      "id": "Cy5Jm_5rIes",
-      "title": "【高校 英語】 等位接続詞 and/or/but① （12分）",
+      "id": "46RzE4b4qFQ",
+      "title": "【高校 英語】 命令文＋and/or① （5分）",
       "subject": "英語",
-      "unit": "等位接続詞 and/or/but①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Cy5Jm_5rIes",
-      "durationLabel": "11:31"
+      "unit": "命令文＋and/or①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=46RzE4b4qFQ",
+      "durationLabel": "5:23"
     }
   ]
 }
