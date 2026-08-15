@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "比較級の重要表現",
+  "titleContains": "「最上級」の表現",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "QdePVafXDZk",
-      "title": "【高校 英語】 比較級の重要表現① （7分）",
+      "id": "vbbdfVMAEtk",
+      "title": "【高校 英語】 「最上級」の表現② （8分）",
       "subject": "英語",
-      "unit": "比較級の重要表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QdePVafXDZk",
-      "durationLabel": "7:03"
+      "unit": "「最上級」の表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vbbdfVMAEtk",
+      "durationLabel": "8:29"
     },
     {
-      "id": "17AXZp_QdGc",
-      "title": "【高校 英語】 比較級の重要表現② （6分）",
+      "id": "h7UJRcjCWYs",
+      "title": "【高校 英語】 「最上級」の表現① （9分）",
       "subject": "英語",
-      "unit": "比較級の重要表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=17AXZp_QdGc",
-      "durationLabel": "5:56"
+      "unit": "「最上級」の表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=h7UJRcjCWYs",
+      "durationLabel": "9:05"
     }
   ]
 }
