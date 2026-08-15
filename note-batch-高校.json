@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "最上級の重要表現",
+  "titleContains": "同じくらい",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "M4-BdlbcAdI",
-      "title": "【高校 英語】 最上級の重要表現① （5分）",
+      "id": "OEQX24Q2lO8",
+      "title": "【高校 英語】 同じくらい～（as ～ as）① （8分）",
       "subject": "英語",
-      "unit": "最上級の重要表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=M4-BdlbcAdI",
-      "durationLabel": "5:11"
+      "unit": "同じくらい～",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OEQX24Q2lO8",
+      "durationLabel": "7:36"
     },
     {
-      "id": "LrEaG8xGdvY",
-      "title": "【高校 英語】 最上級の重要表現② （6分）",
+      "id": "M49mz9Ad9MA",
+      "title": "【高校 英語】 同じくらい～（as ～ as）② （7分）",
       "subject": "英語",
-      "unit": "最上級の重要表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LrEaG8xGdvY",
-      "durationLabel": "5:43"
+      "unit": "同じくらい～",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M49mz9Ad9MA",
+      "durationLabel": "6:48"
     }
   ]
 }
