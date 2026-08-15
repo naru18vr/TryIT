@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "付帯状況を表す分詞構文",
+  "titleContains": "分詞構文の否定形・完了形",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "jKeRERAA0ec",
-      "title": "【高校 英語】 付帯状況を表す分詞構文① （5分）",
+      "id": "vN5gtqMPSuo",
+      "title": "【高校 英語】 分詞構文の否定形・完了形① （10分）",
       "subject": "英語",
-      "unit": "付帯状況を表す分詞構文①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=jKeRERAA0ec",
-      "durationLabel": "5:11"
+      "unit": "分詞構文の否定形・完了形①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vN5gtqMPSuo",
+      "durationLabel": "10:06"
     },
     {
-      "id": "YSjp_-XyraM",
-      "title": "【高校 英語】 付帯状況を表す分詞構文② （8分）",
+      "id": "Nff2MK-8lZc",
+      "title": "【高校 英語】 分詞構文の否定形・完了形② （8分）",
       "subject": "英語",
-      "unit": "付帯状況を表す分詞構文②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YSjp_-XyraM",
-      "durationLabel": "8:00"
+      "unit": "分詞構文の否定形・完了形②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Nff2MK-8lZc",
+      "durationLabel": "8:28"
     }
   ]
 }
