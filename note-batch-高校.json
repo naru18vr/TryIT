@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "受動態の分詞構文",
+  "titleContains": "付帯状況を表す分詞構文",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "S1mZum4p-_c",
-      "title": "【高校 英語】 受動態の分詞構文① （5分）",
+      "id": "jKeRERAA0ec",
+      "title": "【高校 英語】 付帯状況を表す分詞構文① （5分）",
       "subject": "英語",
-      "unit": "受動態の分詞構文①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=S1mZum4p-_c",
-      "durationLabel": "5:12"
+      "unit": "付帯状況を表す分詞構文①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jKeRERAA0ec",
+      "durationLabel": "5:11"
     },
     {
-      "id": "8S5fN1HKaHg",
-      "title": "【高校 英語】 受動態の分詞構文② （7分）",
+      "id": "YSjp_-XyraM",
+      "title": "【高校 英語】 付帯状況を表す分詞構文② （8分）",
       "subject": "英語",
-      "unit": "受動態の分詞構文②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=8S5fN1HKaHg",
-      "durationLabel": "6:32"
+      "unit": "付帯状況を表す分詞構文②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YSjp_-XyraM",
+      "durationLabel": "8:00"
     }
   ]
 }
