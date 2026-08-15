@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "目的格の補語となる分詞",
+  "titleContains": "【高校 英語】 「分詞構文」とは？",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "xK_YscyHrp8",
-      "title": "【高校 英語】 目的格の補語となる分詞② （8分）",
+      "id": "l6AtBkiyLX4",
+      "title": "【高校 英語】 「分詞構文」とは？① （12分）",
       "subject": "英語",
-      "unit": "目的格の補語となる分詞②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xK_YscyHrp8",
-      "durationLabel": "8:12"
+      "unit": "「分詞構文」とは？①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=l6AtBkiyLX4",
+      "durationLabel": "12:22"
     },
     {
-      "id": "11t1mQdNZh8",
-      "title": "【高校 英語】 目的格の補語となる分詞① （11分）",
+      "id": "Q8ALCz6yiM0",
+      "title": "【高校 英語】 「分詞構文」とは？② （8分）",
       "subject": "英語",
-      "unit": "目的格の補語となる分詞①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=11t1mQdNZh8",
-      "durationLabel": "10:36"
+      "unit": "「分詞構文」とは？②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q8ALCz6yiM0",
+      "durationLabel": "7:52"
     }
   ]
 }
