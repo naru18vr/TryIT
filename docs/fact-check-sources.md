@@ -468,3 +468,12 @@ British Councilのアルファベット資料で、アルファベットの文�
 [165]: https://www.try-it.jp/chapters-3558/lessons-3611/ "Try IT公式：ifの中の時制"
 [166]: https://kou.benesse.co.jp/nigate/english/a13e2201.html "進研ゼミ高校講座：名詞節と副詞節中の時制の違い"
 [167]: https://www.taishukan.co.jp/gcdroom/gcd_tsuushin/pdf63/p18-19.pdf "大修館書店：新学習指導要領の見取り図"
+
+
+## 高校英語文法「助動詞」「受動態の分詞構文」確認記録（2026-08-15）
+
+- Try IT公式「助動詞」一覧: https://www.try-it.jp/chapters-3664/ 。助動詞の過去形（would/could/might）、助動詞＋have＋過去分詞、助動詞を含む慣用表現などの学習項目を確認した。
+- Try IT公式「助動詞の過去形(would/could/might)」: https://www.try-it.jp/chapters-3664/lessons-3677/ 。will/can/mayの過去形、過去の内容、丁寧な依頼、mightの弱い推量を確認した。
+- Try IT公式「助動詞(must/cannot/may)＋have 過去分詞」: https://www.try-it.jp/chapters-3664/lessons-3693/ 。助動詞＋have＋過去分詞が「過去についての現在の気持ち」を表し、must have・cannot have・may haveを使い分けることを確認した。
+- Try IT公式「分詞構文」とは？: https://www.try-it.jp/chapters-3807/lessons-3824/ 。接続詞＋主語を省略し、分詞～, 主語＋動詞の形で理由・時・条件などを補って読む基本を確認した。
+- Try IT公式「受身ではじまる分詞構文」: https://www.try-it.jp/chapters-3807/lessons-3828/ 。過去分詞～, 主語＋動詞の形が受動の意味を表し、Seen from～やWritten in～のように主節の主語との受動関係を確認して読むことを確認した。
