@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "等位接続詞の重要表現",
+  "titleContains": "both",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "Qj3g_cQuI9g",
-      "title": "【高校 英語】 等位接続詞の重要表現① （7分）",
+      "id": "lxRzeKGK0co",
+      "title": "【高校 英語】 both/either/neither/none① （6分）",
       "subject": "英語",
-      "unit": "等位接続詞の重要表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Qj3g_cQuI9g",
-      "durationLabel": "7:24"
+      "unit": "both/either/neither/none①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lxRzeKGK0co",
+      "durationLabel": "5:40"
     },
     {
-      "id": "Vu3TRuAWDr4",
-      "title": "【高校 英語】 等位接続詞の重要表現② （7分）",
+      "id": "CAmKejGiNmk",
+      "title": "【高校 英語】 both/either/neither/none② （5分）",
       "subject": "英語",
-      "unit": "等位接続詞の重要表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Vu3TRuAWDr4",
-      "durationLabel": "6:53"
+      "unit": "both/either/neither/none②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CAmKejGiNmk",
+      "durationLabel": "5:16"
     }
   ]
 }
