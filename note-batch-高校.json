@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "動名詞の慣用表現",
+  "titleContains": "It is no use",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "U63xtJVMk7A",
-      "title": "【高校 英語】 動名詞の慣用表現① （7分）",
+      "id": "xEWVH4rEa4U",
+      "title": "【高校 英語】 It is no use Vingなど① （3分）",
       "subject": "英語",
-      "unit": "動名詞の慣用表現①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=U63xtJVMk7A",
-      "durationLabel": "7:31"
+      "unit": "It is no use Vingなど①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xEWVH4rEa4U",
+      "durationLabel": "3:28"
     },
     {
-      "id": "LotQsVyxmfU",
-      "title": "【高校 英語】 動名詞の慣用表現② （7分）",
+      "id": "5k7hFT72JKA",
+      "title": "【高校 英語】 It is no use Vingなど② （6分）",
       "subject": "英語",
-      "unit": "動名詞の慣用表現②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LotQsVyxmfU",
-      "durationLabel": "7:03"
+      "unit": "It is no use Vingなど②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5k7hFT72JKA",
+      "durationLabel": "5:59"
     }
   ]
 }
