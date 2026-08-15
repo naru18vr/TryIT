@@ -1,49 +1,9 @@
 {
   "grade": "高校",
-  "titleContains": "関係代名詞",
-  "selectedUnit": "関係代名詞",
-  "count": 8,
+  "titleContains": "関係代名詞２ 所有格",
+  "selectedUnit": "混合単元",
+  "count": 2,
   "items": [
-    {
-      "id": "wIScHyIayzQ",
-      "title": "【高校 英語】 関係代名詞３ 目的格① （10分）",
-      "subject": "英語",
-      "unit": "関係代名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wIScHyIayzQ",
-      "durationLabel": "9:36"
-    },
-    {
-      "id": "GySALRCHwEo",
-      "title": "【高校英語 構文】 関係代名詞（目的格）の省略２（１６分）",
-      "subject": "英語",
-      "unit": "関係代名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=GySALRCHwEo",
-      "durationLabel": "16:15"
-    },
-    {
-      "id": "NQ3AZT2L66w",
-      "title": "【高校英語 構文】 関係代名詞（目的格）の省略１（１５分）",
-      "subject": "英語",
-      "unit": "関係代名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=NQ3AZT2L66w",
-      "durationLabel": "14:34"
-    },
-    {
-      "id": "5gNZkNjJbvk",
-      "title": "【高校 英語】 関係代名詞１ 主格① （10分）",
-      "subject": "英語",
-      "unit": "関係代名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=5gNZkNjJbvk",
-      "durationLabel": "10:27"
-    },
-    {
-      "id": "bCjx8ck1v3s",
-      "title": "【高校 英語】 関係代名詞１ 主格② （9分）",
-      "subject": "英語",
-      "unit": "関係代名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=bCjx8ck1v3s",
-      "durationLabel": "8:36"
-    },
     {
       "id": "JDO5Suw3D8w",
       "title": "【高校 英語】 関係代名詞２ 所有格① （6分）",
@@ -51,14 +11,6 @@
       "unit": "関係代名詞",
       "youtubeUrl": "https://www.youtube.com/watch?v=JDO5Suw3D8w",
       "durationLabel": "6:09"
-    },
-    {
-      "id": "jVCUaTe9kmo",
-      "title": "【高校 英語】 関係代名詞３ 目的格② （8分）",
-      "subject": "英語",
-      "unit": "関係代名詞",
-      "youtubeUrl": "https://www.youtube.com/watch?v=jVCUaTe9kmo",
-      "durationLabel": "8:26"
     },
     {
       "id": "dSDSIw4XKo4",
