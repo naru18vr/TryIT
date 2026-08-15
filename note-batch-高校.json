@@ -1,24 +1,24 @@
 {
   "grade": "高校",
-  "titleContains": "命令文＋and/or",
+  "titleContains": "等位接続詞の重要表現",
   "selectedUnit": "混合単元",
   "count": 2,
   "items": [
     {
-      "id": "garK3Q_rPyk",
-      "title": "【高校 英語】 命令文＋and/or② （7分）",
+      "id": "Qj3g_cQuI9g",
+      "title": "【高校 英語】 等位接続詞の重要表現① （7分）",
       "subject": "英語",
-      "unit": "命令文＋and/or②",
-      "youtubeUrl": "https://www.youtube.com/watch?v=garK3Q_rPyk",
-      "durationLabel": "7:17"
+      "unit": "等位接続詞の重要表現①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Qj3g_cQuI9g",
+      "durationLabel": "7:24"
     },
     {
-      "id": "46RzE4b4qFQ",
-      "title": "【高校 英語】 命令文＋and/or① （5分）",
+      "id": "Vu3TRuAWDr4",
+      "title": "【高校 英語】 等位接続詞の重要表現② （7分）",
       "subject": "英語",
-      "unit": "命令文＋and/or①",
-      "youtubeUrl": "https://www.youtube.com/watch?v=46RzE4b4qFQ",
-      "durationLabel": "5:23"
+      "unit": "等位接続詞の重要表現②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vu3TRuAWDr4",
+      "durationLabel": "6:53"
     }
   ]
 }
