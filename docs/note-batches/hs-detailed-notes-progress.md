@@ -49,7 +49,7 @@
 | 高校英語文法 | 動詞（自動詞と他動詞・他動詞と間違えやすい自動詞・自動詞と間違えやすい他動詞・lieとlay / riseとraise・pay / sell / read / last・stand / miss / have・tell / say / speak / talk・borrow / lend / rent / use・forgive / permit / allow・doubt / suspect・suit / match / go with / fit・使役動詞 make / have / let・知覚動詞 see / hear など・rob A of B / remind A of B・prevent A from doing / distinguish A from B・regard A as B / talk A into doing・blame A for B / provide A with B） | 34 / 完了 | 公式17トピック・正規動画34本について、詳細ノート・要約・復習観点の全件監査を完了 |
 | 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報、代表的な数えられない名詞、数えられない名詞の数え方、所有格とB of A、複数形の名詞を使う表現、料金・お金を表す名詞、客を表す名詞、仕事を表す名詞、交通・通信手段を表す名詞、分数表現） | 20 / 完了候補 | 公式10トピック・正規動画20本を詳しいノート追加・検証済み。次は全件監査 |
 | 高校英語文法 | 代名詞（全15公式トピック） | 31 / 完了・全件監査済み | 正規動画31本を詳しいノート追加・監査済み |
-| 高校英語文法 | 前置詞（at/on/inの違い1（場所）） | 2 / 継続中 | 最初の公式トピック・正規動画2本を詳しいノート追加・検証済み |
+| 高校英語文法 | 前置詞（at/on/inの違い1（場所）、at/on/inの違い2（時間）） | 4 / 継続中 | 最初の公式2トピック・正規動画4本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -86,6 +86,8 @@
 高校英語文法「代名詞」単元は、Try IT公式15トピックに対応する正規動画31本をカタログとDBへ再突合し、詳細ノート、要約、復習観点が全31本に揃うことを全件監査で確認した。監査結果は対象15トピック・カタログ31本・登録31本・確認済み31本・カタログ未検出0本・未登録0本・未完了0本である。再利用可能な代名詞単元監査スクリプトは `scripts/audit-hs-pronouns-note-coverage.mjs`、JSON出力は `/tmp/hs-pronouns-note-coverage-audit.json` に保存した。
 
 高校英語文法「at/on/inの違い1（場所）」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4295/lessons-4296/ 、https://www.try-it.jp/chapters-4295/lessons-4296/practice-2/ 、https://www.try-it.jp/chapters-4295/lessons-4296/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。場所の一点を表すat、接触を表すon、空間の内部を表すin、`at the center of ～`、`stop at 駅名`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `h9eXaelN4YA`（at/on/in の違い（場所編）①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-prepositions-at-on-in-place-source-note.md` に記録した。
+
+高校英語文法「at/on/inの違い2（時間）」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4295/lessons-4300/ 、https://www.try-it.jp/chapters-4295/lessons-4300/practice-2/ 、https://www.try-it.jp/chapters-4295/lessons-4300/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。時刻に使うat、曜日・日付に使うon、月・季節・年など長期の単位に使うin、`on Sunday morning`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `lvUatT0WFXc`（at/on/in の違い（時間編）①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-prepositions-at-on-in-time-source-note.md` に記録した。
 
 高校英語文法「名詞・冠詞」単元は、公式10トピック・正規動画20本を、`scripts/audit-hs-nouns-articles-note-coverage.mjs` でカタログとDBに突合して全件監査した。`catalogCount=20`、`registeredCount=20`、`verifiedCount=20`、不足ノート0本、不完全ノート0本であることを確認した。監査条件は各動画の要約が空でないことと、覚えるポイントに「復習では」の復習観点があることとした。監査結果は `/tmp/hs-nouns-articles-note-coverage-audit.json` に保存した。
 
