@@ -47,8 +47,11 @@
 | 高校英語文法 | 関係詞（全17トピック） | 34 / 完了 | 主格・所有格・目的格・that・前置詞＋関係代名詞・関係副詞・カンマ付き用法・what・as／but／than・複合関係詞・no matterの全17トピック、正規動画34本を詳しいノート追加・検証済み |
 | 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until・timeを用いた表現・because/since・though/whether・even if/even though・if/unless/once・so that/in order that/in case・so…that/such…that・接続詞as・as long as/as far as・名詞節を導くthat・同格のthat・前置詞＋that・名詞節を導くwhetherとifの違い） | 38 / 完了 | 接続詞の全19トピック・正規動画38本を詳しいノート追加・最終監査済み |
 | 高校英語文法 | 動詞（自動詞と他動詞・他動詞と間違えやすい自動詞・自動詞と間違えやすい他動詞・lieとlay / riseとraise・pay / sell / read / last・stand / miss / have・tell / say / speak / talk・borrow / lend / rent / use・forgive / permit / allow・doubt / suspect・suit / match / go with / fit・使役動詞 make / have / let・知覚動詞 see / hear など・rob A of B / remind A of B・prevent A from doing / distinguish A from B・regard A as B / talk A into doing・blame A for B / provide A with B） | 34 / 完了 | 公式17トピック・正規動画34本について、詳細ノート・要約・復習観点の全件監査を完了 |
+| 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報） | 2 / 継続中 | 最初の正規動画2本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
+
+高校英語文法「数えられない名詞（液体/お金/情報）」2本は、Try IT公式の単元一覧、ポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4193/ 、https://www.try-it.jp/chapters-4193/lessons-4194/ 、https://www.try-it.jp/chapters-4193/lessons-4194/practice-2/ 、https://www.try-it.jp/chapters-4193/lessons-4194/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。液体・お金・情報が数えられない名詞であり、a/anや複数形のsを付けず単数扱いすること、much/little/some/a lot ofで量を表すこと、information・advice・newsの扱いを扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `Ap6HxyM_WQI`（数えられない名詞①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-uncountable-liquid-money-information-source-note.md` に記録した。
 
 高校英語文法「動詞」単元は、Try IT公式一覧の17トピックに対応する正規動画34本を静的カタログから再抽出し、詳細ノートの登録、要約の存在、覚えるポイント内の復習観点を全件監査した。`audit-hs-verbs-note-coverage.mjs` により、対象トピック数17、カタログ動画数34、登録済み34、要約と「復習では」を含む確認済み34、未登録0、未完了0を確認した。pay / sell / read / lastが1本、tell / say / speak / talkが3本、その他15トピックが各2本というカタログ上の本数も含めて、公式構成と一致する。各バッチの公式根拠、視聴ページ表示、Vitest 24件成功は個別記録済みであり、動詞単元は完了とする。
 
