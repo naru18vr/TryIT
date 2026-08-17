@@ -14,9 +14,24 @@ import { vitePluginManusRuntime } from "vite-plugin-manus-runtime";
 const PROJECT_ROOT = import.meta.dirname;
 const LOG_DIR = path.join(PROJECT_ROOT, ".manus-logs");
 const MAX_LOG_SIZE_BYTES = 1 * 1024 * 1024; // 1MB per log file
+const MAX_DEBUG_REQUEST_BYTES = 1 * 1024 * 1024;
 const TRIM_TARGET_BYTES = Math.floor(MAX_LOG_SIZE_BYTES * 0.6); // Trim to 60% to avoid constant re-trimming
 
 type LogSource = "browserConsole" | "networkRequests" | "sessionReplay";
+type DebugPayload = {
+  consoleLogs?: unknown[];
+  networkRequests?: unknown[];
+  sessionEvents?: unknown[];
+};
+
+function isDebugPayload(value: unknown): value is DebugPayload {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return false;
+
+  const payload = value as Record<string, unknown>;
+  return ["consoleLogs", "networkRequests", "sessionEvents"].every(
+    key => payload[key] === undefined || Array.isArray(payload[key])
+  );
+}
 
 function ensureLogDir() {
   if (!fs.existsSync(LOG_DIR)) {
@@ -56,7 +71,7 @@ function writeToLogFile(source: LogSource, entries: unknown[]) {
   const logPath = path.join(LOG_DIR, `${source}.log`);
 
   // Format entries with timestamps
-  const lines = entries.map((entry) => {
+  const lines = entries.map(entry => {
     const ts = new Date().toISOString();
     return `[${ts}] ${JSON.stringify(entry)}`;
   });
@@ -104,15 +119,19 @@ function vitePluginManusDebugCollector(): Plugin {
           return next();
         }
 
-        const handlePayload = (payload: any) => {
+        const handlePayload = (payload: unknown) => {
+          if (!isDebugPayload(payload)) {
+            throw new Error("Debug payload must be an object");
+          }
+
           // Write logs directly to files
-          if (payload.consoleLogs?.length > 0) {
+          if (payload.consoleLogs && payload.consoleLogs.length > 0) {
             writeToLogFile("browserConsole", payload.consoleLogs);
           }
-          if (payload.networkRequests?.length > 0) {
+          if (payload.networkRequests && payload.networkRequests.length > 0) {
             writeToLogFile("networkRequests", payload.networkRequests);
           }
-          if (payload.sessionEvents?.length > 0) {
+          if (payload.sessionEvents && payload.sessionEvents.length > 0) {
             writeToLogFile("sessionReplay", payload.sessionEvents);
           }
 
@@ -132,13 +151,32 @@ function vitePluginManusDebugCollector(): Plugin {
         }
 
         let body = "";
-        req.on("data", (chunk) => {
+        let bodyBytes = 0;
+        let requestTooLarge = false;
+        req.on("data", chunk => {
+          if (requestTooLarge) return;
+
+          bodyBytes += Buffer.byteLength(chunk);
+          if (bodyBytes > MAX_DEBUG_REQUEST_BYTES) {
+            requestTooLarge = true;
+            res.writeHead(413, { "Content-Type": "application/json" });
+            res.end(
+              JSON.stringify({
+                success: false,
+                error: "Debug payload is too large",
+              })
+            );
+            return;
+          }
+
           body += chunk.toString();
         });
 
         req.on("end", () => {
+          if (requestTooLarge) return;
+
           try {
-            const payload = JSON.parse(body);
+            const payload: unknown = JSON.parse(body);
             handlePayload(payload);
           } catch (e) {
             res.writeHead(400, { "Content-Type": "application/json" });
@@ -150,7 +188,13 @@ function vitePluginManusDebugCollector(): Plugin {
   };
 }
 
-const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime(), vitePluginManusDebugCollector()];
+const plugins = [
+  react(),
+  tailwindcss(),
+  jsxLocPlugin(),
+  vitePluginManusRuntime(),
+  vitePluginManusDebugCollector(),
+];
 
 export default defineConfig({
   plugins,
