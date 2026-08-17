@@ -47,9 +47,11 @@
 | 高校英語文法 | 関係詞（全17トピック） | 34 / 完了 | 主格・所有格・目的格・that・前置詞＋関係代名詞・関係副詞・カンマ付き用法・what・as／but／than・複合関係詞・no matterの全17トピック、正規動画34本を詳しいノート追加・検証済み |
 | 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until・timeを用いた表現・because/since・though/whether・even if/even though・if/unless/once・so that/in order that/in case・so…that/such…that・接続詞as・as long as/as far as・名詞節を導くthat・同格のthat・前置詞＋that・名詞節を導くwhetherとifの違い） | 38 / 完了 | 接続詞の全19トピック・正規動画38本を詳しいノート追加・最終監査済み |
 | 高校英語文法 | 動詞（自動詞と他動詞・他動詞と間違えやすい自動詞・自動詞と間違えやすい他動詞・lieとlay / riseとraise・pay / sell / read / last・stand / miss / have・tell / say / speak / talk・borrow / lend / rent / use・forgive / permit / allow・doubt / suspect・suit / match / go with / fit・使役動詞 make / have / let・知覚動詞 see / hear など・rob A of B / remind A of B・prevent A from doing / distinguish A from B・regard A as B / talk A into doing・blame A for B / provide A with B） | 34 / 完了 | 公式17トピック・正規動画34本について、詳細ノート・要約・復習観点の全件監査を完了 |
-| 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報、代表的な数えられない名詞、数えられない名詞の数え方、所有格とB of A、複数形の名詞を使う表現、料金・お金を表す名詞、客を表す名詞） | 14 / 継続中 | 最初の正規動画14本を詳しいノート追加・検証済み |
+| 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報、代表的な数えられない名詞、数えられない名詞の数え方、所有格とB of A、複数形の名詞を使う表現、料金・お金を表す名詞、客を表す名詞、仕事を表す名詞） | 16 / 継続中 | 最初の正規動画16本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
+
+高校英語文法「仕事を表す名詞」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4193/lessons-4222/ 、https://www.try-it.jp/chapters-4193/lessons-4222/practice-2/ 、https://www.try-it.jp/chapters-4193/lessons-4222/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。work（一般的な仕事・不可算）、job（具体的な仕事・可算）、much work、a lot of work、a high-paying job、do a good job、businessとNone of your business.を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `wIf9bUXdTLY`（仕事を表す名詞①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-work-nouns-source-note.md` に記録した。
 
 高校英語文法「客を表す名詞」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4193/lessons-4218/ 、https://www.try-it.jp/chapters-4193/lessons-4218/practice-2/ 、https://www.try-it.jp/chapters-4193/lessons-4218/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。guest（招待客・ホテルの宿泊客）、audience（コンサートなどの観客・聴衆）、passenger（乗客）、client（依頼人）、visitor（訪問客）、spectator（スポーツなどの観客）、customer（店の客）を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `eoq1DNy3jz4`（客を表す名詞①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-customer-nouns-source-note.md` に記録した。
 
