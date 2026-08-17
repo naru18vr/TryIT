@@ -48,7 +48,7 @@
 | 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until・timeを用いた表現・because/since・though/whether・even if/even though・if/unless/once・so that/in order that/in case・so…that/such…that・接続詞as・as long as/as far as・名詞節を導くthat・同格のthat・前置詞＋that・名詞節を導くwhetherとifの違い） | 38 / 完了 | 接続詞の全19トピック・正規動画38本を詳しいノート追加・最終監査済み |
 | 高校英語文法 | 動詞（自動詞と他動詞・他動詞と間違えやすい自動詞・自動詞と間違えやすい他動詞・lieとlay / riseとraise・pay / sell / read / last・stand / miss / have・tell / say / speak / talk・borrow / lend / rent / use・forgive / permit / allow・doubt / suspect・suit / match / go with / fit・使役動詞 make / have / let・知覚動詞 see / hear など・rob A of B / remind A of B・prevent A from doing / distinguish A from B・regard A as B / talk A into doing・blame A for B / provide A with B） | 34 / 完了 | 公式17トピック・正規動画34本について、詳細ノート・要約・復習観点の全件監査を完了 |
 | 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報、代表的な数えられない名詞、数えられない名詞の数え方、所有格とB of A、複数形の名詞を使う表現、料金・お金を表す名詞、客を表す名詞、仕事を表す名詞、交通・通信手段を表す名詞、分数表現） | 20 / 完了候補 | 公式10トピック・正規動画20本を詳しいノート追加・検証済み。次は全件監査 |
-| 高校英語文法 | 代名詞（「代名詞」とは？、訳に注意したい代名詞、「It is 時間」の慣用表現、仮主語のit、仮主語itの慣用表現、It seems that / It happens thatなどの構文、仮目的語のit、that／thoseの使い方、one／onesの使い方、another／other／othersの使い方、both／either／neither／noneの使い方、each／everyの使い方） | 25 / 継続中 | 最初の公式12トピック・正規動画25本を詳しいノート追加・検証済み |
+| 高校英語文法 | 代名詞（「代名詞」とは？、訳に注意したい代名詞、「It is 時間」の慣用表現、仮主語のit、仮主語itの慣用表現、It seems that / It happens thatなどの構文、仮目的語のit、that／thoseの使い方、one／onesの使い方、another／other／othersの使い方、both／either／neither／noneの使い方、each／everyの使い方、some／anyの使い方） | 27 / 継続中 | 最初の公式13トピック・正規動画27本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -75,6 +75,8 @@
 高校英語文法「both／either／neither／noneの使い方」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4234/lessons-4275/ 、https://www.try-it.jp/chapters-4234/lessons-4275/practice-2/ 、https://www.try-it.jp/chapters-4234/lessons-4275/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。二つを対象にするboth／either／neither、三つ以上を対象にするnone、`Either of ～`、`Neither of ～`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `lxRzeKGK0co`（both/either/neither/none①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-both-either-neither-none-source-note.md` に記録した。
 
 高校英語文法「each／everyの使い方」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4234/lessons-4279/ 、https://www.try-it.jp/chapters-4234/lessons-4279/practice-2/ 、https://www.try-it.jp/chapters-4234/lessons-4279/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。`each of ～`、everyの後ろの単数名詞、`every 数詞 複数形`による期間表現を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `ZlHtlC7fgBM`（each / every の使い方①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-each-every-source-note.md` に記録した。
+
+高校英語文法「some／anyの使い方」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4234/lessons-4283/ 、https://www.try-it.jp/chapters-4234/lessons-4283/practice-2/ 、https://www.try-it.jp/chapters-4234/lessons-4283/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。肯定文のsome、否定文・疑問文のany、`not any`、条件節でのanyと主節でのsomeの使い分けを扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `g3gOCuosLmA`（some / any の使い方①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-some-any-source-note.md` に記録した。
 
 高校英語文法「名詞・冠詞」単元は、公式10トピック・正規動画20本を、`scripts/audit-hs-nouns-articles-note-coverage.mjs` でカタログとDBに突合して全件監査した。`catalogCount=20`、`registeredCount=20`、`verifiedCount=20`、不足ノート0本、不完全ノート0本であることを確認した。監査条件は各動画の要約が空でないことと、覚えるポイントに「復習では」の復習観点があることとした。監査結果は `/tmp/hs-nouns-articles-note-coverage-audit.json` に保存した。
 
