@@ -49,7 +49,7 @@
 | 高校英語文法 | 動詞（自動詞と他動詞・他動詞と間違えやすい自動詞・自動詞と間違えやすい他動詞・lieとlay / riseとraise・pay / sell / read / last・stand / miss / have・tell / say / speak / talk・borrow / lend / rent / use・forgive / permit / allow・doubt / suspect・suit / match / go with / fit・使役動詞 make / have / let・知覚動詞 see / hear など・rob A of B / remind A of B・prevent A from doing / distinguish A from B・regard A as B / talk A into doing・blame A for B / provide A with B） | 34 / 完了 | 公式17トピック・正規動画34本について、詳細ノート・要約・復習観点の全件監査を完了 |
 | 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報、代表的な数えられない名詞、数えられない名詞の数え方、所有格とB of A、複数形の名詞を使う表現、料金・お金を表す名詞、客を表す名詞、仕事を表す名詞、交通・通信手段を表す名詞、分数表現） | 20 / 完了候補 | 公式10トピック・正規動画20本を詳しいノート追加・検証済み。次は全件監査 |
 | 高校英語文法 | 代名詞（全15公式トピック） | 31 / 完了・全件監査済み | 正規動画31本を詳しいノート追加・監査済み |
-| 高校英語文法 | 前置詞（at/on/inの違い1（場所）、at/on/inの違い2（時間）、at/on/inの違い3（応用）） | 6 / 継続中 | 最初の公式3トピック・正規動画6本を詳しいノート追加・検証済み |
+| 高校英語文法 | 前置詞（at/on/inの違い1（場所）、at/on/inの違い2（時間）、at/on/inの違い3（応用）、in/ofの違い） | 8 / 継続中 | 最初の公式4トピック・正規動画8本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -90,6 +90,8 @@
 高校英語文法「at/on/inの違い2（時間）」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4295/lessons-4300/ 、https://www.try-it.jp/chapters-4295/lessons-4300/practice-2/ 、https://www.try-it.jp/chapters-4295/lessons-4300/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。時刻に使うat、曜日・日付に使うon、月・季節・年など長期の単位に使うin、`on Sunday morning`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `lvUatT0WFXc`（at/on/in の違い（時間編）①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-prepositions-at-on-in-time-source-note.md` に記録した。
 
 高校英語文法「at/on/inの違い3（応用）」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4295/lessons-4304/ 、https://www.try-it.jp/chapters-4295/lessons-4304/practice-2/ 、https://www.try-it.jp/chapters-4295/lessons-4304/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。`be surprised at A`、`be imposed on A`、`be interested in A`、`throw A at B`、`in a week`、`on the job`、`in danger`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `YY9ScBnpn7c`（at/on/in の違い（応用編）①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-prepositions-at-on-in-applied-source-note.md` に記録した。
+
+高校英語文法「in/ofの違い」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4295/lessons-4308/ 、https://www.try-it.jp/chapters-4295/lessons-4308/practice-2/ 、https://www.try-it.jp/chapters-4295/lessons-4308/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。最上級の後ろで使う集団を表す単数名詞のin、同種の複数名詞のof、`a member of ～`、`A in B`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `fMJjtMZdASA`（in / of の違い①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-prepositions-in-of-source-note.md` に記録した。
 
 高校英語文法「名詞・冠詞」単元は、公式10トピック・正規動画20本を、`scripts/audit-hs-nouns-articles-note-coverage.mjs` でカタログとDBに突合して全件監査した。`catalogCount=20`、`registeredCount=20`、`verifiedCount=20`、不足ノート0本、不完全ノート0本であることを確認した。監査条件は各動画の要約が空でないことと、覚えるポイントに「復習では」の復習観点があることとした。監査結果は `/tmp/hs-nouns-articles-note-coverage-audit.json` に保存した。
 
