@@ -1,0 +1,24 @@
+{
+  "grade": "高校",
+  "titleContains": "both",
+  "selectedUnit": "混合単元",
+  "count": 2,
+  "items": [
+    {
+      "id": "lxRzeKGK0co",
+      "title": "【高校 英語】 both/either/neither/none① （6分）",
+      "subject": "英語",
+      "unit": "both/either/neither/none①",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lxRzeKGK0co",
+      "durationLabel": "5:40"
+    },
+    {
+      "id": "CAmKejGiNmk",
+      "title": "【高校 英語】 both/either/neither/none② （5分）",
+      "subject": "英語",
+      "unit": "both/either/neither/none②",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CAmKejGiNmk",
+      "durationLabel": "5:16"
+    }
+  ]
+}

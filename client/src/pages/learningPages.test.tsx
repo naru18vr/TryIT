@@ -1,0 +1,147 @@
+import { cleanup, fireEvent, render, screen } from "@testing-library/react";
+import React from "react";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
+
+const state = vi.hoisted(() => ({
+  auth: {
+    user: { id: 1, name: "テスト太郎", role: "user" as "user" | "admin" } as { id: number; name: string; role: "user" | "admin" } | null,
+    loading: false,
+    isAuthenticated: true,
+    logout: vi.fn(),
+  },
+  filters: { grades: ["中学3年", "高校"], subjects: ["数学", "英語", "世界史"], units: ["二次関数", "昭和時代"], totalVideos: 2 },
+  catalog: {
+    total: 1,
+    page: 1,
+    pageSize: 12,
+    totalPages: 1,
+    items: [{ id: "video-1", youtubeUrl: "https://www.youtube.com/watch?v=video-1", title: "二次関数の基礎", grade: "高校", subject: "数学", unit: "二次関数", thumbnailUrl: "https://i.ytimg.com/vi/video-1/hqdefault.jpg", durationSeconds: 600, durationLabel: "10:00", isWatched: true }],
+  },
+  video: {
+    video: { id: "video-1", youtubeUrl: "https://www.youtube.com/watch?v=video-1", title: "二次関数の基礎", grade: "高校", subject: "数学", unit: "二次関数", thumbnailUrl: "https://i.ytimg.com/vi/video-1/hqdefault.jpg", durationSeconds: 600, durationLabel: "10:00" },
+    note: null as { summary: string; keyPoints: string } | null,
+    isWatched: false,
+  },
+  progress: { watchedCount: 3, totalVideos: 10, progressPercentage: 30, history: [] as Array<unknown> },
+  progressError: false,
+  refetchProgress: vi.fn(),
+  catalogInput: null as { grade?: string; subject?: string; unit?: string } | null,
+  markWatched: vi.fn(),
+  startLogin: vi.fn(),
+}));
+
+vi.mock("@/_core/hooks/useAuth", () => ({ useAuth: () => state.auth }));
+vi.mock("@/const", () => ({ startLogin: state.startLogin }));
+vi.mock("@/components/YouTubePlayer", () => ({ YouTubePlayer: ({ onPlaybackStarted }: { onPlaybackStarted: () => void }) => <button onClick={onPlaybackStarted}>再生テスト</button> }));
+vi.mock("@/lib/trpc", () => ({
+  trpc: {
+    useUtils: () => ({ catalog: { get: { invalidate: vi.fn() }, list: { invalidate: vi.fn() } }, learning: { myProgress: { invalidate: vi.fn() } } }),
+    catalog: {
+      filters: { useQuery: () => ({ data: state.filters }) },
+      list: { useQuery: (input: { grade?: string; subject?: string; unit?: string }) => { state.catalogInput = input; return { data: state.catalog, isLoading: false }; } },
+      get: { useQuery: () => ({ data: state.video, isLoading: false }) },
+      markWatched: { useMutation: () => ({ mutate: state.markWatched, isPending: false }) },
+    },
+    notes: { coverage: { useQuery: () => ({ data: { completed: 1, total: 2, percentage: 50 } }) }, upsert: { useMutation: () => ({ mutate: vi.fn(), isPending: false }) } },
+    learning: { myProgress: { useQuery: () => ({ data: state.progress, isLoading: false, isError: state.progressError, refetch: state.refetchProgress }) } },
+  },
+}));
+vi.mock("wouter", () => ({ Link: ({ href, children, ...props }: { href: string; children: React.ReactNode }) => <a href={href} {...props}>{children}</a>, useRoute: () => [true, { videoId: "video-1" }] }));
+
+import Home from "./Home";
+import MyLearning from "./MyLearning";
+import WatchVideo from "./WatchVideo";
+
+afterEach(cleanup);
+
+describe("learning page rendering", () => {
+  beforeEach(() => {
+    state.auth = { user: { id: 1, name: "テスト太郎", role: "user" }, loading: false, isAuthenticated: true, logout: vi.fn() };
+    state.catalog.items[0]!.isWatched = true;
+    state.progress = { watchedCount: 3, totalVideos: 10, progressPercentage: 30, history: [] };
+    state.progressError = false;
+    state.video.note = null;
+    state.refetchProgress.mockReset();
+    state.catalogInput = null;
+    state.markWatched.mockReset();
+    state.startLogin.mockReset();
+  });
+
+  it("renders a watched badge and applies a selected grade-and-subject shortcut to the catalog query", () => {
+    render(<Home />);
+    expect(screen.getByText("視聴済み")).toBeTruthy();
+    fireEvent.click(screen.getByRole("button", { name: "高校・数学" }));
+    expect(state.catalogInput).toMatchObject({ grade: "高校", subject: "数学" });
+  });
+
+  it("applies a grade selected in the filter to the catalog query", () => {
+    render(<Home />);
+
+    fireEvent.change(screen.getByLabelText("学年を選ぶ"), { target: { value: "高校" } });
+
+    expect(state.catalogInput).toMatchObject({ grade: "高校" });
+  });
+
+  it("updates the catalog query through grade, subject, and unit selections", () => {
+    const consoleError = vi.spyOn(console, "error").mockImplementation(() => undefined);
+
+    render(<Home />);
+
+    fireEvent.change(screen.getByLabelText("学年を選ぶ"), { target: { value: "高校" } });
+    fireEvent.change(screen.getByLabelText("教科を選ぶ"), { target: { value: "数学" } });
+    fireEvent.change(screen.getByLabelText("単元を選ぶ"), { target: { value: "二次関数" } });
+
+    expect(state.catalogInput).toMatchObject({
+      grade: "高校",
+      subject: "数学",
+      unit: "二次関数",
+    });
+    expect(consoleError).not.toHaveBeenCalled();
+    consoleError.mockRestore();
+  });
+
+  it("renders watched count and percentage on the authenticated learning page", () => {
+    render(<MyLearning />);
+    expect(screen.getByText("30%")).toBeTruthy();
+    expect(screen.getByText("3")).toBeTruthy();
+    expect(screen.getByText("全 10 本中")).toBeTruthy();
+  });
+
+  it("renders the sign-in prompt when the learning page has no authenticated user", () => {
+    state.auth = { user: null, loading: false, isAuthenticated: false, logout: vi.fn() };
+    render(<MyLearning />);
+    expect(screen.getByText("ログインする")).toBeTruthy();
+    fireEvent.click(screen.getByText("ログインする"));
+    expect(state.startLogin).toHaveBeenCalledTimes(1);
+  });
+
+  it("renders a retry state rather than an endless loading indicator when progress retrieval fails", () => {
+    state.progressError = true;
+    render(<MyLearning />);
+    expect(screen.getByText("進捗を読み込めませんでした。")).toBeTruthy();
+    fireEvent.click(screen.getByText("再読み込みする"));
+    expect(state.refetchProgress).toHaveBeenCalledTimes(1);
+  });
+
+  it("records a video when the official player reports playback", () => {
+    render(<WatchVideo />);
+    fireEvent.click(screen.getByText("再生テスト"));
+    expect(state.markWatched).toHaveBeenCalledWith({ videoId: "video-1" });
+  });
+
+  it.each([
+    ["数学", "変化の割合は、yの増加量÷xの増加量で表します。", "・yの増加量とxの増加量の順をそろえる。\n・復習では、表から変化の割合を計算する。"],
+    ["理科", "細胞・組織・器官・個体は小さいまとまりから順に関係付けます。", "・細胞はからだをつくる基本的な単位。\n・復習では、細胞から個体までを順に説明する。"],
+    ["英語", "be going to は未来の予定や意図を表します。", "・be動詞の後に going to と動詞の原形を置く。\n・復習では、主語に合うbe動詞を選ぶ。"],
+  ])("%sのノート形式で要約と全ての覚えるポイントを表示する", (_subject, summary, keyPoints) => {
+    state.video.note = { summary, keyPoints };
+
+    render(<WatchVideo />);
+
+    expect(screen.getByText("予習・復習ノート")).toBeTruthy();
+    expect(screen.getByText(summary)).toBeTruthy();
+    for (const point of keyPoints.split("\n")) {
+      expect(screen.getByText(point)).toBeTruthy();
+    }
+  });
+});
