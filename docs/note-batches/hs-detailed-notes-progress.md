@@ -48,7 +48,7 @@
 | 高校英語文法 | 接続詞（等位接続詞and/or/but・命令文＋and/or・等位接続詞の重要表現・both A and Bなどでの動詞の形・whenとwhileの違い・before/after/since/until・timeを用いた表現・because/since・though/whether・even if/even though・if/unless/once・so that/in order that/in case・so…that/such…that・接続詞as・as long as/as far as・名詞節を導くthat・同格のthat・前置詞＋that・名詞節を導くwhetherとifの違い） | 38 / 完了 | 接続詞の全19トピック・正規動画38本を詳しいノート追加・最終監査済み |
 | 高校英語文法 | 動詞（自動詞と他動詞・他動詞と間違えやすい自動詞・自動詞と間違えやすい他動詞・lieとlay / riseとraise・pay / sell / read / last・stand / miss / have・tell / say / speak / talk・borrow / lend / rent / use・forgive / permit / allow・doubt / suspect・suit / match / go with / fit・使役動詞 make / have / let・知覚動詞 see / hear など・rob A of B / remind A of B・prevent A from doing / distinguish A from B・regard A as B / talk A into doing・blame A for B / provide A with B） | 34 / 完了 | 公式17トピック・正規動画34本について、詳細ノート・要約・復習観点の全件監査を完了 |
 | 高校英語文法 | 名詞・冠詞（数えられない名詞：液体・お金・情報、代表的な数えられない名詞、数えられない名詞の数え方、所有格とB of A、複数形の名詞を使う表現、料金・お金を表す名詞、客を表す名詞、仕事を表す名詞、交通・通信手段を表す名詞、分数表現） | 20 / 完了候補 | 公式10トピック・正規動画20本を詳しいノート追加・検証済み。次は全件監査 |
-| 高校英語文法 | 代名詞（「代名詞」とは？、訳に注意したい代名詞、「It is 時間」の慣用表現、仮主語のit、仮主語itの慣用表現） | 11 / 継続中 | 最初の公式5トピック・正規動画11本を詳しいノート追加・検証済み |
+| 高校英語文法 | 代名詞（「代名詞」とは？、訳に注意したい代名詞、「It is 時間」の慣用表現、仮主語のit、仮主語itの慣用表現、It seems that / It happens thatなどの構文） | 13 / 継続中 | 最初の公式6トピック・正規動画13本を詳しいノート追加・検証済み |
 
 ## 根拠と検証
 
@@ -61,6 +61,8 @@
 高校英語文法「仮主語のit（It is 形容詞 ～ のパターン）」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4234/lessons-4247/ 、https://www.try-it.jp/chapters-4234/lessons-4247/practice-2/ 、https://www.try-it.jp/chapters-4234/lessons-4247/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。`It is 形容詞 to V`、`It is 形容詞 that S V`、本当の主語がto Vまたはthat節になること、長い主語を後ろへ置く理由、`It is 性格・性質の形容詞 of 人 to V`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `ExqJVS83Xo4`（仮主語（形式主語）のit①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-dummy-subject-it-source-note.md` に記録した。
 
 高校英語文法「仮主語itの慣用表現（It costs 費用など）」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4234/lessons-4251/ 、https://www.try-it.jp/chapters-4234/lessons-4251/practice-2/ 、https://www.try-it.jp/chapters-4234/lessons-4251/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。`It costs 金額 to V`、`It takes 時間 to V`、cost・takeの過去形、`It makes no difference whether S V`、`It does not matter whether S V`、`How long does it take to V?`を扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `vpnMdbZ-J-U`（形式主語 it の慣用表現①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-dummy-it-idioms-source-note.md` に記録した。
+
+高校英語文法「It seems that / It happens thatなどの構文」2本は、Try IT公式のポイント・練習・チャレンジ（https://www.try-it.jp/chapters-4234/lessons-4255/ 、https://www.try-it.jp/chapters-4234/lessons-4255/practice-2/ 、https://www.try-it.jp/chapters-4234/lessons-4255/challenge-3/）、公式ページの公開埋め込み動画ID、正規動画タイトルを照合して登録した。`It seems that S V`、`It happens that S V`、seemsの三単現、happened、thatの省略、`It seems like ～`、文中で役割が異なるitを扱う2本すべてについて、要約、7項目以上の覚えるポイント、復習観点を含むことを登録後に確認した。表示確認として、動画ID `O311W4K7YTU`（It seems/happens that①）の視聴ページで、登録内容が予習・復習パネルに表示されることを確認した。登録件数は2本、各動画が扱う範囲に応じた必須観点と復習観点を含む件数は2本、Vitestは24件すべて成功した。根拠の要点は `hs-seems-happens-source-note.md` に記録した。
 
 高校英語文法「名詞・冠詞」単元は、公式10トピック・正規動画20本を、`scripts/audit-hs-nouns-articles-note-coverage.mjs` でカタログとDBに突合して全件監査した。`catalogCount=20`、`registeredCount=20`、`verifiedCount=20`、不足ノート0本、不完全ノート0本であることを確認した。監査条件は各動画の要約が空でないことと、覚えるポイントに「復習では」の復習観点があることとした。監査結果は `/tmp/hs-nouns-articles-note-coverage-audit.json` に保存した。
 
