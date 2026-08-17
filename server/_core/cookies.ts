@@ -1,48 +1,48 @@
 import type { CookieOptions, Request } from "express";
+import { OAUTH_STATE_COOKIE, OAUTH_STATE_COOKIE_LOCAL } from "@shared/const";
 
-const LOCAL_HOSTS = new Set(["localhost", "127.0.0.1", "::1"]);
-
-function isIpAddress(host: string) {
-  // Basic IPv4 check and IPv6 presence detection.
-  if (/^\d{1,3}(\.\d{1,3}){3}$/.test(host)) return true;
-  return host.includes(":");
-}
-
-function isSecureRequest(req: Request) {
+export function isSecureRequest(req: Pick<Request, "protocol" | "headers">) {
   if (req.protocol === "https") return true;
 
   const forwardedProto = req.headers["x-forwarded-proto"];
   if (!forwardedProto) return false;
 
-  const protoList = Array.isArray(forwardedProto)
-    ? forwardedProto
-    : forwardedProto.split(",");
+  const firstForwardedProto = Array.isArray(forwardedProto)
+    ? forwardedProto[0]
+    : forwardedProto.split(",")[0];
 
-  return protoList.some(proto => proto.trim().toLowerCase() === "https");
+  return firstForwardedProto?.trim().toLowerCase() === "https";
+}
+
+type CookieSecurityOptions = Pick<
+  CookieOptions,
+  "path" | "sameSite" | "secure"
+>;
+
+function getCookieSecurityOptions(req: Request): CookieSecurityOptions {
+  const secure = isSecureRequest(req);
+  return {
+    path: "/",
+    sameSite: secure ? "none" : "lax",
+    secure,
+  };
 }
 
 export function getSessionCookieOptions(
   req: Request
-): Pick<CookieOptions, "domain" | "httpOnly" | "path" | "sameSite" | "secure"> {
-  // const hostname = req.hostname;
-  // const shouldSetDomain =
-  //   hostname &&
-  //   !LOCAL_HOSTS.has(hostname) &&
-  //   !isIpAddress(hostname) &&
-  //   hostname !== "127.0.0.1" &&
-  //   hostname !== "::1";
-
-  // const domain =
-  //   shouldSetDomain && !hostname.startsWith(".")
-  //     ? `.${hostname}`
-  //     : shouldSetDomain
-  //       ? hostname
-  //       : undefined;
-
+): Pick<CookieOptions, "httpOnly" | "path" | "sameSite" | "secure"> {
   return {
+    ...getCookieSecurityOptions(req),
     httpOnly: true,
-    path: "/",
-    sameSite: "none",
-    secure: isSecureRequest(req),
   };
+}
+
+export function getOAuthStateCookieName(req: Request) {
+  return isSecureRequest(req) ? OAUTH_STATE_COOKIE : OAUTH_STATE_COOKIE_LOCAL;
+}
+
+export function getOAuthStateCookieOptions(
+  req: Request
+): CookieSecurityOptions {
+  return getCookieSecurityOptions(req);
 }
