@@ -1,4 +1,8 @@
-import { startLogin } from "@/const";
+import {
+  PREVIEW_SESSION_KEY,
+  RUNTIME_USER_INFO_KEY,
+  startLogin,
+} from "@/const";
 import { trpc } from "@/lib/trpc";
 import { TRPCClientError } from "@trpc/client";
 import { useCallback, useEffect, useMemo } from "react";
@@ -43,18 +47,34 @@ export function useAuth(options?: UseAuthOptions) {
       // header-based sessions (Safari ITP / WebView) are logged out too. The
       // backend cookie is cleared by the logout mutation.
       try {
-        sessionStorage.removeItem("manus-cookie");
+        sessionStorage.removeItem(PREVIEW_SESSION_KEY);
+      } catch {}
+      try {
+        localStorage.removeItem(RUNTIME_USER_INFO_KEY);
       } catch {}
       utils.auth.me.setData(undefined, null);
       await utils.auth.me.invalidate();
     }
   }, [logoutMutation, utils]);
 
+  useEffect(() => {
+    if (!meQuery.isFetched) return;
+
+    try {
+      if (meQuery.data) {
+        localStorage.setItem(
+          RUNTIME_USER_INFO_KEY,
+          JSON.stringify(meQuery.data)
+        );
+      } else {
+        localStorage.removeItem(RUNTIME_USER_INFO_KEY);
+      }
+    } catch {
+      // Storage can be disabled in private browsing or by a restrictive policy.
+    }
+  }, [meQuery.data, meQuery.isFetched]);
+
   const state = useMemo(() => {
-    localStorage.setItem(
-      "manus-runtime-user-info",
-      JSON.stringify(meQuery.data)
-    );
     return {
       user: meQuery.data ?? null,
       loading: meQuery.isLoading || logoutMutation.isPending,

@@ -1,10 +1,20 @@
-import { AXIOS_TIMEOUT_MS, COOKIE_NAME, ONE_YEAR_MS, decodeOAuthState } from "@shared/const";
-import { ForbiddenError } from "@shared/_core/errors";
+import {
+  AXIOS_TIMEOUT_MS,
+  COOKIE_NAME,
+  ONE_YEAR_MS,
+  decodeOAuthState,
+} from "@shared/const";
 import axios, { type AxiosInstance } from "axios";
 import { parse as parseCookieHeader } from "cookie";
 import type { Request } from "express";
 import { SignJWT, jwtVerify } from "jose";
 import type { User } from "../../drizzle/schema";
+import {
+  DatabaseUnavailableError,
+  InvalidSessionError,
+  OAuthServiceUnavailableError,
+  SessionConfigurationError,
+} from "../../shared/_core/errors";
 import * as db from "../db";
 import { ENV } from "./env";
 import type {
@@ -18,10 +28,15 @@ import type {
 const isNonEmptyString = (value: unknown): value is string =>
   typeof value === "string" && value.length > 0;
 
+function getConfiguredAppId() {
+  if (!ENV.appId) throw new SessionConfigurationError();
+  return ENV.appId;
+}
+
 export type SessionPayload = {
   openId: string;
   appId: string;
-  name: string;
+  name?: string;
 };
 
 const EXCHANGE_TOKEN_PATH = `/webdev.v1.WebDevAuthPublicService/ExchangeToken`;
@@ -30,7 +45,9 @@ const GET_USER_INFO_WITH_JWT_PATH = `/webdev.v1.WebDevAuthPublicService/GetUserI
 
 class OAuthService {
   constructor(private client: ReturnType<typeof axios.create>) {
-    console.log("[OAuth] Initialized with baseURL:", ENV.oAuthServerUrl);
+    console.log("[OAuth] Initialized", {
+      configured: Boolean(ENV.oAuthServerUrl),
+    });
     if (!ENV.oAuthServerUrl) {
       console.error(
         "[OAuth] ERROR: OAUTH_SERVER_URL is not configured! Set OAUTH_SERVER_URL environment variable."
@@ -47,7 +64,7 @@ class OAuthService {
     state: string
   ): Promise<ExchangeTokenResponse> {
     const payload: ExchangeTokenRequest = {
-      clientId: ENV.appId,
+      clientId: getConfiguredAppId(),
       grantType: "authorization_code",
       code,
       redirectUri: this.decodeState(state),
@@ -134,14 +151,14 @@ class SDKServer {
       accessToken,
     } as ExchangeTokenResponse);
     const loginMethod = this.deriveLoginMethod(
-      (data as any)?.platforms,
-      (data as any)?.platform ?? data.platform ?? null
+      data.platforms,
+      data.platform ?? data.loginMethod ?? null
     );
     return {
-      ...(data as any),
+      ...data,
       platform: loginMethod,
       loginMethod,
-    } as GetUserInfoResponse;
+    };
   }
 
   private parseCookies(cookieHeader: string | undefined) {
@@ -155,7 +172,12 @@ class SDKServer {
 
   private getSessionSecret() {
     const secret = ENV.cookieSecret;
+    if (!secret) throw new SessionConfigurationError();
     return new TextEncoder().encode(secret);
+  }
+
+  private getSessionAppId() {
+    return getConfiguredAppId();
   }
 
   /**
@@ -170,7 +192,7 @@ class SDKServer {
     return this.signSession(
       {
         openId,
-        appId: ENV.appId,
+        appId: this.getSessionAppId(),
         name: options.name || "",
       },
       options
@@ -189,7 +211,7 @@ class SDKServer {
     return new SignJWT({
       openId: payload.openId,
       appId: payload.appId,
-      name: payload.name,
+      name: payload.name ?? "",
     })
       .setProtectedHeader({ alg: "HS256", typ: "JWT" })
       .setExpirationTime(expirationSeconds)
@@ -199,12 +221,10 @@ class SDKServer {
   async verifySession(
     cookieValue: string | undefined | null
   ): Promise<{ openId: string; appId: string; name: string } | null> {
-    if (!cookieValue) {
-      console.warn("[Auth] Missing session cookie");
-      return null;
-    }
+    if (!cookieValue) return null;
 
     try {
+      const expectedAppId = this.getSessionAppId();
       const secretKey = this.getSessionSecret();
       const { payload } = await jwtVerify(cookieValue, secretKey, {
         algorithms: ["HS256"],
@@ -214,19 +234,20 @@ class SDKServer {
       if (
         !isNonEmptyString(openId) ||
         !isNonEmptyString(appId) ||
-        !isNonEmptyString(name)
+        appId !== expectedAppId
       ) {
-        console.warn("[Auth] Session payload missing required fields");
+        console.warn("[Auth] Session payload rejected");
         return null;
       }
 
       return {
         openId,
         appId,
-        name,
+        name: typeof name === "string" ? name : "",
       };
     } catch (error) {
-      console.warn("[Auth] Session verification failed", String(error));
+      if (error instanceof SessionConfigurationError) throw error;
+      console.warn("[Auth] Session verification failed");
       return null;
     }
   }
@@ -236,7 +257,7 @@ class SDKServer {
   ): Promise<GetUserInfoWithJwtResponse> {
     const payload: GetUserInfoWithJwtRequest = {
       jwtToken,
-      projectId: ENV.appId,
+      projectId: getConfiguredAppId(),
     };
 
     const { data } = await this.client.post<GetUserInfoWithJwtResponse>(
@@ -245,14 +266,14 @@ class SDKServer {
     );
 
     const loginMethod = this.deriveLoginMethod(
-      (data as any)?.platforms,
-      (data as any)?.platform ?? data.platform ?? null
+      data.platforms,
+      data.platform ?? data.loginMethod ?? null
     );
     return {
-      ...(data as any),
+      ...data,
       platform: loginMethod,
       loginMethod,
-    } as GetUserInfoWithJwtResponse;
+    };
   }
 
   async authenticateRequest(req: Request): Promise<AuthenticatedUser> {
@@ -265,22 +286,39 @@ class SDKServer {
     //    Safari ITP, private browsing, or iOS/Android WebView.
     if (!sessionToken) {
       const authHeader = req.headers.authorization;
-      if (typeof authHeader === "string" && authHeader.startsWith("Bearer ")) {
-        sessionToken = authHeader.slice(7);
+      const bearerMatch =
+        typeof authHeader === "string"
+          ? /^Bearer\s+(\S+)$/i.exec(authHeader)
+          : null;
+      if (bearerMatch) {
+        sessionToken = bearerMatch[1];
       }
     }
 
     const session = await this.verifySession(sessionToken);
 
     if (!session) {
-      throw ForbiddenError("Invalid session cookie");
+      throw new InvalidSessionError();
     }
 
     if (session.openId.startsWith(CRON_OPEN_ID_PREFIX)) {
-      const userInfo = await this.getUserInfoWithJwt(sessionToken ?? "");
-      const taskUid = userInfo.taskUid ?? null;
-      if (!taskUid) {
-        throw ForbiddenError("Cron session missing task_uid");
+      let userInfo: GetUserInfoWithJwtResponse;
+      try {
+        userInfo = await this.getUserInfoWithJwt(sessionToken ?? "");
+      } catch (error) {
+        if (error instanceof SessionConfigurationError) throw error;
+        console.error(
+          "[Auth] Cron OAuth lookup failed:",
+          error instanceof Error ? error.message : "Unknown OAuth error"
+        );
+        throw new OAuthServiceUnavailableError();
+      }
+
+      if (
+        userInfo.openId !== session.openId ||
+        !isNonEmptyString(userInfo.taskUid)
+      ) {
+        throw new InvalidSessionError();
       }
       return buildCronUser(userInfo);
     }
@@ -291,24 +329,37 @@ class SDKServer {
 
     // If user not in DB, sync from OAuth server automatically
     if (!user) {
+      let userInfo: GetUserInfoWithJwtResponse;
       try {
-        const userInfo = await this.getUserInfoWithJwt(sessionToken ?? "");
-        await db.upsertUser({
-          openId: userInfo.openId,
-          name: userInfo.name || null,
-          email: userInfo.email ?? null,
-          loginMethod: userInfo.loginMethod ?? userInfo.platform ?? null,
-          lastSignedIn: signedInAt,
-        });
-        user = await db.getUserByOpenId(userInfo.openId);
+        userInfo = await this.getUserInfoWithJwt(sessionToken ?? "");
       } catch (error) {
-        console.error("[Auth] Failed to sync user from OAuth:", error);
-        throw ForbiddenError("Failed to sync user info");
+        if (error instanceof SessionConfigurationError) throw error;
+        console.error(
+          "[Auth] OAuth user lookup failed:",
+          error instanceof Error ? error.message : "Unknown OAuth error"
+        );
+        throw new OAuthServiceUnavailableError();
       }
+
+      if (
+        userInfo.openId !== session.openId ||
+        !isNonEmptyString(userInfo.openId)
+      ) {
+        throw new InvalidSessionError();
+      }
+
+      await db.upsertUser({
+        openId: userInfo.openId,
+        name: userInfo.name || null,
+        email: userInfo.email ?? null,
+        loginMethod: userInfo.loginMethod ?? userInfo.platform ?? null,
+        lastSignedIn: signedInAt,
+      });
+      user = await db.getUserByOpenId(userInfo.openId);
     }
 
     if (!user) {
-      throw ForbiddenError("User not found");
+      throw new DatabaseUnavailableError();
     }
 
     await db.upsertUser({
